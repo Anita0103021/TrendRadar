@@ -1,54 +1,7 @@
 {
-  "generated_at": "2025-12-11T23:19:02.754983+08:00",
-  "total_titles_processed": 2161,
+  "generated_at": "2025-12-12T00:22:47.898168+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "马年",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马年春晚官宣",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            7,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 07时40分]"
-        },
-        {
-          "title": "马年春晚第一次官宣",
-          "url": "https://www.toutiao.com/trending/7581317336777211930/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            17,
-            25,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时32分 ~ 10时34分]"
-        },
-        {
-          "title": "2026 马年春晚官宣，你对今年的春晚有什么新期待？",
-          "url": "https://www.zhihu.com/question/1982137684974647108",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 06时27分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

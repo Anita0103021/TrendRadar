@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T17:27:04.478534+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-12-15T18:20:31.354267+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "老钱风穿搭承包新年高级感",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 09时12分]"
+        },
+        {
+          "title": "当软fufu新年睡衣主理人",
+          "url": "https://www.douyin.com/hot/2337057",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "德商银行：本周密集数据和事件或为新年的开始定下基调",

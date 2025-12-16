@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T05:16:50.491364+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-12-17T06:16:36.848249+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             10,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "新年也要穿出艺术感",
@@ -27,11 +28,12 @@
           "ranks": [
             8,
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 06时16分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T13:18:56.531789+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-12-16T14:25:18.361987+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             2,
             6,
             7,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 13时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 14时25分]"
         },
         {
           "title": "当软fufu新年睡衣主理人",

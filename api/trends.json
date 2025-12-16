@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T16:23:05.464950+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2025-12-16T17:22:09.406955+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新年也要穿出艺术感",
@@ -22,11 +22,12 @@
             17,
             13,
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 16时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 17时22分]"
         },
         {
           "title": "新年爆改毛茸茸",
@@ -34,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 17时22分]"
         },
         {
           "title": "当软fufu新年睡衣主理人",
@@ -53,6 +55,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时27分 ~ 12时32分]"
+        },
+        {
+          "title": "吴磊Burberry新年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8ABurberry%E6%96%B0%E5%B9%B4%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         }
       ]
     }

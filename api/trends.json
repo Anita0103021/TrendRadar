@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T16:23:18.143140+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2025-12-17T17:22:56.199821+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             11,
             12,
             16,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 16时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 17时22分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",

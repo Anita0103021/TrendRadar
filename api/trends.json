@@ -1,69 +1,7 @@
 {
-  "generated_at": "2025-12-17T23:18:15.029705+08:00",
-  "total_titles_processed": 2149,
+  "generated_at": "2025-12-18T00:21:29.695476+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "新年也要穿出艺术感",
-          "url": "https://www.douyin.com/hot/2337230",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 07时15分]"
-        },
-        {
-          "title": "新年爆改毛茸茸",
-          "url": "https://www.douyin.com/hot/2337879",
-          "source": "抖音",
-          "ranks": [
-            7,
-            10,
-            8,
-            11,
-            12,
-            16,
-            13,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 19时15分]"
-        },
-        {
-          "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
-          "url": "https://flash.jin10.com/detail/20251217031120622800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普将谈论未来展望，或许会预告新年政策。",
-          "url": "https://flash.jin10.com/detail/20251217030552131800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

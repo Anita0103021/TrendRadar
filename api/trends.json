@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T15:19:09.429987+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2025-12-18T16:22:15.962391+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 16时22分]"
         },
         {
           "title": "马年春晚吉祥物发布",
@@ -25,11 +25,23 @@
           "ranks": [
             2,
             7,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时30分 ~ 16时22分]"
+        },
+        {
+          "title": "马年春晚吉祥物发布",
+          "url": "https://www.douyin.com/hot/2339920",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 16时22分]"
         },
         {
           "title": "马年春晚吉祥物发布",
@@ -41,17 +53,6 @@
             7,
             19,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 15时19分]"
-        },
-        {
-          "title": "马年春晚吉祥物发布",
-          "url": "https://www.douyin.com/hot/2339920",
-          "source": "抖音",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 7,

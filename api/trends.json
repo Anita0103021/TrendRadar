@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:31:28.101930+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2025-12-18T22:18:21.674189+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时17分 ~ 17时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 22时18分]"
         },
         {
           "title": "马年春晚吉祥物发布",
@@ -69,6 +69,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "新年好运红我先穿上了",
+          "url": "https://www.douyin.com/hot/2340023",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时18分]"
+        },
+        {
           "title": "新年0翻车的礼盒大赏",
           "url": "https://www.douyin.com/hot/2340026",
           "source": "抖音",
@@ -80,18 +92,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时21分 ~ 20时31分]"
-        },
-        {
-          "title": "新年好运红我先穿上了",
-          "url": "https://www.douyin.com/hot/2340023",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时31分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",

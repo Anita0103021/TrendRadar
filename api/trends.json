@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T15:18:05.555593+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-12-19T16:22:11.154077+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             7,
             10,
             13,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 15时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "新年0翻车的礼盒大赏",

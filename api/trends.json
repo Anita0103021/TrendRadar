@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T11:12:16.545757+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2025-12-20T12:21:39.184923+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 12时21分]"
         },
         {
           "title": "美国国务卿鲁比奥：我们在苏丹的目标是停止敌对行动，并在新年之际达成人道主义停火。",

@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-20T09:06:30.134942+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2025-12-20T11:12:16.545757+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
       "match_count": 2,
       "titles": [
+        {
+          "title": "新年好运红我先穿上了",
+          "url": "https://www.douyin.com/hot/2340023",
+          "source": "抖音",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 11时12分]"
+        },
         {
           "title": "美国国务卿鲁比奥：我们在苏丹的目标是停止敌对行动，并在新年之际达成人道主义停火。",
           "url": "https://flash.jin10.com/detail/20251220004825108800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "新年好运红我先穿上了",
-          "url": "https://www.douyin.com/hot/2340023",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
         }
       ]
     }

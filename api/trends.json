@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:14:23.270293+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2025-12-20T16:19:30.860811+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "time_info": "[09时06分 ~ 13时15分]"
         },
         {
+          "title": "新年第一站暖在彭城间",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E7%AB%99%E6%9A%96%E5%9C%A8%E5%BD%AD%E5%9F%8E%E9%97%B4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时19分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：我们在苏丹的目标是停止敌对行动，并在新年之际达成人道主义停火。",
           "url": "https://flash.jin10.com/detail/20251220004825108800",
           "source": "金十数据",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "新年第一站暖在彭城间",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E7%AB%99%E6%9A%96%E5%9C%A8%E5%BD%AD%E5%9F%8E%E9%97%B4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         }
       ]
     }

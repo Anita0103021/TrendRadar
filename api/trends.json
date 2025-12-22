@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T14:26:45.041839+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-12-22T15:21:05.757660+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             22,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 15时21分]"
         },
         {
           "title": "经过数月的延误，英国旨在促进曼彻斯特、利兹和利物浦等城市经济增长的北方动力铁路计划将在新年公布其高级别细节。",
@@ -40,7 +41,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }

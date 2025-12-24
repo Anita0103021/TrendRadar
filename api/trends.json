@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T22:15:39.995021+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2025-12-24T23:16:35.199143+08:00",
+  "total_titles_processed": 1963,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马面裙才是马年的本命战袍",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%9D%A2%E8%A3%99%E6%89%8D%E6%98%AF%E9%A9%AC%E5%B9%B4%E7%9A%84%E6%9C%AC%E5%91%BD%E6%88%98%E8%A2%8D%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     }

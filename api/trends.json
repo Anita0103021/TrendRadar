@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T15:20:17.599431+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-12-24T16:22:15.427356+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普将于新年内某个时间宣布住房计划。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时23分]"
+        },
+        {
+          "title": "越南提议将2026年新年假期延长至4天（目前为1日），以促进旅游业和消费。",
+          "url": "https://flash.jin10.com/detail/20251224155835266800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     }

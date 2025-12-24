@@ -1,51 +1,22 @@
 {
-  "generated_at": "2025-12-24T23:16:35.199143+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2025-12-25T00:19:39.339557+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将于新年内某个时间宣布住房计划。",
-          "url": "https://flash.jin10.com/detail/20251224001032620800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时23分]"
-        },
-        {
-          "title": "越南提议将2026年新年假期延长至4天（目前为1日），以促进旅游业和消费。",
-          "url": "https://flash.jin10.com/detail/20251224155835266800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        }
-      ]
-    },
     {
       "keyword_group": "马年",
       "match_count": 1,
       "titles": [
         {
           "title": "马面裙才是马年的本命战袍",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%9D%A2%E8%A3%99%E6%89%8D%E6%98%AF%E9%A9%AC%E5%B9%B4%E7%9A%84%E6%9C%AC%E5%91%BD%E6%88%98%E8%A2%8D%23&t=31&band_rank=18&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%9D%A2%E8%A3%99%E6%89%8D%E6%98%AF%E9%A9%AC%E5%B9%B4%E7%9A%84%E6%9C%AC%E5%91%BD%E6%88%98%E8%A2%8D%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时16分"
+          "time_info": "00时19分"
         }
       ]
     }

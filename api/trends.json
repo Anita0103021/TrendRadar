@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-25T18:17:01.295882+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-12-25T19:14:09.994411+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
       "match_count": 3,
       "titles": [
+        {
+          "title": "养出新年好状态",
+          "url": "https://www.douyin.com/hot/2346989",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 19时14分]"
+        },
         {
           "title": "晒出新年开运三件套",
           "url": "https://www.douyin.com/hot/2346987",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时21分 ~ 18时17分]"
-        },
-        {
-          "title": "养出新年好状态",
-          "url": "https://www.douyin.com/hot/2346989",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 18时17分]"
         },
         {
           "title": "晒出我的新年送礼好物清单",

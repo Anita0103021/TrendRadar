@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T00:18:34.966932+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-27T01:13:58.655093+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         },
         {
           "title": "TF家族新年音乐会",
           "url": "https://www.douyin.com/hot/2348468",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
         }
       ]
     }

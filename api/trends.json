@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T19:14:48.634799+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-12-26T20:31:55.524127+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "养出新年好状态",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时14分 ~ 05时14分]"
+        },
+        {
+          "title": "TF家族新年音乐会",
+          "url": "https://www.douyin.com/hot/2348468",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T19:12:58.250617+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-27T20:28:53.494297+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "TF家族新年音乐会",
@@ -31,6 +31,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "同心共韵新年音乐会精彩上演",
+          "url": "https://www.douyin.com/hot/2349363",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "新年红色系美甲",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BA%A2%E8%89%B2%E7%B3%BB%E7%BE%8E%E7%94%B2&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     }

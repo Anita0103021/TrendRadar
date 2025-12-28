@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T14:23:23.492262+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2025-12-28T15:16:53.861975+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时16分]"
         },
         {
           "title": "查收易烊千玺的新年问候",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:29:11.328034+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2025-12-28T21:26:47.399820+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[12时40分 ~ 15时16分]"
         },
         {
+          "title": "2026 年，如果能够跨越古今，给任意一位人物送新年礼物，你会如何选择？",
+          "url": "https://www.zhihu.com/question/1987218893530478232",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时26分]"
+        },
+        {
           "title": "查收易烊千玺的新年问候",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E6%94%B6%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9A%84%E6%96%B0%E5%B9%B4%E9%97%AE%E5%80%99%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 12时40分]"
-        },
-        {
-          "title": "2026 年，如果能够跨越古今，给任意一位人物送新年礼物，你会如何选择？",
-          "url": "https://www.zhihu.com/question/1987218893530478232",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
         }
       ]
     }

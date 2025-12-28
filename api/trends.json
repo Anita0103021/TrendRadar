@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-28T13:20:10.404716+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2025-12-28T14:23:23.492262+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
       "match_count": 2,
       "titles": [
+        {
+          "title": "青春和新年一样快乐",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E6%98%A5%E5%92%8C%E6%96%B0%E5%B9%B4%E4%B8%80%E6%A0%B7%E5%BF%AB%E4%B9%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 14时23分]"
+        },
         {
           "title": "查收易烊千玺的新年问候",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E6%94%B6%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9A%84%E6%96%B0%E5%B9%B4%E9%97%AE%E5%80%99%23&t=31&band_rank=13&Refer=top",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 12时40分]"
-        },
-        {
-          "title": "青春和新年一样快乐",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E6%98%A5%E5%92%8C%E6%96%B0%E5%B9%B4%E4%B8%80%E6%A0%B7%E5%BF%AB%E4%B9%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
         }
       ]
     }

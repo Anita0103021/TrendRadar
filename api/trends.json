@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T19:13:26.573570+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-12-28T20:29:11.328034+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "青春和新年一样快乐",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 12时40分]"
+        },
+        {
+          "title": "2026 年，如果能够跨越古今，给任意一位人物送新年礼物，你会如何选择？",
+          "url": "https://www.zhihu.com/question/1987218893530478232",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
         }
       ]
     }

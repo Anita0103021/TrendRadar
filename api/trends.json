@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:34:36.116650+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2025-12-29T22:17:11.975629+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "青春和新年一样快乐",
@@ -23,6 +23,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时13分 ~ 18时19分]"
+        },
+        {
+          "title": "古特雷斯发表新年致辞：和平必须压倒一切",
+          "url": "https://flash.jin10.com/detail/20251229220247058800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "如何评价《南方周末》2026 新年献词？",

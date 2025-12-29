@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T17:25:17.934018+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-12-29T18:19:04.800616+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             25,
             16,
             18,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 16时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时13分 ~ 18时19分]"
         },
         {
           "title": "如何评价《南方周末》2026 新年献词？",
@@ -76,11 +77,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 18时19分]"
         }
       ]
     }

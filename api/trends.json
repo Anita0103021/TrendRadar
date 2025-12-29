@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-30T03:13:17.745761+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2025-12-30T04:18:16.460019+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "TF家族新年音乐会",
+          "url": "https://s.weibo.com/weibo?q=TF%E5%AE%B6%E6%97%8F%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

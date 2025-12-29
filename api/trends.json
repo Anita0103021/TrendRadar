@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T05:14:59.961166+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2025-12-30T06:15:41.967691+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "TF家族新年音乐会",
@@ -26,9 +26,37 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "王楚钦梁靖崑现身魏桥新年晚会",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A2%81%E9%9D%96%E5%B4%91%E7%8E%B0%E8%BA%AB%E9%AD%8F%E6%A1%A5%E6%96%B0%E5%B9%B4%E6%99%9A%E4%BC%9A&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "非遗传承里的马年祝福",
+          "url": "https://www.douyin.com/hot/2350588",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     }

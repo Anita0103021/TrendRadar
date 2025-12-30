@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T18:17:43.807843+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2025-12-30T19:15:13.011050+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "如何用电影台词说新年快乐",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%A8%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D%E8%AF%B4%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
+        },
         {
           "title": "普京新年前夕召开会议，总结俄乌前线战果",
           "url": "https://news.ifeng.com/c/8pV5vpFuMok",
@@ -17,6 +28,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "新年行情告终？投资者“获利了结”，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3762278",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "华为新年致辞出炉！孟晚舟：智能时代的新征程已经开启",
@@ -31,19 +55,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时24分 ~ 17时20分]"
-        },
-        {
-          "title": "新年行情告终？投资者“获利了结”，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3762278",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时17分]"
         },
         {
           "title": "这个新年被苹果市俘获",
@@ -78,6 +89,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "用照片交换你的新年愿望",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E7%85%A7%E7%89%87%E4%BA%A4%E6%8D%A2%E4%BD%A0%E7%9A%84%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "孟晚舟新年致辞谈华为战略方向",

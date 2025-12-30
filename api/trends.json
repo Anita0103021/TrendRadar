@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T17:20:48.607268+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-12-30T18:17:43.807843+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时24分 ~ 17时20分]"
+        },
+        {
+          "title": "新年行情告终？投资者“获利了结”，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3762278",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时17分]"
         },
         {
           "title": "这个新年被苹果市俘获",
@@ -65,18 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "新年行情告终？投资者“获利了结”，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3762278",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "孟晚舟新年致辞谈华为战略方向",

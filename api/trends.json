@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T05:15:37.392172+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-12-31T06:15:27.791798+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "快来接济公爷爷的新年祝福",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "如何用电影台词说新年快乐",
@@ -42,11 +42,12 @@
             25,
             18,
             23,
-            30
+            30,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "愿新年的阳光打在你的脸上",
@@ -56,11 +57,12 @@
             23,
             26,
             25,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "迪丽热巴2026新年愿望",
@@ -70,11 +72,12 @@
             18,
             12,
             13,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时15分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T02:23:44.022102+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2025-12-31T03:14:03.612488+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "快来接济公爷爷的新年祝福",
@@ -29,8 +29,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时14分]"
+        },
+        {
+          "title": "如何用电影台词说新年快乐",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%A8%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D%E8%AF%B4%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            27,
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "愿新年的阳光打在你的脸上",
@@ -42,21 +56,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
-        },
-        {
-          "title": "如何用电影台词说新年快乐",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%A8%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D%E8%AF%B4%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "迪丽热巴2026新年愿望",
@@ -67,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时14分]"
         }
       ]
     }

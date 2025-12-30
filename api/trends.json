@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T09:11:09.735250+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2025-12-30T11:24:25.177255+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "普京新年前夕召开会议，总结俄乌前线战果",
+          "url": "https://news.ifeng.com/c/8pV5vpFuMok",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
         {
           "title": "TF家族新年音乐会",
           "url": "https://s.weibo.com/weibo?q=TF%E5%AE%B6%E6%97%8F%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A&t=31&band_rank=29&Refer=top",
@@ -20,6 +31,28 @@
           "time_info": "[04时17分 ~ 05时14分]"
         },
         {
+          "title": "孟晚舟新年致辞谈华为战略方向",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA%E6%88%98%E7%95%A5%E6%96%B9%E5%90%91",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "谁还没有新年氛围感配饰",
+          "url": "https://www.douyin.com/hot/2350603",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "古特雷斯新年致辞呼吁各国领导人“选择人民和地球”",
           "url": "https://flash.jin10.com/detail/20251230042209023800",
           "source": "金十数据",
@@ -29,6 +62,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "华为发布新年致辞，孟晚舟：战略聚焦，以质取胜",
+          "url": "https://wallstreetcn.com/livenews/3028466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "在新年把烟台童话带回家",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%96%B0%E5%B9%B4%E6%8A%8A%E7%83%9F%E5%8F%B0%E7%AB%A5%E8%AF%9D%E5%B8%A6%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "国家主席习近平将发表二〇二六年新年贺词",
+          "url": "https://wallstreetcn.com/livenews/3028462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "王楚钦梁靖崑现身魏桥新年晚会",
@@ -52,11 +118,12 @@
           "url": "https://www.douyin.com/hot/2350588",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 11时24分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T12:35:14.023436+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2025-12-30T13:20:29.679139+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "普京新年前夕召开会议，总结俄乌前线战果",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "这个新年被苹果市俘获",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%96%B0%E5%B9%B4%E8%A2%AB%E8%8B%B9%E6%9E%9C%E5%B8%82%E4%BF%98%E8%8E%B7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 13时20分]"
         },
         {
           "title": "TF家族新年音乐会",
@@ -36,17 +47,6 @@
           "source": "今日头条",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "这个新年被苹果市俘获",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%96%B0%E5%B9%B4%E8%A2%AB%E8%8B%B9%E6%9E%9C%E5%B8%82%E4%BF%98%E8%8E%B7%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "孟晚舟新年致辞谈华为2026战略",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E6%99%9A%E8%88%9F%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%B0%88%E5%8D%8E%E4%B8%BA2026%E6%88%98%E7%95%A5%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "王楚钦梁靖崑现身魏桥新年晚会",

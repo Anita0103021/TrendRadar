@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T20:31:39.283090+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2025-12-30T21:33:19.758480+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 20时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 21时33分]"
         },
         {
           "title": "普京新年前夕召开会议，总结俄乌前线战果",
@@ -37,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时33分]"
         },
         {
           "title": "华为新年致辞出炉！孟晚舟：智能时代的新征程已经开启",
@@ -92,6 +93,17 @@
           "time_info": "[12时34分 ~ 12时35分]"
         },
         {
+          "title": "快来接济公爷爷的新年祝福",
+          "url": "https://www.douyin.com/hot/2352103",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时33分]"
+        },
+        {
           "title": "用照片交换你的新年愿望",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E7%85%A7%E7%89%87%E4%BA%A4%E6%8D%A2%E4%BD%A0%E7%9A%84%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B",
           "source": "bilibili 热搜",
@@ -123,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        },
-        {
-          "title": "快来接济公爷爷的新年祝福",
-          "url": "https://www.douyin.com/hot/2352103",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "古特雷斯新年致辞呼吁各国领导人“选择人民和地球”",

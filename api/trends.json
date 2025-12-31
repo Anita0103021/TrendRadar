@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-31T07:14:55.941675+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-12-31T09:12:10.757963+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "新年行情告终？投资者“获利了结”，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3762278",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时14分]"
-        },
         {
           "title": "快来接济公爷爷的新年祝福",
           "url": "https://www.douyin.com/hot/2352103",
@@ -27,11 +15,12 @@
             8,
             11,
             13,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时12分]"
         },
         {
           "title": "如何用电影台词说新年快乐",
@@ -45,11 +34,12 @@
             23,
             30,
             12,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时12分]"
         },
         {
           "title": "愿新年的阳光打在你的脸上",
@@ -61,7 +51,20 @@
             25,
             22,
             21,
-            20
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时12分]"
+        },
+        {
+          "title": "新年行情告终？投资者“获利了结”，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3762278",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -81,6 +84,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时16分 ~ 06时15分]"
+        },
+        {
+          "title": "【新年献词】直到风吹起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32281138",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
         }
       ]
     }

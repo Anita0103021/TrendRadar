@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T00:20:02.984280+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-01T01:14:11.964932+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "2026新年快乐",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "新年贺词",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "新年贺词点赞悟空哪吒",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -70,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "新年贺词点赞电影哪吒",
@@ -81,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "新年贺词金句来了",
@@ -92,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "2026新年贺词金句",
@@ -103,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "【新年献词】直到风吹起",
@@ -114,8 +114,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "2026新年贺词金句",
@@ -125,8 +125,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "新年快乐",
@@ -136,41 +136,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "许下你的2026新年愿望",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%B8%E4%B8%8B%E4%BD%A0%E7%9A%842026%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "新年贺词点赞哪吒",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E7%82%B9%E8%B5%9E%E5%93%AA%E5%90%92",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "新年贺词点赞电影哪吒",
           "url": "https://www.toutiao.com/trending/7589609395064471602/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "全抖音最抽象的新年祝福来了",
@@ -180,8 +183,69 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 01时14分]"
+        },
+        {
+          "title": "央视boys祝大家新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86boys%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "time_info": "[01时13分 ~ 01时14分]"
+        },
+        {
+          "title": "国家主席习近平发表二〇二六年新年贺词",
+          "url": "https://wallstreetcn.com/articles/3762391",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
+        },
+        {
+          "title": "T1祝大家新年快乐",
+          "url": "https://search.bilibili.com/all?keyword=T1%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
+        },
+        {
+          "title": "新年快乐图片",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E5%9B%BE%E7%89%87&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马年",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%B9%B4&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         }
       ]
     }

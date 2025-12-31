@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T16:22:17.496893+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-12-31T17:19:58.789005+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "【新年献词】直到风吹起",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时11分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时11分 ~ 17时19分]"
         },
         {
           "title": "快来接济公爷爷的新年祝福",
@@ -121,8 +121,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 17时19分]"
         },
         {
           "title": "全国政协举行新年茶话会 习近平发表重要讲话",
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 12时34分]"
+        },
+        {
+          "title": "新年开运妆已就位",
+          "url": "https://www.douyin.com/hot/2353191",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "新年愿望",
@@ -177,9 +188,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "给烟台的新年掌声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E7%83%9F%E5%8F%B0%E7%9A%84%E6%96%B0%E5%B9%B4%E6%8E%8C%E5%A3%B0%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
@@ -194,9 +216,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时19分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T20:31:22.096712+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2025-12-31T21:29:51.371292+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时11分 ~ 21时29分]"
         },
         {
           "title": "快来接济公爷爷的新年祝福",
@@ -118,8 +118,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时29分]"
+        },
+        {
+          "title": "国家主席习近平发表二〇二六年新年贺词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32292443",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时31分]"
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
+          "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
+          "url": "https://www.zhihu.com/question/1989772971334730023",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时29分]"
         },
         {
           "title": "迪丽热巴2026新年愿望",
@@ -138,14 +160,58 @@
         },
         {
           "title": "新年贺词点赞电影哪吒",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E7%82%B9%E8%B5%9E%E7%94%B5%E5%BD%B1%E5%93%AA%E5%90%92%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7589609395064471602/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时31分]"
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
+          "title": "新年贺词点赞哪吒",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E7%82%B9%E8%B5%9E%E5%93%AA%E5%90%92",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
+          "title": "新年贺词点赞悟空哪吒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E7%82%B9%E8%B5%9E%E6%82%9F%E7%A9%BA%E5%93%AA%E5%90%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
+          "title": "国家主席习近平发表二〇二六年新年贺词",
+          "url": "https://www.cls.cn/detail/2245766",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
+          "title": "新年贺词点赞电影哪吒",
+          "url": "https://www.douyin.com/hot/2353399",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时29分]"
         },
         {
           "title": "北京范儿新年祈福",
@@ -171,17 +237,6 @@
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32292443",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "国家主席习近平发表二〇二六年新年贺词",
           "url": "https://www.zhihu.com/theater/74689",
           "source": "知乎",
           "ranks": [
@@ -192,70 +247,18 @@
           "time_info": "19时15分"
         },
         {
-          "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
-          "url": "https://www.zhihu.com/question/1989772971334730023",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "新年贺词点赞电影哪吒",
-          "url": "https://www.toutiao.com/trending/7589609395064471602/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "新年贺词点赞哪吒",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E7%82%B9%E8%B5%9E%E5%93%AA%E5%90%92",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "新年贺词点赞悟空哪吒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E7%82%B9%E8%B5%9E%E6%82%9F%E7%A9%BA%E5%93%AA%E5%90%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "国家主席习近平发表二〇二六年新年贺词",
-          "url": "https://www.cls.cn/detail/2245766",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "新年贺词点赞电影哪吒",
-          "url": "https://www.douyin.com/hot/2353399",
+          "title": "新年开运妆已就位",
+          "url": "https://www.douyin.com/hot/2353191",
           "source": "抖音",
           "ranks": [
-            2
+            11,
+            8,
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 21时29分]"
         },
         {
           "title": "2026新年贺词金句",
@@ -264,7 +267,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -280,6 +283,18 @@
           "time_info": "19时15分"
         },
         {
+          "title": "新年贺词点赞电影哪吒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E7%82%B9%E8%B5%9E%E7%94%B5%E5%BD%B1%E5%93%AA%E5%90%92%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时29分]"
+        },
+        {
           "title": "向全国各族人民致以新年美好祝福",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E5%85%A8%E5%9B%BD%E5%90%84%E6%97%8F%E4%BA%BA%E6%B0%91%E8%87%B4%E4%BB%A5%E6%96%B0%E5%B9%B4%E7%BE%8E%E5%A5%BD%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -289,19 +304,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
-        },
-        {
-          "title": "新年开运妆已就位",
-          "url": "https://www.douyin.com/hot/2353191",
-          "source": "抖音",
-          "ranks": [
-            11,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 20时31分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -328,6 +330,29 @@
           "time_info": "[13时24分 ~ 14时25分]"
         },
         {
+          "title": "新年贺词金句来了",
+          "url": "https://www.toutiao.com/trending/7589124519115145222/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
+          "title": "2026新年贺词金句",
+          "url": "https://www.baidu.com/s?wd=2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%91%E5%8F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时29分]"
+        },
+        {
           "title": "中俄两国元首互致新年贺电",
           "url": "https://wallstreetcn.com/livenews/3029030",
           "source": "华尔街见闻-快讯",
@@ -338,17 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 12时34分]"
-        },
-        {
-          "title": "新年贺词金句来了",
-          "url": "https://www.toutiao.com/trending/7589124519115145222/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "新年愿望",
@@ -371,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "2026新年贺词金句",
-          "url": "https://www.baidu.com/s?wd=2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%91%E5%8F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "外交部发言人的2026年新年祝福来了",

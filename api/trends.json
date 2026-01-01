@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T02:22:52.086865+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-02T03:13:27.281103+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "新年首日中国空间站过境合集",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "CBA新年大战北京胜广东",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "这是大国重器奏响的新年乐章",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "新年快乐",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "地球村的朋友们新年快乐",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "新年宝宝叫“高兴” 小名“小元旦”",
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指新年首日涨超0.5%",
@@ -92,23 +92,12 @@
           "ranks": [
             5,
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
-        },
-        {
-          "title": "瑞士酒吧爆炸致重大伤亡，联邦主席取消新年致辞并宣布全国哀悼",
-          "url": "https://flash.jin10.com/detail/20260102002815608800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "新年总要看一场CBA",
@@ -116,11 +105,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "“要胜利”VS“不终结”，俄乌两国元首新年强硬表态为哪般",
@@ -130,8 +120,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
+        },
+        {
+          "title": "瑞士酒吧爆炸致重大伤亡，联邦主席取消新年致辞并宣布全国哀悼",
+          "url": "https://flash.jin10.com/detail/20260102002815608800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "time_info": "[01时15分 ~ 03时13分]"
         },
         {
           "title": "视频丨共同见证，天安门广场新年首场升旗仪式",
@@ -141,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "赖清德新年讲话再度兜售分裂谬论，国台办：“台独”必然败亡",
@@ -152,8 +155,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "蔡磊致渐冻症病友新年公开信：历史已经被改写，将抗争到最后一刻",
@@ -163,8 +166,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "洪秀柱新年“三期许”：立足台湾、胸怀大陆、放眼世界",
@@ -174,8 +177,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "“新年噩梦”，瑞士滑雪胜地发生火灾已致数十人死亡，当地医院已满员",
@@ -186,8 +189,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "「最快女护士」新年第一跑马拉松夺冠，获 1.5 万元奖金，她的水平有多强？",
@@ -197,8 +200,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "新年特辑 | 好喵漫画：新年愿望",
@@ -209,8 +212,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "新年开运妆已就位",
@@ -219,11 +222,12 @@
           "ranks": [
             20,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
         },
         {
           "title": "跨年的仪式感拍新年第一张合影",
@@ -234,8 +238,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 03时13分]"
+        },
+        {
+          "title": "《新闻联播》康辉李梓萌送上新年祝福",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E5%BA%B7%E8%BE%89%E6%9D%8E%E6%A2%93%E8%90%8C%E9%80%81%E4%B8%8A%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }

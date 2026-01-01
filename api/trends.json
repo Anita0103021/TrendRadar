@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T14:25:37.653769+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-01-01T15:19:22.434505+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时19分]"
         },
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时19分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时19分]"
         },
         {
           "title": "2026新年快乐",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时19分]"
         },
         {
           "title": "新年贺词点赞悟空哪吒",
@@ -120,18 +120,6 @@
           "time_info": "[00时19分 ~ 09时18分]"
         },
         {
-          "title": "许下你的2026新年愿望",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B8%E4%B8%8B%E4%BD%A0%E7%9A%842026%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 14时25分]"
-        },
-        {
           "title": "【新年献词】直到风吹起",
           "url": "https://m.thepaper.cn/newsDetail_forward_32281138",
           "source": "澎湃新闻",
@@ -141,6 +129,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "许下你的2026新年愿望",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%B8%E4%B8%8B%E4%BD%A0%E7%9A%842026%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时19分]"
         },
         {
           "title": "国家主席习近平发表二〇二六年新年贺词",
@@ -156,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时13分 ~ 14时25分]"
+          "appearance_count": 17,
+          "time_info": "[01时13分 ~ 15时19分]"
         },
         {
           "title": "新年贺词",
@@ -232,11 +233,35 @@
             30,
             18,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时12分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[03时12分 ~ 15时19分]"
+        },
+        {
+          "title": "这份硬核新年祝福 请查收",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%BD%E7%A1%AC%E6%A0%B8%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F+%E8%AF%B7%E6%9F%A5%E6%94%B6",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时19分]"
+        },
+        {
+          "title": "新年快乐",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时19分]"
         },
         {
           "title": "T1祝大家新年快乐",
@@ -268,15 +293,16 @@
           "time_info": "[01时13分 ~ 07时15分]"
         },
         {
-          "title": "这份硬核新年祝福 请查收",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%BD%E7%A1%AC%E6%A0%B8%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F+%E8%AF%B7%E6%9F%A5%E6%94%B6",
-          "source": "百度热搜",
+          "title": "金正恩向海外作战部队致新年贺电：朝俄同盟关系进一步巩固",
+          "url": "https://news.ifeng.com/c/8pYUWr5xv1O",
+          "source": "凤凰网",
           "ranks": [
-            3
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 15时19分]"
         },
         {
           "title": "天安门广场新年升旗仪式",
@@ -290,6 +316,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时18分 ~ 13时23分]"
+        },
+        {
+          "title": "泽连斯基新年致辞：我们不要“乌克兰的终结”",
+          "url": "https://news.ifeng.com/c/8pYH1UDlGSH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时19分]"
+        },
+        {
+          "title": "新年壁纸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%A3%81%E7%BA%B8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时19分]"
         },
         {
           "title": "新年第1天升国旗",
@@ -315,16 +364,18 @@
           "time_info": "[09时18分 ~ 11时46分]"
         },
         {
-          "title": "金正恩向海外作战部队致新年贺电：朝俄同盟关系进一步巩固",
-          "url": "https://news.ifeng.com/c/8pYUWr5xv1O",
-          "source": "凤凰网",
+          "title": "原来新年第一天有这么多讲究",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E8%AE%B2%E7%A9%B6&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
             6,
-            5
+            18,
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 15时19分]"
         },
         {
           "title": "普京新年贺词：相信我们终将胜利",
@@ -360,38 +411,44 @@
           "time_info": "09时18分"
         },
         {
-          "title": "泽连斯基新年致辞：我们不要“乌克兰的终结”",
-          "url": "https://news.ifeng.com/c/8pYH1UDlGSH",
-          "source": "凤凰网",
+          "title": "新年宝宝叫“高兴” 小名“小元旦”",
+          "url": "https://www.toutiao.com/trending/7590112437576207891/",
+          "source": "今日头条",
           "ranks": [
-            7
+            8,
+            7,
+            22,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时25分]"
+          "time_info": "[11时46分 ~ 15时19分]"
         },
         {
-          "title": "新年壁纸",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%A3%81%E7%BA%B8%23&t=31&band_rank=5&Refer=top",
+          "title": "视频丨共同见证，天安门广场新年首场升旗仪式",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32296564",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时19分]"
+        },
+        {
+          "title": "新年新头像",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E6%96%B0%E5%A4%B4%E5%83%8F&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时25分]"
-        },
-        {
-          "title": "新年快乐",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
+            24,
+            20,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时25分]"
+          "time_info": "[12时43分 ~ 15时19分]"
         },
         {
           "title": "全抖音最抽象的新年祝福来了",
@@ -404,20 +461,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "原来新年第一天有这么多讲究",
-          "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E8%AE%B2%E7%A9%B6&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            18,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 14时25分]"
         },
         {
           "title": "普京新年贺词：相信我们终将胜利",
@@ -446,17 +489,16 @@
           "time_info": "[09时18分 ~ 13时23分]"
         },
         {
-          "title": "新年宝宝叫“高兴” 小名“小元旦”",
-          "url": "https://www.toutiao.com/trending/7590112437576207891/",
-          "source": "今日头条",
+          "title": "震撼集结！“陆地航母”新年启程",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%87%E6%92%BC%E9%9B%86%E7%BB%93%EF%BC%81%E2%80%9C%E9%99%86%E5%9C%B0%E8%88%AA%E6%AF%8D%E2%80%9D%E6%96%B0%E5%B9%B4%E5%90%AF%E7%A8%8B",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            7,
-            22
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时46分 ~ 13时23分]"
+          "time_info": "[14时25分 ~ 15时19分]"
         },
         {
           "title": "大美中国！直击全国多地新年日出",
@@ -472,17 +514,15 @@
           "time_info": "[09时18分 ~ 12时43分]"
         },
         {
-          "title": "视频丨共同见证，天安门广场新年首场升旗仪式",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32296564",
-          "source": "澎湃新闻",
+          "title": "地球村的朋友们新年快乐",
+          "url": "https://www.douyin.com/hot/2354069",
+          "source": "抖音",
           "ranks": [
-            15,
-            13,
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时25分]"
+          "time_info": "[14时25分 ~ 15时19分]"
         },
         {
           "title": "金正恩向海外作战部队致新年贺电",
@@ -498,17 +538,49 @@
           "time_info": "[11时46分 ~ 13时23分]"
         },
         {
-          "title": "新年新头像",
-          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E6%96%B0%E5%A4%B4%E5%83%8F&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "女生高喊新年愿望：希望台湾回归",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E5%96%8A%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%BD%92",
+          "source": "百度热搜",
           "ranks": [
-            24,
-            20,
-            30
+            28,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时25分]"
+          "time_info": "[14时25分 ~ 15时19分]"
+        },
+        {
+          "title": "赖清德新年讲话再度兜售分裂谬论，国台办：“台独”必然败亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32298722",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
+        },
+        {
+          "title": "跨年的仪式感拍新年第一张合影",
+          "url": "https://www.douyin.com/hot/2354059",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
+        },
+        {
+          "title": "2026的新年祝福",
+          "url": "https://s.weibo.com/weibo?q=%232026%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "新年祝福",
@@ -531,28 +603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "震撼集结！“陆地航母”新年启程",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%87%E6%92%BC%E9%9B%86%E7%BB%93%EF%BC%81%E2%80%9C%E9%99%86%E5%9C%B0%E8%88%AA%E6%AF%8D%E2%80%9D%E6%96%B0%E5%B9%B4%E5%90%AF%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "地球村的朋友们新年快乐",
-          "url": "https://www.douyin.com/hot/2354069",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
         },
         {
           "title": "泽连斯基新年致辞：我们不要“乌克兰的终结”",
@@ -665,17 +715,6 @@
           "time_info": "11时46分"
         },
         {
-          "title": "女生高喊新年愿望：希望台湾回归",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E5%96%8A%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B%EF%BC%9A%E5%B8%8C%E6%9C%9B%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%BD%92",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
           "title": "成都市民用升国旗仪式迎接新年",
           "url": "https://www.toutiao.com/trending/7590170642571051035/",
           "source": "今日头条",
@@ -693,7 +732,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }

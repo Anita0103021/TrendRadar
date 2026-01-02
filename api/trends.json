@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T22:16:15.420674+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-01-02T23:17:05.453118+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时12分 ~ 22时16分]"
+          "appearance_count": 17,
+          "time_info": "[09时12分 ~ 23时17分]"
         },
         {
           "title": "这是大国重器奏响的新年乐章",
@@ -65,19 +65,6 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
-          "title": "接好运!王祖贤祝你新年行大运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348637&amp;topic_name=%E6%8E%A5%E5%A5%BD%E8%BF%90%21%E7%8E%8B%E7%A5%96%E8%B4%A4%E7%A5%9D%E4%BD%A0%E6%96%B0%E5%B9%B4%E8%A1%8C%E5%A4%A7%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时36分 ~ 22时16分]"
-        },
-        {
           "title": "“要胜利”VS“不终结”，俄乌两国元首新年强硬表态为哪般",
           "url": "https://news.ifeng.com/c/8pZFz9R5ktr",
           "source": "凤凰网",
@@ -88,6 +75,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 13时21分]"
+        },
+        {
+          "title": "接好运!王祖贤祝你新年行大运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348637&amp;topic_name=%E6%8E%A5%E5%A5%BD%E8%BF%90%21%E7%8E%8B%E7%A5%96%E8%B4%A4%E7%A5%9D%E4%BD%A0%E6%96%B0%E5%B9%B4%E8%A1%8C%E5%A4%A7%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时36分 ~ 23时17分]"
         },
         {
           "title": "CBA新年大战北京胜广东",
@@ -140,6 +141,20 @@
           "time_info": "[09时12分 ~ 16时22分]"
         },
         {
+          "title": "金与正带两小孩亮相朝鲜新年活动",
+          "url": "https://www.toutiao.com/trending/7590678233687789083/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            11,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时19分 ~ 23时17分]"
+        },
+        {
           "title": "金正恩新年携妻女参谒锦绣山太阳宫",
           "url": "https://news.ifeng.com/c/8paQT5jyFUc",
           "source": "凤凰网",
@@ -147,8 +162,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[15时20分 ~ 23时17分]"
         },
         {
           "title": "新年总要看一场CBA",
@@ -170,8 +185,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时20分 ~ 22时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 23时17分]"
         },
         {
           "title": "“新年噩梦”，瑞士滑雪胜地发生火灾已致数十人死亡，当地医院已满员",
@@ -198,6 +213,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时20分 ~ 14时25分]"
+        },
+        {
+          "title": "绝区零叶瞬光真人版新年贺片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8F%B6%E7%9E%AC%E5%85%89%E7%9C%9F%E4%BA%BA%E7%89%88%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            15,
+            14,
+            25,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时25分 ~ 23时17分]"
         },
         {
           "title": "蔡磊致渐冻症病友新年公开信：历史已经被改写，将抗争到最后一刻",
@@ -288,6 +320,17 @@
           "time_info": "[11时26分 ~ 15时20分]"
         },
         {
+          "title": "坚守绘就新年温暖底色",
+          "url": "https://www.toutiao.com/trending/7590214629734744106/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时17分]"
+        },
+        {
           "title": "视频丨共同见证，天安门广场新年首场升旗仪式",
           "url": "https://m.thepaper.cn/newsDetail_forward_32296564",
           "source": "澎湃新闻",
@@ -298,20 +341,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "金与正带两小孩亮相朝鲜新年活动",
-          "url": "https://www.toutiao.com/trending/7590678233687789083/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            11,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时19分 ~ 22时16分]"
         },
         {
           "title": "洪秀柱新年“三期许”：立足台湾、胸怀大陆、放眼世界",
@@ -340,34 +369,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "绝区零叶瞬光真人版新年贺片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8F%B6%E7%9E%AC%E5%85%89%E7%9C%9F%E4%BA%BA%E7%89%88%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            15,
-            14,
-            25,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时25分 ~ 20时31分]"
-        },
-        {
-          "title": "坚守绘就新年温暖底色",
-          "url": "https://www.toutiao.com/trending/7590214629734744106/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时16分]"
         },
         {
           "title": "新年首个交易日，恒科涨超3%，壁仞科技一度涨近120%，百度大涨7%，人民币继续走强",
@@ -413,6 +414,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时21分 ~ 18时16分]"
+        },
+        {
+          "title": "蓝营表示期待两岸新年“和平和解”",
+          "url": "https://www.toutiao.com/trending/7589962121815965759/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
         },
         {
           "title": "俄乌两国元首新年强硬表态为哪般",
@@ -654,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "美股新年开门红 纳指开涨超1%",
+          "url": "https://flash.jin10.com/detail/20260102223027686800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "蔚来李斌新年全员信：即将迎来第100万辆量产车，2026年将加大下沉市场布局",

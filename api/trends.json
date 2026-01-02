@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:16:46.547562+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-01-02T19:14:53.575135+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 18时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 19时14分]"
+        },
+        {
+          "title": "新年第一天，中国仗义执言很火大",
+          "url": "https://news.ifeng.com/c/8pZwfQHXmTL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 19时14分]"
         },
         {
           "title": "这是大国重器奏响的新年乐章",
@@ -43,17 +54,6 @@
           "time_info": "[00时20分 ~ 11时26分]"
         },
         {
-          "title": "新年第一天，中国仗义执言很火大",
-          "url": "https://news.ifeng.com/c/8pZwfQHXmTL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 18时16分]"
-        },
-        {
           "title": "新年首日中国空间站过境合集",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E9%A6%96%E6%97%A5%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%BF%87%E5%A2%83%E5%90%88%E9%9B%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -75,6 +75,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 13时21分]"
+        },
+        {
+          "title": "接好运!王祖贤祝你新年行大运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348637&amp;topic_name=%E6%8E%A5%E5%A5%BD%E8%BF%90%21%E7%8E%8B%E7%A5%96%E8%B4%A4%E7%A5%9D%E4%BD%A0%E6%96%B0%E5%B9%B4%E8%A1%8C%E5%A4%A7%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 19时14分]"
         },
         {
           "title": "CBA新年大战北京胜广东",
@@ -115,17 +127,6 @@
           "time_info": "[00时20分 ~ 14时25分]"
         },
         {
-          "title": "接好运!王祖贤祝你新年行大运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348637&amp;topic_name=%E6%8E%A5%E5%A5%BD%E8%BF%90%21%E7%8E%8B%E7%A5%96%E8%B4%A4%E7%A5%9D%E4%BD%A0%E6%96%B0%E5%B9%B4%E8%A1%8C%E5%A4%A7%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 18时16分]"
-        },
-        {
           "title": "全球各地举办跨年活动，多位领导人发表新年致辞",
           "url": "https://news.ifeng.com/c/8pZtBapXVDY",
           "source": "凤凰网",
@@ -156,8 +157,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 18时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 19时14分]"
         },
         {
           "title": "“新年噩梦”，瑞士滑雪胜地发生火灾已致数十人死亡，当地医院已满员",
@@ -171,8 +172,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 18时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 19时14分]"
         },
         {
           "title": "赖清德新年讲话再度兜售分裂谬论，国台办：“台独”必然败亡",
@@ -359,17 +360,6 @@
           "time_info": "[13时21分 ~ 18时16分]"
         },
         {
-          "title": "金与正带两小孩亮相朝鲜新年活动",
-          "url": "https://www.toutiao.com/trending/7590678233687789083/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时16分]"
-        },
-        {
           "title": "俄乌两国元首新年强硬表态为哪般",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E6%96%B0%E5%B9%B4%E5%BC%BA%E7%A1%AC%E8%A1%A8%E6%80%81%E4%B8%BA%E5%93%AA%E8%88%AC",
           "source": "百度热搜",
@@ -382,6 +372,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时26分 ~ 16时22分]"
+        },
+        {
+          "title": "绝区零叶瞬光真人版新年贺片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8F%B6%E7%9E%AC%E5%85%89%E7%9C%9F%E4%BA%BA%E7%89%88%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            15,
+            14,
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 19时14分]"
         },
         {
           "title": "脑子跟不上嘴新年版挑战",
@@ -415,41 +421,27 @@
           "time_info": "[01时15分 ~ 05时15分]"
         },
         {
-          "title": "海南岛内三大机场新年第一天运送旅客16.95万人次",
-          "url": "https://wallstreetcn.com/livenews/3029808",
-          "source": "华尔街见闻-快讯",
+          "title": "金正恩新年携妻女参谒锦绣山太阳宫",
+          "url": "https://news.ifeng.com/c/8paQT5jyFUc",
+          "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "请揭秘你的2026新年启示",
-          "url": "https://www.douyin.com/hot/2354031",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "绝区零叶瞬光真人版新年贺片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8F%B6%E7%9E%AC%E5%85%89%E7%9C%9F%E4%BA%BA%E7%89%88%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            15,
-            14,
-            25
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时25分 ~ 18时16分]"
+          "time_info": "[15时20分 ~ 19时14分]"
+        },
+        {
+          "title": "金与正带两小孩亮相朝鲜新年活动",
+          "url": "https://www.toutiao.com/trending/7590678233687789083/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时14分]"
         },
         {
           "title": "金正恩携妻女出席朝鲜新年庆祝演出",
@@ -465,17 +457,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时12分 ~ 14时25分]"
-        },
-        {
-          "title": "金正恩新年携妻女参谒锦绣山太阳宫",
-          "url": "https://news.ifeng.com/c/8paQT5jyFUc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时16分]"
         },
         {
           "title": "朝鲜举行新年庆祝演出",
@@ -500,6 +481,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时12分]"
+        },
+        {
+          "title": "海南岛内三大机场新年第一天运送旅客16.95万人次",
+          "url": "https://wallstreetcn.com/livenews/3029808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
+        },
+        {
+          "title": "请揭秘你的2026新年启示",
+          "url": "https://www.douyin.com/hot/2354031",
+          "source": "抖音",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "新年第一天 中国仗义执言很火大",

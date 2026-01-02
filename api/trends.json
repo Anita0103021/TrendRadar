@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T12:36:36.461829+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-01-02T13:21:30.541869+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "听完国家主席习近平发表的二〇二六年新年贺词，你有怎样的感触？对于自己的二〇二六年有什么期待？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时21分]"
         },
         {
           "title": "这是大国重器奏响的新年乐章",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时21分]"
         },
         {
           "title": "新年首日中国空间站过境合集",
@@ -73,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时21分]"
         },
         {
           "title": "CBA新年大战北京胜广东",
@@ -114,11 +114,12 @@
             9,
             5,
             12,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时21分]"
         },
         {
           "title": "“新年噩梦”，瑞士滑雪胜地发生火灾已致数十人死亡，当地医院已满员",
@@ -131,8 +132,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时21分]"
         },
         {
           "title": "赖清德新年讲话再度兜售分裂谬论，国台办：“台独”必然败亡",
@@ -142,8 +143,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时21分]"
         },
         {
           "title": "蔡磊致渐冻症病友新年公开信：历史已经被改写，将抗争到最后一刻",
@@ -153,8 +154,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时21分]"
         },
         {
           "title": "新年开运妆已就位",
@@ -173,8 +174,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 13时21分]"
+        },
+        {
+          "title": "跨年的仪式感拍新年第一张合影",
+          "url": "https://www.douyin.com/hot/2354059",
+          "source": "抖音",
+          "ranks": [
+            26,
+            29,
+            25,
+            28,
+            23,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 13时21分]"
         },
         {
           "title": "新年特辑 | 好喵漫画：新年愿望",
@@ -214,6 +232,17 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "新年第一天，中国仗义执言很火大",
+          "url": "https://news.ifeng.com/c/8pZwfQHXmTL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 13时21分]"
+        },
+        {
           "title": "洪秀柱新年“三期许”：立足台湾、胸怀大陆、放眼世界",
           "url": "https://news.ifeng.com/c/8pZ5PqrODBk",
           "source": "凤凰网",
@@ -225,20 +254,15 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
-          "title": "跨年的仪式感拍新年第一张合影",
-          "url": "https://www.douyin.com/hot/2354059",
-          "source": "抖音",
+          "title": "全球各地举办跨年活动，多位领导人发表新年致辞",
+          "url": "https://news.ifeng.com/c/8pZtBapXVDY",
+          "source": "凤凰网",
           "ranks": [
-            26,
-            29,
-            25,
-            28,
-            23,
-            15
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 13时21分]"
         },
         {
           "title": "中东股市收盘播报｜沙特股指新年首日涨超0.5%",
@@ -258,28 +282,6 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
-          "title": "新年第一天，中国仗义执言很火大",
-          "url": "https://news.ifeng.com/c/8pZwfQHXmTL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时36分]"
-        },
-        {
-          "title": "全球各地举办跨年活动，多位领导人发表新年致辞",
-          "url": "https://news.ifeng.com/c/8pZtBapXVDY",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时36分]"
-        },
-        {
           "title": "星河映征途 新年皆坦途",
           "url": "https://www.toutiao.com/trending/7590181958933315647/",
           "source": "今日头条",
@@ -287,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "接好运!王祖贤祝你新年行大运",
@@ -297,9 +299,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
         },
         {
           "title": "瑞士酒吧爆炸致重大伤亡，联邦主席取消新年致辞并宣布全国哀悼",
@@ -315,6 +317,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 05时15分]"
+        },
+        {
+          "title": "朱广权2026新年祝福 一如既往地押韵",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E5%B9%BF%E6%9D%832026%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F+%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E5%9C%B0%E6%8A%BC%E9%9F%B5",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "朝鲜举行新年庆祝演出",
@@ -347,11 +360,12 @@
           "ranks": [
             29,
             7,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 13时21分]"
         },
         {
           "title": "金正恩携妻女出席朝鲜新年庆祝演出",
@@ -360,11 +374,63 @@
           "ranks": [
             20,
             18,
-            16
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 13时21分]"
+        },
+        {
+          "title": "金正恩携家人出席新年庆祝演出",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E6%AD%A3%E6%81%A9%E6%90%BA%E5%AE%B6%E4%BA%BA%E5%87%BA%E5%B8%AD%E6%96%B0%E5%B9%B4%E5%BA%86%E7%A5%9D%E6%BC%94%E5%87%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时36分]"
+          "time_info": "[11时26分 ~ 13时21分]"
+        },
+        {
+          "title": "俄乌两国元首新年强硬表态为哪般",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E6%96%B0%E5%B9%B4%E5%BC%BA%E7%A1%AC%E8%A1%A8%E6%80%81%E4%B8%BA%E5%93%AA%E8%88%AC",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
+        },
+        {
+          "title": "请查收2026明星新年祝福",
+          "url": "https://www.douyin.com/hot/2354376",
+          "source": "抖音",
+          "ranks": [
+            25,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
+        },
+        {
+          "title": "脑子跟不上嘴新年版挑战",
+          "url": "https://www.douyin.com/hot/2354094",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "《新闻联播》康辉李梓萌送上新年祝福",
@@ -379,62 +445,16 @@
           "time_info": "[03时13分 ~ 04时18分]"
         },
         {
-          "title": "金正恩携家人出席新年庆祝演出",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E6%AD%A3%E6%81%A9%E6%90%BA%E5%AE%B6%E4%BA%BA%E5%87%BA%E5%B8%AD%E6%96%B0%E5%B9%B4%E5%BA%86%E7%A5%9D%E6%BC%94%E5%87%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
-        },
-        {
-          "title": "请查收2026明星新年祝福",
-          "url": "https://www.douyin.com/hot/2354376",
-          "source": "抖音",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
-        },
-        {
-          "title": "俄乌两国元首新年强硬表态为哪般",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E6%96%B0%E5%B9%B4%E5%BC%BA%E7%A1%AC%E8%A1%A8%E6%80%81%E4%B8%BA%E5%93%AA%E8%88%AC",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
-        },
-        {
-          "title": "脑子跟不上嘴新年版挑战",
-          "url": "https://www.douyin.com/hot/2354094",
-          "source": "抖音",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
-        },
-        {
           "title": "新年首个交易日，恒科涨超3%，壁仞科技一度涨近120%，百度大涨7%，人民币继续走强",
           "url": "https://wallstreetcn.com/articles/3762444",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时21分]"
         },
         {
           "title": "油价新年开局企稳 市场聚焦欧佩克+会议和委内瑞拉局势",
@@ -454,7 +474,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },

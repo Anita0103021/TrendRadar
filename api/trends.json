@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-03T01:14:45.635917+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-01-03T02:22:42.192715+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "新年第一天，中国仗义执言很火大",
-          "url": "https://news.ifeng.com/c/8pZwfQHXmTL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
-        },
         {
           "title": "坚守绘就新年温暖底色",
           "url": "https://www.toutiao.com/trending/7590214629734744106/",
@@ -26,15 +15,27 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "蓝营表示期待两岸新年“和平和解”",
           "url": "https://www.toutiao.com/trending/7589962121815965759/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
+        },
+        {
+          "title": "新年第一天，中国仗义执言很火大",
+          "url": "https://news.ifeng.com/c/8pZwfQHXmTL",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "接好运!王祖贤祝你新年行大运",
@@ -59,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "绝区零叶瞬光真人版新年贺片",
@@ -70,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "新年总要看一场CBA",
@@ -82,8 +83,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "金与正带两小孩亮相朝鲜新年活动",
@@ -94,19 +95,31 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "美国联邦调查局：已成功挫败一起疑似受极端组织“伊斯兰国”煽动、计划于北卡罗来纳州实施的新年前夜袭击图谋。",
           "url": "https://flash.jin10.com/detail/20260103002616382800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时22分]"
+        },
+        {
+          "title": "法意西希四国主权债收益率新年首日至少涨约5个基点",
+          "url": "https://wallstreetcn.com/livenews/3029897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "02时22分"
         },
         {
           "title": "金正恩携家人出席新年庆祝演出",
@@ -115,7 +128,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -126,7 +139,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         }

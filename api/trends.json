@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T06:15:55.141597+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-01-03T07:14:58.150771+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "坚守绘就新年温暖底色",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
+        },
+        {
+          "title": "金正恩新年携妻女参谒锦绣山太阳宫",
+          "url": "https://news.ifeng.com/c/8paQT5jyFUc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "蓝营表示期待两岸新年“和平和解”",
@@ -33,17 +44,6 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
-          "title": "金正恩新年携妻女参谒锦绣山太阳宫",
-          "url": "https://news.ifeng.com/c/8paQT5jyFUc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
           "title": "接好运!王祖贤祝你新年行大运",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348637&amp;topic_name=%E6%8E%A5%E5%A5%BD%E8%BF%90%21%E7%8E%8B%E7%A5%96%E8%B4%A4%E7%A5%9D%E4%BD%A0%E6%96%B0%E5%B9%B4%E8%A1%8C%E5%A4%A7%E8%BF%90",
           "source": "贴吧",
@@ -51,8 +51,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
+        },
+        {
+          "title": "绝区零叶瞬光真人版新年贺片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8F%B6%E7%9E%AC%E5%85%89%E7%9C%9F%E4%BA%BA%E7%89%88%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "新年总要看一场CBA",
@@ -65,19 +77,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
-        },
-        {
-          "title": "绝区零叶瞬光真人版新年贺片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8F%B6%E7%9E%AC%E5%85%89%E7%9C%9F%E4%BA%BA%E7%89%88%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "金与正带两小孩亮相朝鲜新年活动",
@@ -89,8 +90,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "新年第一天，中国仗义执言很火大",
@@ -115,8 +116,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时14分]"
         },
         {
           "title": "法意西希四国主权债收益率新年首日至少涨约5个基点",
@@ -137,22 +138,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 07时14分]"
         },
         {
           "title": "金正恩携妻女出席新年活动",
           "url": "https://www.douyin.com/hot/2354861",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "胡塞武装新年呼吁理性",
+          "url": "https://www.douyin.com/hot/2354852",
+          "source": "抖音",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时15分"
+          "time_info": "07时14分"
         },
         {
           "title": "蔡磊2026新年公开信",

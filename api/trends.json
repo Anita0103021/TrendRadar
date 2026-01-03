@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T16:20:23.000821+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-01-03T17:16:01.144972+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "坚守绘就新年温暖底色",
@@ -54,8 +54,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 16时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 17时16分]"
         },
         {
           "title": "绝区零叶瞬光真人版新年贺片",
@@ -70,8 +70,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 16时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 17时16分]"
         },
         {
           "title": "新年总要看一场CBA",
@@ -141,6 +141,17 @@
           "time_info": "[01时14分 ~ 07时14分]"
         },
         {
+          "title": "新年伊始神州大地活力涌动",
+          "url": "https://www.douyin.com/hot/2356196",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
           "title": "中方的第一个新年访客为何是李在明",
           "url": "https://www.toutiao.com/trending/7590942656314740260/",
           "source": "今日头条",
@@ -185,6 +196,18 @@
           "time_info": "[09时08分 ~ 15时15分]"
         },
         {
+          "title": "新年和朋友见面的正确方式",
+          "url": "https://www.douyin.com/hot/2355756",
+          "source": "抖音",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 17时16分]"
+        },
+        {
           "title": "中概指数新年首日收涨约4.4%，KWEB涨超4.6%，CQQQ涨约4.5%，百度涨15%，小马智行涨超10.8%",
           "url": "https://wallstreetcn.com/livenews/3029931",
           "source": "华尔街见闻-快讯",
@@ -213,17 +236,6 @@
           "time_info": "[11时18分 ~ 13时17分]"
         },
         {
-          "title": "新年和朋友见面的正确方式",
-          "url": "https://www.douyin.com/hot/2355756",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时15分]"
-        },
-        {
           "title": "法意西希四国主权债收益率新年首日至少涨约5个基点",
           "url": "https://wallstreetcn.com/livenews/3029897",
           "source": "华尔街见闻-快讯",
@@ -247,6 +259,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 11时18分]"
+        },
+        {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "金正恩携妻女出席新年活动",

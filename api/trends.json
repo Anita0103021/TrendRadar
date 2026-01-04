@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T00:18:27.605796+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-05T01:14:00.621459+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新年首个工作日 中纪委连打4“虎”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "前瞻｜韩总统李在明新年首访中国，外界期待“与尹锡悦不同”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
         },
         {
           "title": "马杜罗被抓后首次发声：新年快乐",
@@ -48,8 +48,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "【社论】“新年第一会”，跑出上海加速度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310359",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
         }
       ]
     }

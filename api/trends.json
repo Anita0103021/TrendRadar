@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T22:14:15.360931+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-01-04T23:15:07.729206+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时15分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[17时15分 ~ 23时15分]"
         },
         {
           "title": "前瞻｜韩总统李在明新年首访中国，外界期待“与尹锡悦不同”",
@@ -45,8 +45,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时17分 ~ 22时14分]"
+          "appearance_count": 14,
+          "time_info": "[15时17分 ~ 23时15分]"
+        },
+        {
+          "title": "新年首个工作日 中纪委连打4“虎”",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5+%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%934%E2%80%9C%E8%99%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时28分 ~ 23时15分]"
         },
         {
           "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
@@ -76,8 +88,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时46分 ~ 22时14分]"
+          "appearance_count": 18,
+          "time_info": "[11时46分 ~ 23时15分]"
         },
         {
           "title": "接好运!王祖贤祝你新年行大运",
@@ -99,6 +111,20 @@
           "time_info": "[00时18分 ~ 18时15分]"
         },
         {
+          "title": "张桂源张函瑞新年第一个双人cha",
+          "url": "https://www.douyin.com/hot/2356528",
+          "source": "抖音",
+          "ranks": [
+            23,
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时19分 ~ 23时15分]"
+        },
+        {
           "title": "绝区零叶瞬光真人版新年贺片",
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E5%8F%B6%E7%9E%AC%E5%85%89%E7%9C%9F%E4%BA%BA%E7%89%88%E6%96%B0%E5%B9%B4%E8%B4%BA%E7%89%87",
           "source": "bilibili 热搜",
@@ -111,32 +137,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "张桂源张函瑞新年第一个双人cha",
-          "url": "https://www.douyin.com/hot/2356528",
-          "source": "抖音",
-          "ranks": [
-            23,
-            25,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 17时15分]"
-        },
-        {
-          "title": "新年首个工作日 中纪委连打4“虎”",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5+%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%934%E2%80%9C%E8%99%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时28分 ~ 22时14分]"
         },
         {
           "title": "清华新年晚会节目有多好笑",

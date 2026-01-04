@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T12:44:23.417123+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-01-04T13:22:29.959293+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 12时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 13时22分]"
         },
         {
           "title": "接好运!王祖贤祝你新年行大运",
@@ -42,8 +42,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 12时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 13时22分]"
         },
         {
           "title": "绝区零叶瞬光真人版新年贺片",
@@ -74,6 +74,18 @@
           "time_info": "[00时18分 ~ 03时12分]"
         },
         {
+          "title": "张桂源张函瑞新年第一个双人cha",
+          "url": "https://www.douyin.com/hot/2356528",
+          "source": "抖音",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 13时22分]"
+        },
+        {
           "title": "雷军新年直播拆车",
           "url": "https://www.douyin.com/hot/2356292",
           "source": "抖音",
@@ -86,27 +98,16 @@
           "time_info": "[00时18分 ~ 01时14分]"
         },
         {
-          "title": "张桂源张函瑞新年第一个双人cha",
-          "url": "https://www.douyin.com/hot/2356528",
-          "source": "抖音",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时44分]"
-        },
-        {
           "title": "马杜罗被抓后首次发声：新年快乐",
           "url": "https://www.toutiao.com/trending/7591342256657796654/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时22分]"
         },
         {
           "title": "马杜罗戴手铐说新年快乐",

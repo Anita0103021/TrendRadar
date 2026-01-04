@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T11:46:48.351540+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-01-04T12:44:23.417123+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时44分]"
         },
         {
           "title": "接好运!王祖贤祝你新年行大运",
@@ -38,11 +38,12 @@
           "ranks": [
             15,
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时44分]"
         },
         {
           "title": "绝区零叶瞬光真人版新年贺片",
@@ -93,8 +94,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 12时44分]"
         },
         {
           "title": "马杜罗被抓后首次发声：新年快乐",
@@ -103,9 +104,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时44分]"
         },
         {
           "title": "马杜罗戴手铐说新年快乐",
@@ -114,7 +115,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }

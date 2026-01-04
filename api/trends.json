@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-05T06:15:59.888247+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-01-05T07:15:20.632767+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "新年首个工作日 中纪委连打4“虎”",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5+%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%934%E2%80%9C%E8%99%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
-        },
         {
           "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
           "url": "https://www.cls.cn/detail/2246895",
@@ -26,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "新年首个工作日 中纪委连打4“虎”",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5+%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%934%E2%80%9C%E8%99%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "前瞻｜韩总统李在明新年首访中国，外界期待“与尹锡悦不同”",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "马杜罗被抓后首次发声：新年快乐",
@@ -49,11 +50,12 @@
           "ranks": [
             19,
             11,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "【社论】“新年第一会”，跑出上海加速度",
@@ -73,11 +75,23 @@
           "ranks": [
             5,
             10,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时15分]"
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 07时15分]"
+        },
+        {
+          "title": "新年楼市积极开局：北京新政效果初显，深圳元旦假期二手房签约量同比涨四成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32312191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T05:14:29.472202+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-01-05T06:15:59.888247+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "前瞻｜韩总统李在明新年首访中国，外界期待“与尹锡悦不同”",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "马杜罗被抓后首次发声：新年快乐",
@@ -52,8 +52,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "【社论】“新年第一会”，跑出上海加速度",
@@ -63,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时15分]"
         },
         {
           "title": "瑞士警方：克兰斯-蒙塔纳新年酒吧火灾的最后16名遇难者已确认身份。至此，所有遇难者现已全部确认身份。",
@@ -72,11 +72,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 06时15分]"
         }
       ]
     }

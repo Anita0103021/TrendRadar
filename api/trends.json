@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T14:23:35.176582+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-01-04T15:18:02.141895+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "多元场景勾勒新年消费活力图景",
@@ -41,11 +41,12 @@
             14,
             19,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 14时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 15时18分]"
         },
         {
           "title": "绝区零叶瞬光真人版新年贺片",
@@ -82,11 +83,12 @@
           "ranks": [
             23,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时18分]"
         },
         {
           "title": "马杜罗被抓后首次发声：新年快乐",
@@ -98,8 +100,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 15时18分]"
         },
         {
           "title": "雷军新年直播拆车",
@@ -112,6 +114,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "前瞻｜韩总统李在明新年首访中国，外界期待“与尹锡悦不同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32306193",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "马杜罗戴手铐说新年快乐",

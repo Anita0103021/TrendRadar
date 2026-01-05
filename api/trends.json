@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T22:20:04.907996+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2026-01-05T23:19:03.481639+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
@@ -31,6 +31,19 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
+          "url": "https://www.cls.cn/detail/2248162",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时34分 ~ 23时19分]"
+        },
+        {
           "title": "前瞻｜韩总统李在明新年首访中国，外界期待“与尹锡悦不同”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32306193",
           "source": "澎湃新闻",
@@ -51,11 +64,12 @@
             20,
             17,
             19,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时18分 ~ 22时20分]"
+          "appearance_count": 20,
+          "time_info": "[09时18分 ~ 23时19分]"
         },
         {
           "title": "新年楼市积极开局：北京新政效果初显，深圳元旦假期二手房签约量同比涨四成",
@@ -69,6 +83,21 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[07时15分 ~ 20时34分]"
+        },
+        {
+          "title": "新年福字预制上了",
+          "url": "https://www.douyin.com/hot/2358112",
+          "source": "抖音",
+          "ranks": [
+            7,
+            4,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 23时19分]"
         },
         {
           "title": "马杜罗被抓后首次发声：新年快乐",
@@ -97,32 +126,6 @@
           "time_info": "[01时13分 ~ 11时51分]"
         },
         {
-          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
-          "url": "https://www.cls.cn/detail/2248162",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时34分 ~ 22时20分]"
-        },
-        {
-          "title": "新年福字预制上了",
-          "url": "https://www.douyin.com/hot/2358112",
-          "source": "抖音",
-          "ranks": [
-            7,
-            4,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 22时20分]"
-        },
-        {
           "title": "“把C位留给企业家”，多地新年第一会用具体行动支持“城市合伙人”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32317947",
           "source": "澎湃新闻",
@@ -131,8 +134,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时34分 ~ 22时20分]"
+          "appearance_count": 6,
+          "time_info": "[20时34分 ~ 23时19分]"
         },
         {
           "title": "A股新年首个交易日迎开门红",
@@ -159,6 +162,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时15分]"
+        },
+        {
+          "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
+          "url": "https://www.cls.cn/detail/2248257",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "新年南京发力抢人才：每年汇聚青年才俊不少于30万名",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T12:53:23.975522+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-01-05T13:32:13.279187+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,32 @@
           "time_info": "[01时13分 ~ 11时51分]"
         },
         {
+          "title": "新年楼市积极开局：北京新政效果初显，深圳元旦假期二手房签约量同比涨四成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32312191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时32分]"
+        },
+        {
+          "title": "多个省份已召开新年第一会，传递哪些信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32313105",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 13时32分]"
+        },
+        {
           "title": "瑞士警方：克兰斯-蒙塔纳新年酒吧火灾的最后16名遇难者已确认身份。至此，所有遇难者现已全部确认身份。",
           "url": "https://flash.jin10.com/detail/20260105034252338800",
           "source": "金十数据",
@@ -84,30 +110,16 @@
           "time_info": "[04时17分 ~ 07时15分]"
         },
         {
-          "title": "新年楼市积极开局：北京新政效果初显，深圳元旦假期二手房签约量同比涨四成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32312191",
-          "source": "澎湃新闻",
+          "title": "新年南京发力抢人才：每年汇聚青年才俊不少于30万名",
+          "url": "https://wallstreetcn.com/livenews/3030556",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            17,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时53分]"
-        },
-        {
-          "title": "多个省份已召开新年第一会，传递哪些信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32313105",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 12时53分]"
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时32分]"
         },
         {
           "title": "雷军新年首播确认汽车业务降速",
@@ -119,17 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "新年南京发力抢人才：每年汇聚青年才俊不少于30万名",
-          "url": "https://wallstreetcn.com/livenews/3030556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         }
       ]
     },

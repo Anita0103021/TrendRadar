@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T02:24:45.949721+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-01-06T03:17:34.106181+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时17分]"
         },
         {
           "title": "“把C位留给企业家”，多地新年第一会用具体行动支持“城市合伙人”",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时17分]"
         },
         {
           "title": "新年福字预制上了",
@@ -39,19 +39,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时17分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
           "url": "https://www.cls.cn/detail/2248257",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时17分]"
         }
       ]
     }

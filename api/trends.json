@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T00:22:11.452232+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-06T01:19:34.258779+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时19分]"
         },
         {
           "title": "“把C位留给企业家”，多地新年第一会用具体行动支持“城市合伙人”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32317947",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时19分]"
         },
         {
           "title": "新年福字预制上了",
           "url": "https://www.douyin.com/hot/2358112",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时19分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -48,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时19分]"
         }
       ]
     }

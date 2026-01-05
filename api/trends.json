@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T19:15:55.626022+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-01-05T20:34:27.903196+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
@@ -53,8 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时15分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[07时15分 ~ 20时34分]"
         },
         {
           "title": "多个省份已召开新年第一会，传递哪些信号？",
@@ -66,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时18分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 20时34分]"
         },
         {
           "title": "马杜罗被抓后首次发声：新年快乐",
@@ -96,6 +96,17 @@
           "time_info": "[01时13分 ~ 11时51分]"
         },
         {
+          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
+          "url": "https://www.cls.cn/detail/2248162",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "A股新年首个交易日迎开门红",
           "url": "https://www.toutiao.com/trending/7591770571378069030/",
           "source": "今日头条",
@@ -106,6 +117,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时24分 ~ 16时25分]"
+        },
+        {
+          "title": "新年福字预制上了",
+          "url": "https://www.douyin.com/hot/2358112",
+          "source": "抖音",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时34分]"
         },
         {
           "title": "瑞士警方：克兰斯-蒙塔纳新年酒吧火灾的最后16名遇难者已确认身份。至此，所有遇难者现已全部确认身份。",
@@ -120,18 +143,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时15分]"
-        },
-        {
-          "title": "新年福字预制上了",
-          "url": "https://www.douyin.com/hot/2358112",
-          "source": "抖音",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "新年南京发力抢人才：每年汇聚青年才俊不少于30万名",
@@ -155,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "“把C位留给企业家”，多地新年第一会用具体行动支持“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317947",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
@@ -203,7 +225,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T13:20:56.065994+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-01-06T14:26:07.312179+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时26分]"
         },
         {
           "title": "新年福字预制上了",
@@ -81,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时26分]"
         },
         {
           "title": "新年福字锐意制作中",
@@ -90,11 +90,23 @@
           "source": "抖音",
           "ranks": [
             2,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时26分]"
+        },
+        {
+          "title": "多地“新年第一会”释放哪些信号",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 14时26分]"
         },
         {
           "title": "多地召开“新年第一会”",
@@ -106,17 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "多地“新年第一会”释放哪些信号",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "黄仁勋新年第一场演讲提了DeepSeek",

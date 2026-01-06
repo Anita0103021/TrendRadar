@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T15:22:10.487935+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-01-06T16:23:17.614067+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
@@ -26,11 +26,23 @@
             5,
             7,
             8,
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 16时23分]"
+        },
+        {
+          "title": "多地“新年第一会”释放哪些信号",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 16时23分]"
         },
         {
           "title": "元旦假期带动新年消费活力满满",
@@ -71,15 +83,18 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
-          "title": "多地“新年第一会”释放哪些信号",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
+          "title": "营商环境、科技创新等持续成为新年第一会热词背后：增强企业信心，培育发展新动能",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32318957",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            20,
+            16,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[04时19分 ~ 16时23分]"
         },
         {
           "title": "新年福字锐意制作中",
@@ -96,18 +111,15 @@
           "time_info": "[09时12分 ~ 15时22分]"
         },
         {
-          "title": "营商环境、科技创新等持续成为新年第一会热词背后：增强企业信心，培育发展新动能",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318957",
-          "source": "澎湃新闻",
+          "title": "事关对日出口管制！商务部发布新年第1号公告",
+          "url": "https://news.ifeng.com/c/8phAzbwbn4t",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            16,
-            18,
-            19
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时19分 ~ 12时35分]"
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "多地召开“新年第一会”",
@@ -139,7 +151,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -149,6 +161,18 @@
       "keyword_group": "马年",
       "match_count": 3,
       "titles": [
+        {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时23分]"
+        },
         {
           "title": "苹果马年微信红包封面来了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
@@ -160,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时35分]"
-        },
-        {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "苹果发布马年手机壳 售价449元",

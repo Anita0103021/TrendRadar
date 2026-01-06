@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T21:34:33.750264+08:00",
-  "total_titles_processed": 1953,
+  "generated_at": "2026-01-06T22:18:05.152875+08:00",
+  "total_titles_processed": 2028,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "事关对日出口管制！商务部发布新年第1号公告",
+          "url": "https://news.ifeng.com/c/8phAzbwbn4t",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 22时18分]"
+        },
+        {
           "title": "多地“新年第一会”释放哪些信号",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时20分 ~ 17时21分]"
-        },
-        {
-          "title": "事关对日出口管制！商务部发布新年第1号公告",
-          "url": "https://news.ifeng.com/c/8phAzbwbn4t",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 21时34分]"
         },
         {
           "title": "“把C位留给企业家”，多地新年第一会用具体行动支持“城市合伙人”",
@@ -142,8 +142,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 21时34分]"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 22时18分]"
         },
         {
           "title": "黄仁勋新年第一场演讲提了DeepSeek",
@@ -217,7 +217,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         }

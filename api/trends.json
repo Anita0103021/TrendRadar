@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:23:17.614067+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-01-06T17:21:58.152263+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "多地“新年第一会”释放哪些信号",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 17时21分]"
+        },
+        {
           "title": "“把C位留给企业家”，多地新年第一会用具体行动支持“城市合伙人”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32317947",
           "source": "澎湃新闻",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时21分 ~ 16时23分]"
-        },
-        {
-          "title": "多地“新年第一会”释放哪些信号",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 16时23分]"
         },
         {
           "title": "元旦假期带动新年消费活力满满",
@@ -90,11 +90,12 @@
             20,
             16,
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时19分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[04时19分 ~ 17时21分]"
         },
         {
           "title": "新年福字锐意制作中",
@@ -118,8 +119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时21分]"
         },
         {
           "title": "多地召开“新年第一会”",
@@ -170,8 +171,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时21分]"
         },
         {
           "title": "苹果马年微信红包封面来了",

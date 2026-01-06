@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T19:14:59.300552+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-01-06T20:32:35.426665+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,17 @@
           "time_info": "[00时21分 ~ 16时23分]"
         },
         {
+          "title": "事关对日出口管制！商务部发布新年第1号公告",
+          "url": "https://news.ifeng.com/c/8phAzbwbn4t",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 20时32分]"
+        },
+        {
           "title": "元旦假期带动新年消费活力满满",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E5%B8%A6%E5%8A%A8%E6%96%B0%E5%B9%B4%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "事关对日出口管制！商务部发布新年第1号公告",
-          "url": "https://news.ifeng.com/c/8phAzbwbn4t",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时14分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -134,6 +134,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "新年抢先布局！多家上市公司公布超300亿理财额度，看重黄金结构性存款",
+          "url": "https://www.cls.cn/detail/2249089",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时32分]"
+        },
+        {
           "title": "黄仁勋新年第一场演讲提了DeepSeek",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
           "source": "百度热搜",
@@ -144,17 +155,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 12时35分]"
-        },
-        {
-          "title": "新年抢先布局！多家上市公司公布超300亿理财额度，看重黄金结构性存款",
-          "url": "https://www.cls.cn/detail/2249089",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
         },
         {
           "title": "日本债市抛售潮在新年继续延续",

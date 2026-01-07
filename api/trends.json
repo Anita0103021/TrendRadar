@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T03:17:56.136423+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-01-08T04:19:31.245330+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "歼35新年首飞",
@@ -25,7 +25,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         }

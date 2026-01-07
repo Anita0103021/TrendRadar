@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T18:19:20.915046+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-01-07T19:16:42.514308+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             28,
             2,
             5,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 19时16分]"
         },
         {
           "title": "新年伊始 入境游持续火热",
@@ -57,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时16分]"
         },
         {
           "title": "歼35绿皮机新年首飞",
@@ -68,11 +69,12 @@
             27,
             15,
             21,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时25分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时25分 ~ 19时16分]"
         },
         {
           "title": "工业金属新年全面爆发：“妖镍”狂飙近9%、“神铜”再创新高",

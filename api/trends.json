@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T02:24:33.541460+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-08T03:17:56.136423+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "一起体验歼16新年度首飞训练",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时17分]"
+        },
+        {
+          "title": "歼35新年首飞",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%BC35%E6%96%B0%E5%B9%B4%E9%A6%96%E9%A3%9E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     }

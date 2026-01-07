@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T21:36:33.081760+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2026-01-07T22:19:48.987939+08:00",
+  "total_titles_processed": 2094,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时23分 ~ 21时36分]"
+          "appearance_count": 8,
+          "time_info": "[17时23分 ~ 22时19分]"
         },
         {
           "title": "歼35绿皮机新年首飞",
@@ -62,6 +62,18 @@
           "time_info": "[15时21分 ~ 19时16分]"
         },
         {
+          "title": "一起体验歼16新年度首飞训练",
+          "url": "https://www.douyin.com/hot/2359570",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时19分]"
+        },
+        {
           "title": "歼35绿皮机新年首飞",
           "url": "https://www.baidu.com/s?wd=%E6%AD%BC35%E7%BB%BF%E7%9A%AE%E6%9C%BA%E6%96%B0%E5%B9%B4%E9%A6%96%E9%A3%9E",
           "source": "百度热搜",
@@ -75,17 +87,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时25分 ~ 19时16分]"
-        },
-        {
-          "title": "一起体验歼16新年度首飞训练",
-          "url": "https://www.douyin.com/hot/2359570",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时36分]"
         },
         {
           "title": "工业金属新年全面爆发：“妖镍”狂飙近9%、“神铜”再创新高",

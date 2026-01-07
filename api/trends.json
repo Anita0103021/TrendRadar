@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:33:15.819897+08:00",
-  "total_titles_processed": 1905,
+  "generated_at": "2026-01-07T21:36:33.081760+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "新年伊始 入境游持续火热",
+          "url": "https://www.toutiao.com/trending/7591727996684779570/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 21时36分]"
+        },
+        {
           "title": "歼35绿皮机新年首飞",
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%BC35%E7%BB%BF%E7%9A%AE%E6%9C%BA%E6%96%B0%E5%B9%B4%E9%A6%96%E9%A3%9E",
           "source": "bilibili 热搜",
@@ -34,17 +45,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时36分 ~ 18时19分]"
-        },
-        {
-          "title": "新年伊始 入境游持续火热",
-          "url": "https://www.toutiao.com/trending/7591727996684779570/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 20时33分]"
         },
         {
           "title": "歼-35绿皮机新年首飞",
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时36分]"
         },
         {
           "title": "工业金属新年全面爆发：“妖镍”狂飙近9%、“神铜”再创新高",
@@ -117,7 +117,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }

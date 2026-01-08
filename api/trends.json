@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T17:23:49.689552+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-01-08T18:19:27.957176+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一起体验歼16新年度首飞训练",
@@ -18,11 +18,12 @@
             14,
             15,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 17时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 18时19分]"
         },
         {
           "title": "多地新年第一会释放重要信号",
@@ -34,6 +35,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "多地召开“新年第一会”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%8F%AC%E5%BC%80%E2%80%9C%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "歼35新年首飞",

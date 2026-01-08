@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T09:12:43.086739+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-01-08T11:26:07.724402+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时26分]"
         },
         {
           "title": "歼35新年首飞",

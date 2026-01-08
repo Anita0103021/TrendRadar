@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T16:23:13.464931+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-01-08T17:23:49.689552+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             14,
             15,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 16时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 17时23分]"
         },
         {
           "title": "多地新年第一会释放重要信号",

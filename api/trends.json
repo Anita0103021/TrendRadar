@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-09T01:23:16.643585+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-09T02:21:29.856499+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国补新政激发新年消费热情",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%A5%E6%96%B0%E6%94%BF%E6%BF%80%E5%8F%91%E6%96%B0%E5%B9%B4%E6%B6%88%E8%B4%B9%E7%83%AD%E6%83%85%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

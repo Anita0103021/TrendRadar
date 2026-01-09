@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T17:23:15.048754+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-01-09T18:18:22.557412+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时18分]"
         },
         {
           "title": "新年伊始 这些小变化传递积极信号",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时18分]"
+        },
+        {
+          "title": "新年以来，多位省委书记赴当地高校调研、讲课、作报告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32344715",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时18分]"
         },
         {
           "title": "近180亿元，重庆国企新年“第一签”投向先进制造业",
@@ -51,17 +62,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时21分]"
-        },
-        {
-          "title": "新年以来，多位省委书记赴当地高校调研、讲课、作报告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32344715",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "新年首只新券亮相，分析称可转债发行有望加快",

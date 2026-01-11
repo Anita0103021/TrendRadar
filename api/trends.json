@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-11T23:15:31.517686+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-01-12T00:18:21.084552+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国常会新年第一会 关系近4亿人",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%B8%B8%E4%BC%9A%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E4%BC%9A+%E5%85%B3%E7%B3%BB%E8%BF%914%E4%BA%BF%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时16分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

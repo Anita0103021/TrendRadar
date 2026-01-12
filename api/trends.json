@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-12T07:15:28.707478+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-12T09:16:13.777264+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国乒新年首站男女队均无缘冠军",
+          "url": "https://www.toutiao.com/trending/7593460581882138118/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

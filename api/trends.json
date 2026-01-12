@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T18:20:32.131509+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-01-12T19:16:30.965399+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时16分]"
         },
         {
           "title": "现货黄金首次站上 4600 美元大关，新年首月累涨 280 美元，驱动因素是什么？后续还会涨吗？",

@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-01-12T16:24:56.353808+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-01-12T17:27:32.479685+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
       "match_count": 4,
       "titles": [
+        {
+          "title": "国乒新年首战 0 冠收官，10 位参赛选手折戟，如何看待这一成绩？问题都出在哪？",
+          "url": "https://www.zhihu.com/question/1993994311398815095",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时27分]"
+        },
+        {
+          "title": "现货黄金首次站上 4600 美元大关，新年首月累涨 280 美元，驱动因素是什么？后续还会涨吗？",
+          "url": "https://www.zhihu.com/question/1993978589855637636",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时27分]"
+        },
         {
           "title": "国乒新年首站男女队均无缘冠军",
           "url": "https://www.toutiao.com/trending/7593460581882138118/",
@@ -17,28 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "国乒新年首战 0 冠收官，10 位参赛选手折戟，如何看待这一成绩？问题都出在哪？",
-          "url": "https://www.zhihu.com/question/1993994311398815095",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "现货黄金首次站上 4600 美元大关，新年首月累涨 280 美元，驱动因素是什么？后续还会涨吗？",
-          "url": "https://www.zhihu.com/question/1993978589855637636",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         },
         {
           "title": "羽绒服成新年送礼黑马",

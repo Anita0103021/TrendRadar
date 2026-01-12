@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T11:44:58.213869+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-01-12T12:45:33.547348+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国乒新年首站男女队均无缘冠军",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "羽绒服成新年送礼黑马",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%88%90%E6%96%B0%E5%B9%B4%E9%80%81%E7%A4%BC%E9%BB%91%E9%A9%AC%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     }

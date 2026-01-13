@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T06:17:32.878886+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-01-14T07:16:05.036459+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时16分]"
         },
         {
           "title": "马年纪念币 抢不到",
@@ -51,11 +52,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 07时16分]"
         }
       ]
     }

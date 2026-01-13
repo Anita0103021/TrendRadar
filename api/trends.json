@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T03:17:41.004699+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-14T04:19:16.953626+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时19分]"
         },
         {
           "title": "马年纪念币 抢不到",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             4,
-            30
+            30,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时19分]"
         },
         {
           "title": "来收马年压岁钱红包",
@@ -37,22 +38,24 @@
           "ranks": [
             20,
             18,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时19分]"
         },
         {
           "title": "马年贺岁纪念币纪念钞开抢",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E8%B4%BA%E5%B2%81%E7%BA%AA%E5%BF%B5%E5%B8%81%E7%BA%AA%E5%BF%B5%E9%92%9E%E5%BC%80%E6%8A%A2",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时19分]"
         }
       ]
     }

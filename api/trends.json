@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T18:19:36.810999+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2026-01-14T19:17:10.858375+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时15分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 19时17分]"
         },
         {
           "title": "马年纪念币遭疯抢,藏友倒苦水",
@@ -47,11 +47,26 @@
             8,
             9,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 19时17分]"
+        },
+        {
+          "title": "马年纪念币秒空，纪念钞溢价高达三四百元，如何看待这一现象？今年为何这么难抢？",
+          "url": "https://www.zhihu.com/question/1994693207242585611",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 19时17分]"
         },
         {
           "title": "马年纪念币纪念钞发售即秒空",
@@ -81,17 +96,17 @@
           "time_info": "[00时24分 ~ 04时19分]"
         },
         {
-          "title": "马年纪念币秒空，纪念钞溢价高达三四百元，如何看待这一现象？今年为何这么难抢？",
-          "url": "https://www.zhihu.com/question/1994693207242585611",
-          "source": "知乎",
+          "title": "谁还没穿上马年限定穿搭",
+          "url": "https://www.douyin.com/hot/2367421",
+          "source": "抖音",
           "ranks": [
-            15,
-            9,
-            5
+            5,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时21分 ~ 18时19分]"
+          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "来收马年压岁钱红包",
@@ -121,16 +136,17 @@
           "time_info": "[02时25分 ~ 07时16分]"
         },
         {
-          "title": "谁还没穿上马年限定穿搭",
-          "url": "https://www.douyin.com/hot/2367421",
-          "source": "抖音",
+          "title": "64 岁蔡明现身马年春晚彩排，时隔七年将再上春晚，对此你有何期待？她的哪些小品让你印象深刻？",
+          "url": "https://www.zhihu.com/question/1994363041018505119",
+          "source": "知乎",
           "ranks": [
-            5,
-            7
+            15,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "马年贺岁纪念币预约开启秒售罄",
@@ -144,18 +160,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时42分 ~ 13时20分]"
-        },
-        {
-          "title": "64 岁蔡明现身马年春晚彩排，时隔七年将再上春晚，对此你有何期待？她的哪些小品让你印象深刻？",
-          "url": "https://www.zhihu.com/question/1994363041018505119",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时19分]"
         },
         {
           "title": "马年纪念钞溢价超一倍",

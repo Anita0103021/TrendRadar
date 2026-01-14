@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:17:10.858375+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-01-14T20:33:36.915213+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "马年纪念币预约",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 20时33分]"
         },
         {
           "title": "马年纪念币遭疯抢,藏友倒苦水",
@@ -48,11 +48,12 @@
             9,
             11,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时42分 ~ 20时33分]"
         },
         {
           "title": "马年纪念币秒空，纪念钞溢价高达三四百元，如何看待这一现象？今年为何这么难抢？",
@@ -62,11 +63,12 @@
             15,
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 20时33分]"
         },
         {
           "title": "马年纪念币纪念钞发售即秒空",
@@ -102,11 +104,26 @@
           "ranks": [
             5,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时33分]"
+        },
+        {
+          "title": "64 岁蔡明现身马年春晚彩排，时隔七年将再上春晚，对此你有何期待？她的哪些小品让你印象深刻？",
+          "url": "https://www.zhihu.com/question/1994363041018505119",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时33分]"
         },
         {
           "title": "来收马年压岁钱红包",
@@ -136,19 +153,6 @@
           "time_info": "[02时25分 ~ 07时16分]"
         },
         {
-          "title": "64 岁蔡明现身马年春晚彩排，时隔七年将再上春晚，对此你有何期待？她的哪些小品让你印象深刻？",
-          "url": "https://www.zhihu.com/question/1994363041018505119",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时17分]"
-        },
-        {
           "title": "马年贺岁纪念币预约开启秒售罄",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E8%B4%BA%E5%B2%81%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6%E5%BC%80%E5%90%AF%E7%A7%92%E5%94%AE%E7%BD%84",
           "source": "百度热搜",
@@ -171,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "最适合马年的吉祥物出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E9%80%82%E5%90%88%E9%A9%AC%E5%B9%B4%E7%9A%84%E5%90%89%E7%A5%A5%E7%89%A9%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         }
       ]
     },

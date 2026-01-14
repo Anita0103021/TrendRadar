@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T02:26:14.318017+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-01-15T03:16:32.817322+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "马年纪念币纪念钞发售即秒空",
@@ -30,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "谁还没穿上马年限定穿搭",
@@ -43,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "马年纪念钞增值空间有多大",
@@ -55,20 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时26分]"
-        },
-        {
-          "title": "马年纪念币秒空，纪念钞溢价高达三四百元，如何看待这一现象？今年为何这么难抢？",
-          "url": "https://www.zhihu.com/question/1994693207242585611",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "64 岁蔡明现身马年春晚彩排，时隔七年将再上春晚，对此你有何期待？她的哪些小品让你印象深刻？",
@@ -79,8 +68,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "马年纪念币遭疯抢,藏友倒苦水",
@@ -88,6 +77,18 @@
           "source": "贴吧",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "马年纪念币秒空，纪念钞溢价高达三四百元，如何看待这一现象？今年为何这么难抢？",
+          "url": "https://www.zhihu.com/question/1994693207242585611",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,

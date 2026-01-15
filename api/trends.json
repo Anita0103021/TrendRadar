@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T16:24:00.855885+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-01-15T17:23:38.413776+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 16时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 17时23分]"
         },
         {
           "title": "马年纪念钞增值空间有多大",
@@ -143,11 +143,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1%E5%BC%8F%E6%96%B0%E5%B9%B4%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 17时23分]"
         }
       ]
     }

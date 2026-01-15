@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T09:11:25.371770+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-01-15T11:27:21.163399+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "马年春晚",
@@ -16,11 +16,12 @@
             4,
             1,
             2,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时27分]"
         },
         {
           "title": "马年纪念币纪念钞发售即秒空",
@@ -47,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时27分]"
         },
         {
           "title": "马年纪念钞增值空间有多大",
@@ -84,11 +85,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349105&amp;topic_name=%E9%A9%AC%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%81%AD%E7%96%AF%E6%8A%A2%2C%E8%97%8F%E5%8F%8B%E5%80%92%E8%8B%A6%E6%B0%B4",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 11时27分]"
         },
         {
           "title": "马年纪念币秒空，纪念钞溢价高达三四百元，如何看待这一现象？今年为何这么难抢？",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 02时26分]"
+        },
+        {
+          "title": "马年的彩头挺有说法",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E7%9A%84%E5%BD%A9%E5%A4%B4%E6%8C%BA%E6%9C%89%E8%AF%B4%E6%B3%95%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     }

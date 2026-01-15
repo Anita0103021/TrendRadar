@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T11:27:21.163399+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-01-15T12:36:30.680334+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "马年春晚",
@@ -17,11 +17,12 @@
             1,
             2,
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 11时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 12时36分]"
         },
         {
           "title": "马年纪念币纪念钞发售即秒空",
@@ -45,11 +46,12 @@
             11,
             10,
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 11时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 12时36分]"
         },
         {
           "title": "马年纪念钞增值空间有多大",
@@ -86,11 +88,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 11时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 12时36分]"
         },
         {
           "title": "马年纪念币秒空，纪念钞溢价高达三四百元，如何看待这一现象？今年为何这么难抢？",
@@ -105,13 +108,24 @@
           "time_info": "[00时23分 ~ 02时26分]"
         },
         {
+          "title": "金吸管专吸马年好运气",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%90%B8%E7%AE%A1%E4%B8%93%E5%90%B8%E9%A9%AC%E5%B9%B4%E5%A5%BD%E8%BF%90%E6%B0%94%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
           "title": "马年的彩头挺有说法",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E7%9A%84%E5%BD%A9%E5%A4%B4%E6%8C%BA%E6%9C%89%E8%AF%B4%E6%B3%95%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         }

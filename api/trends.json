@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-16T16:23:03.336863+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-01-16T17:22:08.609123+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新年战袍我先手搓上了",
+          "url": "https://www.douyin.com/hot/2369649",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "新年生财妆又美又旺",
+          "url": "https://www.douyin.com/hot/2369738",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        }
+      ]
+    },
     {
       "keyword_group": "马年",
       "match_count": 1,

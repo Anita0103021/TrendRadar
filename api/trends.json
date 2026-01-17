@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T18:16:29.234106+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-01-17T19:13:50.489107+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 18时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时10分 ~ 19时13分]"
         },
         {
           "title": "TF家族新年音乐会舞台纯享",
@@ -31,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 18时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时10分 ~ 19时13分]"
         },
         {
           "title": "新年战袍我先手搓上了",
@@ -45,11 +45,12 @@
             18,
             21,
             28,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时20分 ~ 16时20分]"
+          "appearance_count": 14,
+          "time_info": "[01时20分 ~ 19时13分]"
         },
         {
           "title": "香港将举办农历新年烟花汇演",
@@ -60,18 +61,30 @@
             8,
             12,
             16,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 18时16分]"
+          "appearance_count": 6,
+          "time_info": "[14时23分 ~ 19时13分]"
         }
       ]
     },
     {
       "keyword_group": "马年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马年春晚完成首次彩排",
+          "url": "https://www.douyin.com/hot/2371062",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
         {
           "title": "央视马年春晚首次联排",
           "url": "https://www.toutiao.com/trending/7595911151206301737/",

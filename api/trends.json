@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:20:18.141091+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-17T17:15:44.162106+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 17时15分]"
         },
         {
           "title": "TF家族新年音乐会舞台纯享",
@@ -31,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 17时15分]"
         },
         {
           "title": "新年战袍我先手搓上了",
@@ -58,11 +58,12 @@
           "ranks": [
             5,
             8,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 17时15分]"
         }
       ]
     },
@@ -77,7 +78,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         }

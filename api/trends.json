@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T15:16:00.099337+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-01-17T16:20:18.141091+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             9,
             4,
             12,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 16时20分]"
         },
         {
           "title": "TF家族新年音乐会舞台纯享",
@@ -30,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 16时20分]"
         },
         {
           "title": "新年战袍我先手搓上了",
@@ -43,11 +44,12 @@
             22,
             18,
             21,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时20分 ~ 15时16分]"
+          "appearance_count": 13,
+          "time_info": "[01时20分 ~ 16时20分]"
         },
         {
           "title": "香港将举办农历新年烟花汇演",
@@ -55,11 +57,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 16时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "央视马年春晚首次联排",
+          "url": "https://www.toutiao.com/trending/7595911151206301737/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     }

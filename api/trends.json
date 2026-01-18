@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:25:58.960209+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-01-18T22:14:35.616525+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 21时25分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 22时14分]"
         },
         {
           "title": "阿里CEO吴泳铭新年家书：今年几场大仗很漂亮",

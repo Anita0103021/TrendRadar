@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-18T12:38:10.790801+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-01-18T13:20:06.756035+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
       "match_count": 3,
       "titles": [
+        {
+          "title": "马年纪念币遭疯抢,藏友倒苦水",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349105&amp;topic_name=%E9%A9%AC%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%81%AD%E7%96%AF%E6%8A%A2%2C%E8%97%8F%E5%8F%8B%E5%80%92%E8%8B%A6%E6%B0%B4",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 13时20分]"
+        },
         {
           "title": "马年春晚完成首次彩排",
           "url": "https://www.douyin.com/hot/2371062",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时13分]"
-        },
-        {
-          "title": "马年纪念币遭疯抢,藏友倒苦水",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349105&amp;topic_name=%E9%A9%AC%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%81%AD%E7%96%AF%E6%8A%A2%2C%E8%97%8F%E5%8F%8B%E5%80%92%E8%8B%A6%E6%B0%B4",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 12时38分]"
         },
         {
           "title": "马年春晚第1次联排恰逢北京第一场雪",
@@ -52,11 +52,12 @@
           "url": "https://search.bilibili.com/all?keyword=TF%E5%AE%B6%E6%97%8F%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 13时20分]"
         }
       ]
     }

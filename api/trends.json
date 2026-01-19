@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T12:47:07.125700+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-01-19T13:28:03.172254+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "摩根大通预计中国股票涨势有望延续到农历新年",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 12时47分]"
+        },
+        {
+          "title": "一代人有一代人的新年礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A4%BC%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
         },
         {
           "title": "TF家族新年音乐会舞台纯享",

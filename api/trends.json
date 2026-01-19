@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-19T17:29:48.380328+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-01-19T18:23:05.219036+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
       "match_count": 4,
       "titles": [
+        {
+          "title": "新年美甲",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BE%8E%E7%94%B2&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时23分]"
+        },
         {
           "title": "摩根大通预计中国股票涨势有望延续到农历新年",
           "url": "https://wallstreetcn.com/livenews/3039500",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 12时47分]"
-        },
-        {
-          "title": "新年美甲",
-          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%BE%8E%E7%94%B2&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时29分]"
         },
         {
           "title": "一代人有一代人的新年礼",

@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-01-20T23:26:15.896475+08:00",
-  "total_titles_processed": 2123,
+  "generated_at": "2026-01-21T00:28:15.800554+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "漠河新年极光大片绝了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%A0%E6%B2%B3%E6%96%B0%E5%B9%B4%E6%9E%81%E5%85%89%E5%A4%A7%E7%89%87%E7%BB%9D%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        }
-      ]
-    },
     {
       "keyword_group": "马年",
       "match_count": 1,
@@ -29,12 +12,11 @@
           "url": "https://www.douyin.com/hot/2374298",
           "source": "抖音",
           "ranks": [
-            13,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时35分 ~ 23时26分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     }

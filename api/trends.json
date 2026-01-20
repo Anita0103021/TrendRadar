@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T19:20:15.369370+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-01-20T20:36:50.269937+08:00",
+  "total_titles_processed": 1821,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马年非遗祈福百景图",
+          "url": "https://www.douyin.com/hot/2374298",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
         }
       ]
     }

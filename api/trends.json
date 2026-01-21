@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T11:30:06.107017+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-01-21T12:40:13.559749+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时40分]"
         },
         {
           "title": "马年贺岁纪念币钞线下兑换火爆",
@@ -31,6 +31,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李在明新年记者会再谈韩中关系",
+          "url": "https://news.ifeng.com/c/8q5hg8xJHte",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:22:24.954393+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-01-21T19:20:07.901137+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "李在明新年记者会再谈韩中关系",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时39分 ~ 14时28分]"
+        },
+        {
+          "title": "都来认领郁可唯的2026新年快乐",
+          "url": "https://www.douyin.com/hot/2375385",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "英国国家统计局首席经济学家Grant Fitzner：12月通胀率小幅攀升，部分原因在于烟草价格上涨，此前政府刚刚提高了相关消费税。机票价格也推高了通胀，涨幅超过去年同期水平，这很可能与圣诞节和新年期间往返航班的时间安排有关。食品成本上涨，尤其是面包和谷物价格上涨，同样是推高通胀的因素。",

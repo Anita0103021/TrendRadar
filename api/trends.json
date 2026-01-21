@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-21T14:28:05.411892+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-01-21T15:24:06.459637+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "李在明新年记者会再谈韩中关系",
+          "url": "https://news.ifeng.com/c/8q5hg8xJHte",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 14时28分]"
+        },
+        {
+          "title": "英国国家统计局首席经济学家Grant Fitzner：12月通胀率小幅攀升，部分原因在于烟草价格上涨，此前政府刚刚提高了相关消费税。机票价格也推高了通胀，涨幅超过去年同期水平，这很可能与圣诞节和新年期间往返航班的时间安排有关。食品成本上涨，尤其是面包和谷物价格上涨，同样是推高通胀的因素。",
+          "url": "https://flash.jin10.com/detail/20260121150130006800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "马年",
       "match_count": 2,
@@ -19,8 +47,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 14时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 15时24分]"
         },
         {
           "title": "马年贺岁纪念币钞线下兑换火爆",
@@ -32,23 +60,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李在明新年记者会再谈韩中关系",
-          "url": "https://news.ifeng.com/c/8q5hg8xJHte",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 14时28分]"
         }
       ]
     }

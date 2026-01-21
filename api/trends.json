@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-22T00:34:07.542139+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-22T01:50:03.095127+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马年春节即将到来，除了马卡龙、马蹄糕，你还吃过或见过哪些含「马」字的美食？",
+          "url": "https://www.zhihu.com/question/1996604816089118383",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

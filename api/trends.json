@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T13:25:06.343641+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-01-21T14:28:05.411892+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             5,
             8,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 13时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 14时28分]"
         },
         {
           "title": "马年贺岁纪念币钞线下兑换火爆",
@@ -46,8 +47,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 14时28分]"
         }
       ]
     }

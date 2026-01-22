@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-22T07:21:00.017034+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-01-22T09:15:11.673720+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新年记者会上李在明提到中国",
+          "url": "https://www.douyin.com/hot/2375437",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        }
+      ]
+    },
     {
       "keyword_group": "马年",
       "match_count": 1,

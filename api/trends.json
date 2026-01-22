@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T19:19:42.378394+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-01-22T20:35:53.646135+08:00",
+  "total_titles_processed": 1895,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             13,
             8,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时26分 ~ 20时35分]"
         },
         {
           "title": "范丞丞现身马年春晚彩排",

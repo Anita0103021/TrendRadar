@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T20:35:53.646135+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2026-01-22T21:43:02.710980+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,25 @@
             13,
             8,
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 20时35分]"
+          "appearance_count": 10,
+          "time_info": "[14时26分 ~ 21时43分]"
+        },
+        {
+          "title": "LOLM马年限定皮肤",
+          "url": "https://search.bilibili.com/all?keyword=LOLM%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 21时43分]"
         },
         {
           "title": "范丞丞现身马年春晚彩排",
@@ -57,18 +71,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 01时50分]"
-        },
-        {
-          "title": "LOLM马年限定皮肤",
-          "url": "https://search.bilibili.com/all?keyword=LOLM%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 18时22分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T21:43:02.710980+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-01-22T22:26:16.416240+08:00",
+  "total_titles_processed": 2078,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             8,
             17,
             15,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时26分 ~ 21时43分]"
+          "appearance_count": 12,
+          "time_info": "[14时26分 ~ 22时26分]"
         },
         {
           "title": "LOLM马年限定皮肤",

@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-23T09:14:10.087865+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-01-23T11:29:26.465338+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马年红包卖爆了",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E7%BA%A2%E5%8C%85%E5%8D%96%E7%88%86%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 11时29分]"
         },
         {
           "title": "LOLM马年限定皮肤",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 09时14分]"
+        },
+        {
+          "title": "马年的梗还是太超前了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%B9%B4%E7%9A%84%E6%A2%97%E8%BF%98%E6%98%AF%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     }

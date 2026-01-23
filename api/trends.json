@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T20:34:33.366984+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-01-23T21:39:23.340013+08:00",
+  "total_titles_processed": 2065,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 20时34分]"
+          "appearance_count": 10,
+          "time_info": "[14时25分 ~ 21时39分]"
         },
         {
           "title": "马年的梗还是太超前了",
@@ -47,6 +48,19 @@
           "time_info": "[09时13分 ~ 12时38分]"
         },
         {
+          "title": "多家商场马年标语引热议",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%95%86%E5%9C%BA%E9%A9%AC%E5%B9%B4%E6%A0%87%E8%AF%AD%E5%BC%95%E7%83%AD%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时39分]"
+        },
+        {
           "title": "LOLM马年限定皮肤",
           "url": "https://search.bilibili.com/all?keyword=LOLM%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4",
           "source": "bilibili 热搜",
@@ -57,18 +71,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 09时14分]"
-        },
-        {
-          "title": "多家商场马年标语引热议",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%95%86%E5%9C%BA%E9%A9%AC%E5%B9%B4%E6%A0%87%E8%AF%AD%E5%BC%95%E7%83%AD%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 20时34分]"
         }
       ]
     },
@@ -86,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 20时34分]"
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 21时39分]"
         }
       ]
     }

@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-01-24T06:14:35.878641+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-01-24T07:17:02.780364+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马年",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "尾号 88888888 马年纪念钞被领走，银行称随机分配，其有多大升值空间？人们为何热衷收藏纪念钞？",
+          "url": "https://www.zhihu.com/question/1997739094227251338",
+          "source": "知乎",
+          "ranks": [
+            4,
+            9,
+            19,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "马年将至，作为颇具灵性的生肖，你希望孩子身上有哪些「马」的特质？",
+          "url": "https://www.zhihu.com/question/1996660238959522344",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "多家商场马年标语引热议",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%95%86%E5%9C%BA%E9%A9%AC%E5%B9%B4%E6%A0%87%E8%AF%AD%E5%BC%95%E7%83%AD%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时17分]"
+        }
+      ]
+    },
     {
       "keyword_group": "新年",
       "match_count": 2,
@@ -16,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "新年吃车厘子好事当头",
@@ -28,28 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "尾号 88888888 马年纪念钞被领走，银行称随机分配，其有多大升值空间？人们为何热衷收藏纪念钞？",
-          "url": "https://www.zhihu.com/question/1997739094227251338",
-          "source": "知乎",
-          "ranks": [
-            4,
-            9,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 07时17分]"
         }
       ]
     }

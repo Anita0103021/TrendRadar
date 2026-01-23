@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-23T13:24:06.453568+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-23T14:26:12.925783+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "马年的梗还是太超前了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%B9%B4%E7%9A%84%E6%A2%97%E8%BF%98%E6%98%AF%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 14时26分]"
+        },
         {
           "title": "马年红包卖爆了",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E7%BA%A2%E5%8C%85%E5%8D%96%E7%88%86%E4%BA%86",
@@ -21,18 +34,6 @@
           "time_info": "[09时13分 ~ 12时38分]"
         },
         {
-          "title": "马年的梗还是太超前了",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%B9%B4%E7%9A%84%E6%A2%97%E8%BF%98%E6%98%AF%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 13时24分]"
-        },
-        {
           "title": "LOLM马年限定皮肤",
           "url": "https://search.bilibili.com/all?keyword=LOLM%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4",
           "source": "bilibili 热搜",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 09时14分]"
+        },
+        {
+          "title": "尾号 88888888 马年纪念钞被领走，银行称随机分配，其有多大升值空间？人们为何热衷收藏纪念钞？",
+          "url": "https://www.zhihu.com/question/1997739094227251338",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:21:05.634475+08:00",
-  "total_titles_processed": 2130,
+  "generated_at": "2026-01-23T23:21:03.822200+08:00",
+  "total_titles_processed": 2241,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时25分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[14时25分 ~ 23时21分]"
+        },
+        {
+          "title": "多家商场马年标语引热议",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%95%86%E5%9C%BA%E9%A9%AC%E5%B9%B4%E6%A0%87%E8%AF%AD%E5%BC%95%E7%83%AD%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            26,
+            25,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 23时21分]"
         },
         {
           "title": "马年的梗还是太超前了",
@@ -48,20 +63,6 @@
           "time_info": "[09时13分 ~ 12时38分]"
         },
         {
-          "title": "多家商场马年标语引热议",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%95%86%E5%9C%BA%E9%A9%AC%E5%B9%B4%E6%A0%87%E8%AF%AD%E5%BC%95%E7%83%AD%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            26,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 22时21分]"
-        },
-        {
           "title": "LOLM马年限定皮肤",
           "url": "https://search.bilibili.com/all?keyword=LOLM%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4",
           "source": "bilibili 热搜",
@@ -77,7 +78,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新年第一批回家的人来了",
@@ -89,8 +90,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时22分 ~ 22时21分]"
+          "appearance_count": 12,
+          "time_info": "[15时22分 ~ 23时21分]"
+        },
+        {
+          "title": "新年吃车厘子好事当头",
+          "url": "https://www.douyin.com/hot/2377387",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         }
       ]
     }

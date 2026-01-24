@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T07:17:02.780364+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-01-24T09:11:02.062720+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 09时11分]"
         },
         {
           "title": "新年吃车厘子好事当头",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 09时11分]"
         }
       ]
     }

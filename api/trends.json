@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:15:36.268022+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-01-24T23:15:28.444393+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时16分 ~ 22时15分]"
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 23时15分]"
         },
         {
           "title": "尾号 88888888 马年纪念钞被领走，银行称随机分配，其有多大升值空间？人们为何热衷收藏纪念钞？",
@@ -83,7 +84,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新年第一批回家的人来了",
@@ -123,6 +124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时16分 ~ 16时20分]"
+        },
+        {
+          "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
+          "url": "https://www.cls.cn/detail/2268670",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     }

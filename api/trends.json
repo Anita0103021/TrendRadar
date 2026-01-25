@@ -1,99 +1,39 @@
 {
-  "generated_at": "2026-01-25T23:15:36.856354+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-01-26T00:19:40.088347+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
           "url": "https://www.cls.cn/detail/2268670",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时18分 ~ 23时15分]"
-        },
-        {
-          "title": "摇出我的新年本命穿搭",
-          "url": "https://www.douyin.com/hot/2378945",
-          "source": "抖音",
-          "ranks": [
-            2,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 16时21分]"
-        },
-        {
-          "title": "看新年烟花秀打开一个很新的年",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%96%B0%E5%B9%B4%E7%83%9F%E8%8A%B1%E7%A7%80%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E5%BE%88%E6%96%B0%E7%9A%84%E5%B9%B4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "马年",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "马年送一种很新的电子年货",
-          "url": "https://www.douyin.com/hot/2378037",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            5,
-            7,
-            6,
-            8,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 14时23分]"
-        },
-        {
-          "title": "马年春晚北斗七行凑齐四个了",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%8C%97%E6%96%97%E4%B8%83%E8%A1%8C%E5%87%91%E9%BD%90%E5%9B%9B%E4%B8%AA%E4%BA%86&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 17时17分]"
-        },
         {
           "title": "马年春晚完成第二次彩排",
           "url": "https://www.douyin.com/hot/2379405",
           "source": "抖音",
           "ranks": [
-            19,
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时14分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }

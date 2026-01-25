@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:29:44.270216+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-01-25T22:15:04.319916+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时18分 ~ 21时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 22时15分]"
         },
         {
           "title": "摇出我的新年本命穿搭",
@@ -50,7 +50,7 @@
     },
     {
       "keyword_group": "马年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马年送一种很新的电子年货",
@@ -82,6 +82,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时18分 ~ 17时17分]"
+        },
+        {
+          "title": "马年春晚完成第二次彩排",
+          "url": "https://www.douyin.com/hot/2379405",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
         }
       ]
     }

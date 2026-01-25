@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T19:13:54.260511+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-01-25T20:31:37.734529+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "逛菜场，现身新办公室！黄仁勋新年来华首站落地上海",
@@ -19,8 +19,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 19时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 20时31分]"
         },
         {
           "title": "摇出我的新年本命穿搭",
@@ -34,6 +34,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时23分 ~ 16时21分]"
+        },
+        {
+          "title": "看新年烟花秀打开一个很新的年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%96%B0%E5%B9%B4%E7%83%9F%E8%8A%B1%E7%A7%80%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E5%BE%88%E6%96%B0%E7%9A%84%E5%B9%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },

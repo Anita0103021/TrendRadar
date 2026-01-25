@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T16:21:05.509047+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-01-25T17:17:09.866840+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 16时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 17时17分]"
         },
         {
           "title": "摇出我的新年本命穿搭",
@@ -65,11 +65,12 @@
           "source": "微博",
           "ranks": [
             4,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时17分]"
         }
       ]
     }

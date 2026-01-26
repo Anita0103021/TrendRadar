@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:25:11.849832+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-01-26T17:29:31.476430+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时29分]"
         },
         {
           "title": "马年春联起点太高了",

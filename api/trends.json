@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T15:24:01.296159+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-01-26T16:25:11.849832+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,18 @@
           "time_info": "[00时19分 ~ 15时24分]"
         },
         {
+          "title": "30s速通不同年代马年妆容",
+          "url": "https://www.douyin.com/hot/2379841",
+          "source": "抖音",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 16时25分]"
+        },
+        {
           "title": "马年春联起点太高了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%81%94%E8%B5%B7%E7%82%B9%E5%A4%AA%E9%AB%98%E4%BA%86%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -34,17 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时29分 ~ 15时24分]"
-        },
-        {
-          "title": "30s速通不同年代马年妆容",
-          "url": "https://www.douyin.com/hot/2379841",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "最强大脑扎堆接招马年春联",

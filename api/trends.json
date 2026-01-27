@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T20:35:28.110021+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-01-27T21:42:47.837211+08:00",
+  "total_titles_processed": 1960,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[18时22分 ~ 19时19分]"
         },
         {
+          "title": "羊村的小伙伴们来送新年祝福啦",
+          "url": "https://www.douyin.com/hot/2381093",
+          "source": "抖音",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时42分]"
+        },
+        {
           "title": "新年整点运动新装备",
           "url": "https://www.douyin.com/hot/2380895",
           "source": "抖音",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 17时28分]"
-        },
-        {
-          "title": "羊村的小伙伴们来送新年祝福啦",
-          "url": "https://www.douyin.com/hot/2381093",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         },
         {
           "title": "章若楠的新年好运风向",
@@ -99,7 +100,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         }

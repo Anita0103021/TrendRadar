@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-27T21:42:47.837211+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2026-01-27T22:25:16.094934+08:00",
+  "total_titles_processed": 2028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
       "match_count": 5,
       "titles": [
+        {
+          "title": "羊村的小伙伴们来送新年祝福啦",
+          "url": "https://www.douyin.com/hot/2381093",
+          "source": "抖音",
+          "ranks": [
+            19,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 22时25分]"
+        },
         {
           "title": "新年旺自己的方式",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E6%97%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%96%B9%E5%BC%8F%23&t=31&band_rank=19&Refer=top",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时22分 ~ 19时19分]"
-        },
-        {
-          "title": "羊村的小伙伴们来送新年祝福啦",
-          "url": "https://www.douyin.com/hot/2381093",
-          "source": "抖音",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时42分]"
         },
         {
           "title": "新年整点运动新装备",

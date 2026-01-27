@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T22:25:16.094934+08:00",
-  "total_titles_processed": 2028,
+  "generated_at": "2026-01-27T23:26:17.399894+08:00",
+  "total_titles_processed": 2130,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             23,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时25分]"
+          "appearance_count": 6,
+          "time_info": "[20时35分 ~ 23时26分]"
         },
         {
           "title": "新年旺自己的方式",

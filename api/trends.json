@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T17:28:07.048400+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-01-27T18:22:20.762542+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新年旺自己的方式",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "白月光大衣拿捏新年本命穿搭",
+          "url": "https://www.douyin.com/hot/2380988",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "章若楠的新年好运风向",

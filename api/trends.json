@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T03:23:08.803158+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-29T04:23:29.173611+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 04时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "挑战一人复刻2014马年春晚",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E4%B8%80%E4%BA%BA%E5%A4%8D%E5%88%BB2014%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     }

@@ -1,87 +1,22 @@
 {
-  "generated_at": "2026-01-28T23:27:21.554556+08:00",
-  "total_titles_processed": 2160,
+  "generated_at": "2026-01-29T00:30:50.706963+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "年度穿搭开启新年时髦感",
           "url": "https://www.douyin.com/hot/2381875",
           "source": "抖音",
           "ranks": [
-            7,
-            9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时22分 ~ 23时27分]"
-        },
-        {
-          "title": "羊村的小伙伴们来送新年祝福啦",
-          "url": "https://www.douyin.com/hot/2381093",
-          "source": "抖音",
-          "ranks": [
-            26,
-            30,
-            23,
-            24,
-            25,
-            21,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 13时24分]"
-        },
-        {
-          "title": "白月光大衣拿捏新年本命穿搭",
-          "url": "https://www.douyin.com/hot/2380988",
-          "source": "抖音",
-          "ranks": [
-            30,
-            27,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时31分 ~ 11时41分]"
-        },
-        {
-          "title": "今夜3点，美联储“新年首秀”来袭",
-          "url": "https://flash.jin10.com/detail/20260128150535453800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "距离马年年夜饭还有20天",
-          "url": "https://www.douyin.com/hot/2381992",
-          "source": "抖音",
-          "ranks": [
-            10,
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 21时44分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         }
       ]
     }

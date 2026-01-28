@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T19:19:44.947601+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2026-01-28T20:36:05.922250+08:00",
+  "total_titles_processed": 1882,
   "failed_sources": [],
   "trends": [
     {
@@ -26,6 +26,19 @@
           "time_info": "[00时23分 ~ 13时24分]"
         },
         {
+          "title": "年度穿搭开启新年时髦感",
+          "url": "https://www.douyin.com/hot/2381875",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 20时36分]"
+        },
+        {
           "title": "白月光大衣拿捏新年本命穿搭",
           "url": "https://www.douyin.com/hot/2380988",
           "source": "抖音",
@@ -38,19 +51,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时31分 ~ 11时41分]"
-        },
-        {
-          "title": "年度穿搭开启新年时髦感",
-          "url": "https://www.douyin.com/hot/2381875",
-          "source": "抖音",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 19时19分]"
         },
         {
           "title": "今夜3点，美联储“新年首秀”来袭",
@@ -75,11 +75,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时36分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T09:14:20.273800+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-01-28T11:41:15.042125+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             24,
             25,
             21,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时41分]"
         },
         {
           "title": "白月光大衣拿捏新年本命穿搭",
@@ -31,11 +32,12 @@
           "ranks": [
             30,
             27,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 11时41分]"
         }
       ]
     }

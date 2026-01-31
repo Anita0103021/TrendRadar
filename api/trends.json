@@ -1,44 +1,7 @@
 {
-  "generated_at": "2026-01-31T23:17:53.050147+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-02-01T00:21:11.706428+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "你过年会送妈妈「新年战袍」吗？有什么适合送给妈妈的「时髦套装」？",
-          "url": "https://www.zhihu.com/question/1996624341345989094",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央视马年春晚第三次联排",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%81%94%E6%8E%92%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时05分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

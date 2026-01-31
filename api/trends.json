@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-31T18:18:51.014125+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-01-31T19:16:17.361914+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你过年会送妈妈「新年战袍」吗？有什么适合送给妈妈的「时髦套装」？",
+          "url": "https://www.zhihu.com/question/1996624341345989094",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        }
+      ]
+    },
     {
       "keyword_group": "马年",
       "match_count": 1,

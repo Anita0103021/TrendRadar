@@ -1,36 +1,22 @@
 {
-  "generated_at": "2026-02-01T23:19:36.516774+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-02-02T00:22:57.556770+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
-          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 19时17分]"
-        },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
           "url": "https://flash.jin10.com/detail/20260201204302915800",
           "source": "金十数据",
           "ranks": [
-            3,
-            7,
-            17
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }

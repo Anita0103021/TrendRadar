@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T00:31:49.008741+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-03T01:35:52.136952+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://www.zhihu.com/question/2001246362277258317",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 01时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 马年央视春晚，有什么看点？",
+          "url": "https://www.zhihu.com/question/1997400300982654445",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 01时35分]"
         }
       ]
     }

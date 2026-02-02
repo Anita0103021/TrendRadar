@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T15:07:39.939000+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-02-02T16:36:14.752474+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
@@ -19,6 +19,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 05时18分]"
+        },
+        {
+          "title": "多家车企新年首月销量出炉，鸿蒙智行交付增长超六成，理想交付新车超 2.7 万辆，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/2001246362277258317",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "马年就要做新年马“甲”",
+          "url": "https://www.douyin.com/hot/2387023",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "新势力新年首交卷：同比增长分化明显 零跑继续领跑、理想重返“榜眼”",

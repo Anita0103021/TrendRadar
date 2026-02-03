@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-03T17:35:06.388448+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-02-03T18:34:16.400522+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
       "match_count": 3,
       "titles": [
+        {
+          "title": "设计一半才想起来是马年",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%BE%E8%AE%A1%E4%B8%80%E5%8D%8A%E6%89%8D%E6%83%B3%E8%B5%B7%E6%9D%A5%E6%98%AF%E9%A9%AC%E5%B9%B4&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 18时34分]"
+        },
         {
           "title": "无畏契约马年套装赤焰铁骥",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E9%A9%AC%E5%B9%B4%E5%A5%97%E8%A3%85%E8%B5%A4%E7%84%B0%E9%93%81%E9%AA%A5",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 01时35分]"
-        },
-        {
-          "title": "设计一半才想起来是马年",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%BE%E8%AE%A1%E4%B8%80%E5%8D%8A%E6%89%8D%E6%83%B3%E8%B5%B7%E6%9D%A5%E6%98%AF%E9%A9%AC%E5%B9%B4&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
         }
       ]
     },

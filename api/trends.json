@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T19:31:38.506738+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-02-03T20:44:10.036446+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             29,
             27,
-            9
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 20时44分]"
         },
         {
           "title": "无畏契约马年套装赤焰铁骥",

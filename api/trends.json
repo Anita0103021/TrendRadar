@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-03T14:42:37.485391+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-03T15:39:22.051114+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
       "match_count": 2,
       "titles": [
+        {
+          "title": "无畏契约马年套装赤焰铁骥",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E9%A9%AC%E5%B9%B4%E5%A5%97%E8%A3%85%E8%B5%A4%E7%84%B0%E9%93%81%E9%AA%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时39分]"
+        },
         {
           "title": "2026 马年央视春晚，有什么看点？",
           "url": "https://www.zhihu.com/question/1997400300982654445",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 01时35分]"
-        },
-        {
-          "title": "无畏契约马年套装赤焰铁骥",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E9%A9%AC%E5%B9%B4%E5%A5%97%E8%A3%85%E8%B5%A4%E7%84%B0%E9%93%81%E9%AA%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         }
       ]
     },

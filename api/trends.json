@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-04T14:43:06.273560+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-02-04T15:41:09.273445+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马凡舒上了两次马年春晚",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%87%A1%E8%88%92%E4%B8%8A%E4%BA%86%E4%B8%A4%E6%AC%A1%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
+        },
         {
           "title": "无畏契约马年套装赤焰铁骥",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E9%A9%AC%E5%B9%B4%E5%A5%97%E8%A3%85%E8%B5%A4%E7%84%B0%E9%93%81%E9%AA%A5",

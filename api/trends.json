@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-04T15:41:09.273445+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-02-04T16:34:33.274533+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马凡舒上了两次马年春晚",
           "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%87%A1%E8%88%92%E4%B8%8A%E4%BA%86%E4%B8%A4%E6%AC%A1%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 16时34分]"
         },
         {
           "title": "无畏契约马年套装赤焰铁骥",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时24分 ~ 09时24分]"
+        },
+        {
+          "title": "王者马年新春版本首曝",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E9%A9%AC%E5%B9%B4%E6%96%B0%E6%98%A5%E7%89%88%E6%9C%AC%E9%A6%96%E6%9B%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     }

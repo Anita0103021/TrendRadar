@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T04:28:13.726833+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-02-05T05:28:08.163699+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             12,
             9,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "王者马年限定皮肤英雄公布",
@@ -28,11 +29,12 @@
           "ranks": [
             16,
             17,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "王者马年限定皮肤形象首曝",
@@ -43,8 +45,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "王者马年限定皮肤英雄公布",

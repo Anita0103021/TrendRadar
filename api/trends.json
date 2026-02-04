@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T02:41:18.187558+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-02-05T03:35:59.351908+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             12,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时35分]"
         },
         {
           "title": "王者马年限定皮肤英雄公布",
@@ -30,8 +31,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时35分]"
         },
         {
           "title": "王者马年限定皮肤形象首曝",
@@ -41,8 +42,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 03时35分]"
         },
         {
           "title": "王者马年限定皮肤英雄公布",
@@ -50,11 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 03时35分]"
         }
       ]
     }

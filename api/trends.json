@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T12:09:52.216444+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-02-05T13:52:28.987746+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             11,
             17,
             19,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 09时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 13时52分]"
         },
         {
           "title": "王者马年限定皮肤英雄公布",

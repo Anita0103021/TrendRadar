@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T16:35:07.545831+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-02-06T17:37:13.181180+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时48分 ~ 17时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马年养匹真马？销量暴涨7成",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E5%85%BB%E5%8C%B9%E7%9C%9F%E9%A9%AC%EF%BC%9F%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A87%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         }
       ]
     }

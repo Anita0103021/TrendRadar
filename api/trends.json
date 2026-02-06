@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T13:49:16.282370+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-02-06T14:45:37.933723+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时45分]"
         },
         {
           "title": "拆箱各大公司的新年礼盒",
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E7%AE%B1%E5%90%84%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A4%BC%E7%9B%92",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时48分 ~ 14时45分]"
         }
       ]
     }

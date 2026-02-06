@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T19:29:41.328872+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-02-06T20:43:55.620603+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             7,
             15,
             13,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时48分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[13时48分 ~ 20时43分]"
         },
         {
           "title": "有一定摄影基础，新年拍摄到底是用胶片机还是用数码机？",

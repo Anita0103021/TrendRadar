@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T22:40:13.237174+08:00",
-  "total_titles_processed": 2055,
+  "generated_at": "2026-02-06T23:35:06.620207+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             15,
             13,
             20,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时48分 ~ 22时40分]"
+          "appearance_count": 17,
+          "time_info": "[13时48分 ~ 23时35分]"
         },
         {
           "title": "直播丨通通来通过大年！南通文旅大联欢2026新年专场",

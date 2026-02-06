@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T14:45:37.933723+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-02-06T15:43:04.995339+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 15时43分]"
         },
         {
           "title": "拆箱各大公司的新年礼盒",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 15时43分]"
         }
       ]
     }

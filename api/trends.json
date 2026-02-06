@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:37:13.181180+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-02-06T18:34:30.442065+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多地新年氛围感已拉满",
@@ -28,8 +28,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时48分 ~ 18时34分]"
+        },
+        {
+          "title": "有一定摄影基础，新年拍摄到底是用胶片机还是用数码机？",
+          "url": "https://www.zhihu.com/question/1992636300243796977",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     },
@@ -42,11 +53,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E5%85%BB%E5%8C%B9%E7%9C%9F%E9%A9%AC%EF%BC%9F%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A87%E6%88%90",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时34分]"
         }
       ]
     }

@@ -1,79 +1,22 @@
 {
-  "generated_at": "2026-02-06T23:35:06.620207+08:00",
-  "total_titles_processed": 2154,
+  "generated_at": "2026-02-07T00:37:46.448749+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "多地新年氛围感已拉满",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%96%B0%E5%B9%B4%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%B7%B2%E6%8B%89%E6%BB%A1",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时09分 ~ 16时35分]"
-        },
         {
           "title": "拆箱各大公司的新年礼盒",
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E7%AE%B1%E5%90%84%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A4%BC%E7%9B%92",
           "source": "bilibili 热搜",
           "ranks": [
-            7,
-            15,
-            13,
-            20,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时48分 ~ 23时35分]"
-        },
-        {
-          "title": "直播丨通通来通过大年！南通文旅大联欢2026新年专场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32531654",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "有一定摄影基础，新年拍摄到底是用胶片机还是用数码机？",
-          "url": "https://www.zhihu.com/question/1992636300243796977",
-          "source": "知乎",
-          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马年养匹真马？销量暴涨7成",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E5%85%BB%E5%8C%B9%E7%9C%9F%E9%A9%AC%EF%BC%9F%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A87%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 19时29分]"
+          "time_info": "00时37分"
         }
       ]
     }

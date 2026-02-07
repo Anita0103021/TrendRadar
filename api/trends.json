@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T03:20:12.255359+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-02-08T04:20:36.977502+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "新年仪式感从非遗旗袍开始",
@@ -45,8 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时20分]"
         }
       ]
     }

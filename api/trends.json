@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T06:19:47.153324+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-02-08T07:24:25.185081+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "我的新年质感穿搭已就位",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时24分]"
         },
         {
           "title": "新年仪式感从非遗旗袍开始",
@@ -27,11 +27,23 @@
           "ranks": [
             28,
             30,
-            17
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 07时24分]"
+        },
+        {
+          "title": "新年目标！张本美和：赢一次国乒高排名队员，世界排名进前五",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559480",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     },
@@ -47,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时24分]"
         }
       ]
     }

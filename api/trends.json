@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T14:51:47.647099+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-02-08T15:36:17.972089+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时36分]"
         },
         {
           "title": "马年马姓艺人洗脑广告只剩谐音梗",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时36分]"
         },
         {
           "title": "马年流行这样的“三件套”",
@@ -49,7 +51,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -98,8 +100,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 15时36分]"
         }
       ]
     }

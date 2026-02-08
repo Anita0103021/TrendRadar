@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-02-08T15:36:17.972089+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-02-08T16:26:09.151741+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "我的新年质感穿搭已就位",
+          "url": "https://www.douyin.com/hot/2392535",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            4,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时51分]"
+        },
+        {
+          "title": "新年目标！张本美和：赢一次国乒高排名队员，世界排名进前五",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559480",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 16时26分]"
+        },
+        {
+          "title": "新年仪式感从非遗旗袍开始",
+          "url": "https://www.douyin.com/hot/2392527",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30,
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时26分 ~ 07时24分]"
+        },
+        {
+          "title": "新年马“甲”变装挑战",
+          "url": "https://www.douyin.com/hot/2393674",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
+        }
+      ]
+    },
     {
       "keyword_group": "马年",
       "match_count": 4,
@@ -25,11 +85,12 @@
           "ranks": [
             13,
             20,
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 16时26分]"
         },
         {
           "title": "马年马姓艺人洗脑广告只剩谐音梗",
@@ -54,54 +115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新年",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "我的新年质感穿搭已就位",
-          "url": "https://www.douyin.com/hot/2392535",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            4,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时51分]"
-        },
-        {
-          "title": "新年仪式感从非遗旗袍开始",
-          "url": "https://www.douyin.com/hot/2392527",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30,
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时26分 ~ 07时24分]"
-        },
-        {
-          "title": "新年目标！张本美和：赢一次国乒高排名队员，世界排名进前五",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32559480",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 15时36分]"
         }
       ]
     }

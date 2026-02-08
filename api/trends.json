@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T02:28:21.503045+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-02-09T03:21:06.085055+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时21分]"
         },
         {
           "title": "新年马“甲”变装挑战",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时21分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时21分]"
         },
         {
           "title": "跟着抖音颜值天团新年美出圈",
@@ -47,17 +47,18 @@
           "ranks": [
             19,
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时21分]"
         }
       ]
     },
     {
       "keyword_group": "马年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "关羽马年限定皮肤设计解析",
@@ -68,8 +69,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时21分]"
         },
         {
           "title": "朵莉亚马年限定皮肤预览",
@@ -77,11 +78,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            26
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时21分]"
+        },
+        {
+          "title": "李谷一自曝因身体原因缺席马年春晚",
+          "url": "https://www.toutiao.com/trending/7603475986017042473/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
         }
       ]
     }

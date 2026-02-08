@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T18:21:18.133154+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-02-08T19:19:24.841388+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时58分 ~ 18时21分]"
+          "appearance_count": 8,
+          "time_info": "[13时58分 ~ 19时19分]"
         },
         {
           "title": "“马年限定”接连“出圈”",
@@ -42,8 +42,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时19分]"
+        },
+        {
+          "title": "朵莉亚马年限定皮肤预览",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%B5%E8%8E%89%E4%BA%9A%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E9%A2%84%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "马年马姓艺人洗脑广告只剩谐音梗",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时58分 ~ 15时36分]"
-        },
-        {
-          "title": "朵莉亚马年限定皮肤预览",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%B5%E8%8E%89%E4%BA%9A%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E9%A2%84%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时21分]"
         },
         {
           "title": "马年流行这样的“三件套”",
@@ -85,7 +85,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "我的新年质感穿搭已就位",
@@ -114,8 +114,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 19时19分]"
+        },
+        {
+          "title": "新年马“甲”变装挑战",
+          "url": "https://www.douyin.com/hot/2393674",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时19分]"
         },
         {
           "title": "新年仪式感从非遗旗袍开始",
@@ -132,16 +145,15 @@
           "time_info": "[02时26分 ~ 07时24分]"
         },
         {
-          "title": "新年马“甲”变装挑战",
-          "url": "https://www.douyin.com/hot/2393674",
-          "source": "抖音",
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            12
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     }

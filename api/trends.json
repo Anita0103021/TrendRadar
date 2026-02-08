@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T17:25:45.806267+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-02-08T18:21:18.133154+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             20,
             22,
             14,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 18时21分]"
         },
         {
           "title": "“马年限定”接连“出圈”",
@@ -40,9 +41,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时21分]"
         },
         {
           "title": "马年马姓艺人洗脑广告只剩谐音梗",
@@ -62,11 +63,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%B5%E8%8E%89%E4%BA%9A%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E9%A2%84%E8%A7%88",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时21分]"
         },
         {
           "title": "马年流行这样的“三件套”",
@@ -108,11 +110,12 @@
             17,
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时24分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 18时21分]"
         },
         {
           "title": "新年仪式感从非遗旗袍开始",
@@ -137,8 +140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时21分]"
         }
       ]
     }

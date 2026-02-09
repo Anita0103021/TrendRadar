@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T06:31:12.021259+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-02-10T07:32:48.272085+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             29,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时32分]"
         },
         {
           "title": "关羽马年限定皮肤设计解析",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%B3%E7%BE%BD%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E8%AE%BE%E8%AE%A1%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 07时32分]"
         }
       ]
     },

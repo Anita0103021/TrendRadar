@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:53:18.079521+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-02-09T16:43:09.895318+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "新年流光贵女妆",
@@ -69,8 +69,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 16时43分]"
+        },
+        {
+          "title": "马上唱起新年好运歌",
+          "url": "https://www.douyin.com/hot/2393977",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "文儿新年贺岁大舞台",
@@ -87,7 +98,7 @@
     },
     {
       "keyword_group": "马年",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "关羽马年限定皮肤设计解析",
@@ -101,11 +112,12 @@
             19,
             16,
             22,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 15时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 16时43分]"
         },
         {
           "title": "朵莉亚马年限定皮肤预览",
@@ -136,6 +148,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 06时21分]"
+        },
+        {
+          "title": "云缨马年限定皮肤设计解析",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E7%BC%A8%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E8%AE%BE%E8%AE%A1%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "飞驰3张驰名字和马年是顶配",

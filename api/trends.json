@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T18:54:10.932424+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-02-09T19:42:25.374063+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,19 @@
           "time_info": "[00时23分 ~ 09时29分]"
         },
         {
+          "title": "任天堂举办新年首场伙伴直面会，《生化 9》《FF7》等大作登陆 NS2，如何评价？对此你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2002510207360721949",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 19时42分]"
+        },
+        {
           "title": "跟着抖音颜值天团新年美出圈",
           "url": "https://www.douyin.com/hot/2393819",
           "source": "抖音",
@@ -61,28 +74,17 @@
           "time_info": "[00时23分 ~ 15时53分]"
         },
         {
-          "title": "任天堂举办新年首场伙伴直面会，《生化 9》《FF7》等大作登陆 NS2，如何评价？对此你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2002510207360721949",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 18时54分]"
-        },
-        {
           "title": "从亏钱到新年排名第一，这只基金终于调对了仓？",
           "url": "https://www.cls.cn/detail/2284356",
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "马上唱起新年好运歌",
@@ -125,11 +127,12 @@
             16,
             22,
             30,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 19时42分]"
         },
         {
           "title": "朵莉亚马年限定皮肤预览",
@@ -156,11 +159,25 @@
           "ranks": [
             13,
             15,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 18时54分]"
+          "appearance_count": 6,
+          "time_info": "[16时42分 ~ 19时42分]"
+        },
+        {
+          "title": "貂蝉马年限定皮肤设计解析",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B2%82%E8%9D%89%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E8%AE%BE%E8%AE%A1%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "李谷一自曝因身体原因缺席马年春晚",
@@ -173,18 +190,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 06时21分]"
-        },
-        {
-          "title": "貂蝉马年限定皮肤设计解析",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B2%82%E8%9D%89%E9%A9%AC%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E8%AE%BE%E8%AE%A1%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 18时54分]"
         },
         {
           "title": "飞驰3张驰名字和马年是顶配",

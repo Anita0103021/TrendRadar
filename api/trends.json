@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T07:25:29.927044+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-02-09T09:29:56.510210+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新年流光贵女妆",
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2283872",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时29分]"
         },
         {
           "title": "跟着抖音颜值天团新年美出圈",
@@ -51,11 +52,23 @@
             26,
             29,
             30,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时29分]"
+        },
+        {
+          "title": "文儿新年贺岁大舞台",
+          "url": "https://www.douyin.com/hot/2393599",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -76,8 +89,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时29分]"
         },
         {
           "title": "朵莉亚马年限定皮肤预览",
@@ -88,11 +101,12 @@
             26,
             17,
             18,
-            24
+            24,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时29分]"
         },
         {
           "title": "李谷一自曝因身体原因缺席马年春晚",

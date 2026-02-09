@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T12:22:36.552105+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-02-09T14:05:04.106931+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
@@ -56,19 +56,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 14时05分]"
         },
         {
           "title": "任天堂举办新年首场伙伴直面会，《生化 9》《FF7》等大作登陆 NS2，如何评价？对此你有哪些期待？",
           "url": "https://www.zhihu.com/question/2002510207360721949",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时05分]"
         },
         {
           "title": "文儿新年贺岁大舞台",
@@ -85,7 +86,7 @@
     },
     {
       "keyword_group": "马年",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "关羽马年限定皮肤设计解析",
@@ -101,8 +102,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 14时05分]"
         },
         {
           "title": "朵莉亚马年限定皮肤预览",
@@ -114,11 +115,12 @@
             17,
             18,
             24,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 12时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 14时05分]"
         },
         {
           "title": "李谷一自曝因身体原因缺席马年春晚",
@@ -131,6 +133,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 06时21分]"
+        },
+        {
+          "title": "飞驰3张驰名字和马年是顶配",
+          "url": "https://www.douyin.com/hot/2394538",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
         }
       ]
     }

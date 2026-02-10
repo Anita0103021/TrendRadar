@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T16:43:48.146878+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-02-10T17:55:58.998162+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             28,
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 17时55分]"
         },
         {
           "title": "请查收马年第一份走心祝福",
@@ -94,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 16时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 17时55分]"
         },
         {
           "title": "中国人自己的新年气氛组",

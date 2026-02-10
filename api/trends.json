@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T06:34:32.574353+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-02-11T07:34:17.912762+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             18,
             22,
             19,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时34分]"
         },
         {
           "title": "黑神话钟馗新年实机短片",
@@ -31,11 +32,12 @@
             19,
             20,
             22,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时34分]"
         }
       ]
     },
@@ -52,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时34分]"
         },
         {
           "title": "李谷一回应缺席马年春晚",
@@ -64,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时34分]"
         }
       ]
     }

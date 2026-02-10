@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T19:46:15.861325+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-02-10T20:58:34.179002+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8F%82%E4%B8%8E%E6%80%BB%E5%8F%B0%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%85%B1%E5%88%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 20时58分]"
         },
         {
           "title": "请查收马年第一份走心祝福",
@@ -103,11 +104,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E6%96%B0%E5%B9%B4%E5%AE%9E%E6%9C%BA%E7%9F%AD%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时46分]"
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时58分]"
         },
         {
           "title": "中国人自己的新年气氛组",
@@ -121,6 +123,19 @@
           "time_info": "14时09分"
         },
         {
+          "title": "减肥1年终于以最胖的姿态迎来了新年",
+          "url": "https://www.baidu.com/s?wd=%E5%87%8F%E8%82%A51%E5%B9%B4%E7%BB%88%E4%BA%8E%E4%BB%A5%E6%9C%80%E8%83%96%E7%9A%84%E5%A7%BF%E6%80%81%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%96%B0%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时49分 ~ 20时58分]"
+        },
+        {
           "title": "外国主播看黑神话钟馗新年实机短片",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%9B%BD%E4%B8%BB%E6%92%AD%E7%9C%8B%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E6%96%B0%E5%B9%B4%E5%AE%9E%E6%9C%BA%E7%9F%AD%E7%89%87",
           "source": "bilibili 热搜",
@@ -131,18 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 15时56分]"
-        },
-        {
-          "title": "减肥1年终于以最胖的姿态迎来了新年",
-          "url": "https://www.baidu.com/s?wd=%E5%87%8F%E8%82%A51%E5%B9%B4%E7%BB%88%E4%BA%8E%E4%BB%A5%E6%9C%80%E8%83%96%E7%9A%84%E5%A7%BF%E6%80%81%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%96%B0%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时49分 ~ 19时46分]"
         },
         {
           "title": "在平行世界和明星拍新年大片",

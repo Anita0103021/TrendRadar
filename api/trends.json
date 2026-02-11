@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T18:43:56.348000+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-02-11T19:40:37.858412+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
@@ -17,23 +17,12 @@
             3,
             28,
             27,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 18时43分]"
-        },
-        {
-          "title": "李谷一回应缺席马年春晚",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%B0%B7%E4%B8%80%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 07时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 19时40分]"
         },
         {
           "title": "马年就要马上时髦",
@@ -46,8 +35,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时05分 ~ 18时43分]"
+          "appearance_count": 7,
+          "time_info": "[14时05分 ~ 19时40分]"
+        },
+        {
+          "title": "李谷一回应缺席马年春晚",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%B0%B7%E4%B8%80%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时34分]"
         },
         {
           "title": "李谷一确认缺席马年春晚",

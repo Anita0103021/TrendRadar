@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T16:41:22.496698+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-02-11T17:46:47.553417+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             1,
             3,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 15时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 17时46分]"
         },
         {
           "title": "李谷一回应缺席马年春晚",
@@ -40,11 +41,12 @@
           "ranks": [
             11,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时05分 ~ 16时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时05分 ~ 17时46分]"
         },
         {
           "title": "李谷一确认缺席马年春晚",

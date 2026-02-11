@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T22:14:37.021341+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2026-02-11T23:56:01.298782+08:00",
+  "total_titles_processed": 1961,
   "failed_sources": [],
   "trends": [
     {
@@ -80,7 +80,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }
@@ -88,23 +88,8 @@
     },
     {
       "keyword_group": "马年",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "马年就要马上时髦",
-          "url": "https://www.douyin.com/hot/2396774",
-          "source": "抖音",
-          "ranks": [
-            11,
-            5,
-            6,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时05分 ~ 22时14分]"
-        },
         {
           "title": "UP主参与总台马年春晚共创",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%8F%82%E4%B8%8E%E6%80%BB%E5%8F%B0%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%85%B1%E5%88%9B",
@@ -120,8 +105,24 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 22时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 23时56分]"
+        },
+        {
+          "title": "马年就要马上时髦",
+          "url": "https://www.douyin.com/hot/2396774",
+          "source": "抖音",
+          "ranks": [
+            11,
+            5,
+            6,
+            8,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时05分 ~ 23时56分]"
         },
         {
           "title": "李谷一回应缺席马年春晚",
@@ -136,6 +137,17 @@
           "time_info": "[01时57分 ~ 07时34分]"
         },
         {
+          "title": "春运路上藏着这些马年彩蛋",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E8%B7%AF%E4%B8%8A%E8%97%8F%E7%9D%80%E8%BF%99%E4%BA%9B%E9%A9%AC%E5%B9%B4%E5%BD%A9%E8%9B%8B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
+        },
+        {
           "title": "李谷一确认缺席马年春晚",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%B0%B7%E4%B8%80%E7%A1%AE%E8%AE%A4%E7%BC%BA%E5%B8%AD%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -145,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "马嘉祺马年露马脚",
+          "url": "https://www.douyin.com/hot/2397601",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         }
       ]
     }

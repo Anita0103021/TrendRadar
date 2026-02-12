@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T06:26:11.560032+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-02-13T07:23:25.528133+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,18 @@
           "time_info": "[00时52分 ~ 04时28分]"
         },
         {
+          "title": "这个邻国也有马年 还有蜗牛年野猪年",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E9%82%BB%E5%9B%BD%E4%B9%9F%E6%9C%89%E9%A9%AC%E5%B9%B4+%E8%BF%98%E6%9C%89%E8%9C%97%E7%89%9B%E5%B9%B4%E9%87%8E%E7%8C%AA%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 07时23分]"
+        },
+        {
           "title": "马年爆火宠物小矮马最高售价超10万",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E7%88%86%E7%81%AB%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%9F%AE%E9%A9%AC%E6%9C%80%E9%AB%98%E5%94%AE%E4%BB%B7%E8%B6%8510%E4%B8%87",
           "source": "百度热搜",
@@ -47,17 +59,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "这个邻国也有马年 还有蜗牛年野猪年",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%AA%E9%82%BB%E5%9B%BD%E4%B9%9F%E6%9C%89%E9%A9%AC%E5%B9%B4+%E8%BF%98%E6%9C%89%E8%9C%97%E7%89%9B%E5%B9%B4%E9%87%8E%E7%8C%AA%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         },
         {
           "title": "江寻千马年冰雕神兽龙马",

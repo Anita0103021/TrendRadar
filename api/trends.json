@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T15:12:56.236927+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-02-12T16:39:03.826486+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
             21,
             22,
             28,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 14时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 16时39分]"
         },
         {
           "title": "UP主参与总台马年春晚共创",
@@ -67,11 +68,12 @@
           "ranks": [
             26,
             24,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时39分]"
         },
         {
           "title": "江寻千马年冰雕神兽龙马",
@@ -83,8 +85,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时39分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T01:54:30.876608+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-13T02:55:09.020904+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时55分]"
         },
         {
           "title": "王者荣耀马年全明星表演赛",
@@ -25,11 +26,12 @@
           "source": "微博",
           "ranks": [
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时55分]"
         },
         {
           "title": "马年爆火宠物小矮马最高售价超10万",

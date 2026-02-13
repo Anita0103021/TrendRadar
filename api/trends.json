@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T21:58:52.411841+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2026-02-13T22:41:35.902330+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时55分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[13时55分 ~ 22时41分]"
         },
         {
           "title": "王者荣耀马年全明星表演赛",
@@ -136,11 +136,12 @@
             29,
             24,
             27,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时44分 ~ 22时41分]"
         },
         {
           "title": "王者农历新年贺岁短片",

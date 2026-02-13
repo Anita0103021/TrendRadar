@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T06:27:36.821389+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-02-14T07:25:40.288736+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             30,
             29,
             28,
-            20
+            20,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 07时25分]"
         },
         {
           "title": "王者农历新年贺岁短片",
@@ -30,11 +31,12 @@
           "ranks": [
             7,
             5,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 07时25分]"
         }
       ]
     }

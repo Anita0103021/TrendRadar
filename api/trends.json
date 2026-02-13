@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T17:38:42.203678+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-02-13T18:34:52.133994+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "王者荣耀马年全明星表演赛",
@@ -32,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时55分 ~ 17时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 18时34分]"
         },
         {
           "title": "王者荣耀马年全明星表演赛",
@@ -85,6 +85,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "马年来许愿",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%9D%A5%E8%AE%B8%E6%84%BF%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "马年爆火宠物小矮马最高售价超10万",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E7%88%86%E7%81%AB%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%9F%AE%E9%A9%AC%E6%9C%80%E9%AB%98%E5%94%AE%E4%BB%B7%E8%B6%8510%E4%B8%87",
           "source": "百度热搜",
@@ -110,7 +121,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "王者农历新年贺岁短片",
@@ -120,11 +131,12 @@
             2,
             3,
             25,
-            28
+            28,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 18时34分]"
         },
         {
           "title": "国内新年灯会有多震撼",
@@ -136,11 +148,23 @@
             9,
             18,
             29,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时44分 ~ 17时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 18时34分]"
+        },
+        {
+          "title": "TF家族新年音乐会纪录片",
+          "url": "https://s.weibo.com/weibo?q=TF%E5%AE%B6%E6%97%8F%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "外交部发言人林剑系红领带送新年祝福",
@@ -149,7 +173,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         }

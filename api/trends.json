@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T16:25:31.867194+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-14T17:25:46.819977+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国内新年灯会有多震撼",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时38分 ~ 12时05分]"
+        },
+        {
+          "title": "团圆是最好的新年礼物",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%A2%E5%9C%86%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B0%E5%B9%B4%E7%A4%BC%E7%89%A9%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "送阿福成为各地新年俗",
@@ -76,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 17时25分]"
         },
         {
           "title": "马年表情包",
@@ -87,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时25分]"
         },
         {
           "title": "马年春晚备播录制",

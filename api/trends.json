@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T03:19:58.567492+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-02-15T04:19:48.599042+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "马年用混剪精选年味名场面",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "“马年无春不宜结婚”系谣言",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "“2026马年无春不宜结婚”系谣言",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "马年表情包",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "“2026马年不宜婚嫁”系谣言",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     },
@@ -89,11 +89,12 @@
           "ranks": [
             24,
             28,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     }

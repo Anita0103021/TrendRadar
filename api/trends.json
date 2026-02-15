@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T20:36:36.692681+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-02-15T21:41:54.758603+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "一组数据看马年春节出行",
@@ -112,6 +112,17 @@
           "time_info": "[12时16分 ~ 19时19分]"
         },
         {
+          "title": "马年春晚倒计时1天",
+          "url": "https://www.douyin.com/hot/2401694",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时43分 ~ 21时41分]"
+        },
+        {
           "title": "马年清清来送签名红包",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%B8%85%E6%B8%85%E6%9D%A5%E9%80%81%E7%AD%BE%E5%90%8D%E7%BA%A2%E5%8C%85%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -126,17 +137,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时53分 ~ 19时19分]"
-        },
-        {
-          "title": "马年春晚倒计时1天",
-          "url": "https://www.douyin.com/hot/2401694",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时43分 ~ 20时36分]"
         },
         {
           "title": "迪丽热巴马年央视春晚",
@@ -210,6 +210,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "新春走基层丨马年春运，有个05后在车厢里“暴走”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32575666",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "王者马年限定皮肤二创",
           "url": "https://www.douyin.com/hot/2401206",
           "source": "抖音",
@@ -238,9 +249,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "历届马年春晚精彩回顾",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%86%E5%B1%8A%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E7%B2%BE%E5%BD%A9%E5%9B%9E%E9%A1%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     },
@@ -260,11 +282,28 @@
             15,
             13,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时44分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时44分 ~ 21时41分]"
+        },
+        {
+          "title": "爱你老己 新年快乐",
+          "url": "https://www.douyin.com/hot/2401580",
+          "source": "抖音",
+          "ranks": [
+            23,
+            25,
+            26,
+            27,
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 21时41分]"
         },
         {
           "title": "本土最勤快黑猩猩 打扫卫生迎新年",
@@ -282,22 +321,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时18分]"
-        },
-        {
-          "title": "爱你老己 新年快乐",
-          "url": "https://www.douyin.com/hot/2401580",
-          "source": "抖音",
-          "ranks": [
-            23,
-            25,
-            26,
-            27,
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 20时36分]"
         },
         {
           "title": "杰克小兔龙女塔罗解锁新年能量",
@@ -351,6 +374,19 @@
           "time_info": "[16时26分 ~ 18时21分]"
         },
         {
+          "title": "不同发型对新年穿搭的重要性",
+          "url": "https://www.douyin.com/hot/2401808",
+          "source": "抖音",
+          "ranks": [
+            30,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时41分]"
+        },
+        {
           "title": "火了千年的春联才是中国人的新年顶流",
           "url": "https://www.toutiao.com/trending/7606870938340098084/",
           "source": "今日头条",
@@ -360,18 +396,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时18分 ~ 19时19分]"
-        },
-        {
-          "title": "不同发型对新年穿搭的重要性",
-          "url": "https://www.douyin.com/hot/2401808",
-          "source": "抖音",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时36分]"
         },
         {
           "title": "王楚钦孙颖莎送2026新年祝福",

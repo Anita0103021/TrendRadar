@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T01:21:18.261677+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-02-16T02:27:42.129615+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2401808",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "爱你老己 新年快乐",
@@ -24,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "绝美喜庆新年写真",
@@ -53,11 +55,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32575666",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "央视马年春晚完成五次彩排",
@@ -67,8 +70,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "怎样看待马年生肖茅台包装将「昴」写成「昂」？这种错版茅台会更有收藏价值吗？",
@@ -76,11 +79,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时27分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T02:27:42.129615+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-02-16T03:21:16.822266+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时21分]"
         },
         {
           "title": "爱你老己 新年快乐",
@@ -26,11 +26,12 @@
           "ranks": [
             22,
             17,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时21分]"
         },
         {
           "title": "绝美喜庆新年写真",
@@ -59,19 +60,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时21分]"
         },
         {
           "title": "央视马年春晚完成五次彩排",
           "url": "https://www.douyin.com/hot/2401357",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时21分]"
         },
         {
           "title": "怎样看待马年生肖茅台包装将「昴」写成「昂」？这种错版茅台会更有收藏价值吗？",
@@ -83,8 +85,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时21分]"
         }
       ]
     }

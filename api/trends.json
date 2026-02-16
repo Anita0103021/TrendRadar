@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T06:22:08.303066+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-02-17T07:24:06.264684+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "总台马年春晚",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时24分]"
         },
         {
           "title": "央视马年春晚",
@@ -26,8 +26,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时24分]"
+        },
+        {
+          "title": "总台马年春晚完整版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B0%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%AE%8C%E6%95%B4%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时35分 ~ 07时24分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -40,19 +51,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时24分]"
         },
         {
-          "title": "总台马年春晚完整版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B0%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%AE%8C%E6%95%B4%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "初一迎春接福 马年跃马呈祥",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%80%E8%BF%8E%E6%98%A5%E6%8E%A5%E7%A6%8F+%E9%A9%AC%E5%B9%B4%E8%B7%83%E9%A9%AC%E5%91%88%E7%A5%A5",
+          "source": "百度热搜",
           "ranks": [
-            1
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时35分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[01时34分 ~ 07时24分]"
         },
         {
           "title": "马年春晚主持人状态好真实",
@@ -63,22 +75,12 @@
             29,
             8,
             14,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时22分]"
-        },
-        {
-          "title": "初一迎春接福 马年跃马呈祥",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%80%E8%BF%8E%E6%98%A5%E6%8E%A5%E7%A6%8F+%E9%A9%AC%E5%B9%B4%E8%B7%83%E9%A9%AC%E5%91%88%E7%A5%A5",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 06时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时24分]"
         },
         {
           "title": "马年春晚为何独爱机器人",
@@ -96,11 +98,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32620358",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时24分]"
         },
         {
           "title": "央视马年春晚节目单公布",
@@ -112,11 +115,12 @@
             18,
             19,
             24,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时24分]"
         },
         {
           "title": "有哪些适合 2026 马年春节的祝福语？",
@@ -125,11 +129,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 03时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 07时24分]"
         },
         {
           "title": "央视马年春晚节目单",
@@ -155,6 +160,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 02时36分]"
+        },
+        {
+          "title": "如何评价《哈利·波特》马尔福成中国马年吉祥物，饰演者本人下场转发玩梗？",
+          "url": "https://www.zhihu.com/question/2002486347743588819",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
         },
         {
           "title": "蚂蚁阿福亮相马年春晚舞台",
@@ -183,7 +199,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "新年文案",
@@ -194,11 +210,12 @@
             13,
             20,
             28,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时24分]"
         },
         {
           "title": "#烟火赴新年#",
@@ -218,11 +235,25 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 07时24分]"
+        },
+        {
+          "title": "新年祝福的100种表达方式",
+          "url": "https://www.douyin.com/hot/2402709",
+          "source": "抖音",
+          "ranks": [
+            30,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 07时24分]"
         },
         {
           "title": "一起许下你的新年愿望",
@@ -236,17 +267,16 @@
           "time_info": "00时36分"
         },
         {
-          "title": "新年祝福的100种表达方式",
-          "url": "https://www.douyin.com/hot/2402709",
+          "title": "定格新年的绚烂瞬间",
+          "url": "https://www.douyin.com/hot/2402652",
           "source": "抖音",
           "ranks": [
-            30,
             28,
-            27
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 07时24分]"
         },
         {
           "title": "新年快乐，想对 2026 的自己说点什么？",
@@ -260,15 +290,26 @@
           "time_info": "[06时21分 ~ 06时22分]"
         },
         {
-          "title": "定格新年的绚烂瞬间",
-          "url": "https://www.douyin.com/hot/2402652",
-          "source": "抖音",
+          "title": "2026 新年到来之际，你的手机换上了怎样的「年味壁纸」？",
+          "url": "https://www.zhihu.com/question/2003183141960050014",
+          "source": "知乎",
           "ranks": [
-            28
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "新春走基层·见喜｜陪96岁爷爷在养老院里过新年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
         },
         {
           "title": "新年祝福语",

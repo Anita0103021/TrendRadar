@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T22:02:51.240979+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-02-16T23:35:59.590873+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "央视马年春晚节目单",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时50分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[15时50分 ~ 23时35分]"
         },
         {
           "title": "央视马年春晚节目单公布",
@@ -40,11 +40,12 @@
           "ranks": [
             1,
             2,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时50分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[15时50分 ~ 23时35分]"
         },
         {
           "title": "马年新春慢直播",
@@ -142,6 +143,17 @@
           "time_info": "[18时42分 ~ 20时47分]"
         },
         {
+          "title": "总台马年春晚",
+          "url": "https://www.baidu.com/s?wd=%E6%80%BB%E5%8F%B0%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时35分]"
+        },
+        {
           "title": "一起看马年春晚",
           "url": "https://www.douyin.com/hot/2402548",
           "source": "抖音",
@@ -154,17 +166,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时03分 ~ 22时02分]"
-        },
-        {
-          "title": "总台马年春晚",
-          "url": "https://www.baidu.com/s?wd=%E6%80%BB%E5%8F%B0%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时02分]"
         },
         {
           "title": "央视马年春晚完成五次彩排",
@@ -220,16 +221,39 @@
           "time_info": "[18时42分 ~ 22时02分]"
         },
         {
+          "title": "蚂蚁阿福亮相马年春晚舞台",
+          "url": "https://wallstreetcn.com/livenews/3055781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "文化为根，马年新象，央视春晚马上开席",
           "url": "https://m.thepaper.cn/newsDetail_forward_32620358",
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时35分]"
+        },
+        {
+          "title": "有哪些值得分享的马年春节惊艳文案?",
+          "url": "https://www.zhihu.com/question/10587954849",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时35分]"
         },
         {
           "title": "央视马年春晚海报来了",
@@ -256,17 +280,6 @@
           "time_info": "[09时28分 ~ 14时03分]"
         },
         {
-          "title": "有哪些值得分享的马年春节惊艳文案?",
-          "url": "https://www.zhihu.com/question/10587954849",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时02分]"
-        },
-        {
           "title": "马年的第一句祝福 你想说给谁",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%A5%E7%A5%9D%E7%A6%8F+%E4%BD%A0%E6%83%B3%E8%AF%B4%E7%BB%99%E8%B0%81",
           "source": "百度热搜",
@@ -276,6 +289,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时46分 ~ 20时47分]"
+        },
+        {
+          "title": "马年春晚主持人状态好真实",
+          "url": "https://www.toutiao.com/trending/7607304648491909170/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "外国领导人和国际组织负责人祝贺马年新春。",
@@ -289,13 +313,24 @@
           "time_info": "14时03分"
         },
         {
+          "title": "有哪些适合 2026 马年春节的祝福语？",
+          "url": "https://www.zhihu.com/question/1989214369121342232",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "#马年春晚气氛组#",
           "url": "https://www.baidu.com/s?wd=%23%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E6%B0%94%E6%B0%9B%E7%BB%84%23",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -306,7 +341,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -408,22 +443,12 @@
             19,
             17,
             15,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 22时02分]"
-        },
-        {
-          "title": "有关 2026 新年祝福语有哪些？",
-          "url": "https://www.zhihu.com/question/1989214369121342232",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "appearance_count": 9,
+          "time_info": "[17时45分 ~ 23时35分]"
         },
         {
           "title": "新年祝福语",
@@ -432,11 +457,23 @@
           "ranks": [
             28,
             22,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时45分 ~ 23时35分]"
+        },
+        {
+          "title": "有关 2026 新年祝福语有哪些？",
+          "url": "https://www.zhihu.com/question/1989214369121342232",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "詹姆斯祝福中国球迷新年快乐",
@@ -477,6 +514,18 @@
           "time_info": "[19时36分 ~ 22时02分]"
         },
         {
+          "title": "新年祝福的100种表达方式",
+          "url": "https://www.douyin.com/hot/2402709",
+          "source": "抖音",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时35分]"
+        },
+        {
           "title": "绝美喜庆新年写真",
           "url": "https://www.douyin.com/hot/2402114",
           "source": "抖音",
@@ -498,17 +547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
-        },
-        {
-          "title": "新年祝福的100种表达方式",
-          "url": "https://www.douyin.com/hot/2402709",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "丽萍一家祝大家新年快乐",

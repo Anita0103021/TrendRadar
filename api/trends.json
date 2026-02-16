@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T01:35:07.720402+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-02-17T02:36:07.636913+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "总台马年春晚",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "央视马年春晚",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -35,22 +35,35 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
+        },
+        {
+          "title": "总台马年春晚完整版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B0%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%AE%8C%E6%95%B4%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 02时36分]"
         },
         {
           "title": "有哪些适合 2026 马年春节的祝福语？",
           "url": "https://www.zhihu.com/question/1989214369121342232",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "马年春晚主持人状态好真实",
@@ -58,11 +71,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            29
+            29,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "文化为根，马年新象，央视春晚马上开席",
@@ -72,8 +86,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "央视马年春晚节目单公布",
@@ -81,11 +95,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "初一迎春接福 马年跃马呈祥",
@@ -95,20 +110,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 01时35分]"
-        },
-        {
-          "title": "马年春晚带动机器人卖爆了：机器人搜索量环比增长超300%",
-          "url": "https://wallstreetcn.com/livenews/3055792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 02时36分]"
         },
         {
           "title": "马年春晚为何独爱机器人",
@@ -118,8 +121,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 02时36分]"
+        },
+        {
+          "title": "马年春晚带动机器人卖爆了：机器人搜索量环比增长超300%",
+          "url": "https://wallstreetcn.com/livenews/3055792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "蚂蚁阿福亮相马年春晚舞台",
@@ -167,11 +183,12 @@
           "source": "微博",
           "ranks": [
             11,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "#烟火赴新年#",
@@ -181,8 +198,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时36分]"
         },
         {
           "title": "和留守儿童一起过新年",

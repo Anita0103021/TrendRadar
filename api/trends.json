@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T13:55:14.614683+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-02-17T14:51:43.303575+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时35分 ~ 13时55分]"
+          "appearance_count": 17,
+          "time_info": "[02时35分 ~ 14时51分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 13时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 14时51分]"
         },
         {
           "title": "总台马年春晚",
@@ -50,11 +50,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 13时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 14时51分]"
         },
         {
           "title": "初一迎春接福 马年跃马呈祥",
@@ -89,11 +90,12 @@
           "url": "https://www.douyin.com/hot/2403458",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 14时51分]"
         },
         {
           "title": "文化为根，马年新象，央视春晚马上开席",
@@ -105,8 +107,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 13时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 14时51分]"
         },
         {
           "title": "央视马年春晚节目单公布",
@@ -140,6 +142,32 @@
           "time_info": "[00时36分 ~ 07时24分]"
         },
         {
+          "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
+          "url": "https://www.cls.cn/detail/2290994",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 14时51分]"
+        },
+        {
+          "title": "马年春晚大锁管乐小品又来了",
+          "url": "https://www.douyin.com/hot/2403487",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 14时51分]"
+        },
+        {
           "title": "央视马年春晚节目单",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95",
           "source": "bilibili 热搜",
@@ -150,30 +178,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时29分 ~ 06时22分]"
-        },
-        {
-          "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
-          "url": "https://www.cls.cn/detail/2290994",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 13时55分]"
-        },
-        {
-          "title": "马年春晚大锁管乐小品又来了",
-          "url": "https://www.douyin.com/hot/2403487",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 13时55分]"
         },
         {
           "title": "如何评价《哈利·波特》马尔福成中国马年吉祥物，饰演者本人下场转发玩梗？",
@@ -238,7 +242,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "新年文案",
@@ -276,11 +280,25 @@
           "source": "抖音",
           "ranks": [
             28,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时21分 ~ 13时55分]"
+          "appearance_count": 11,
+          "time_info": "[06时21分 ~ 14时51分]"
+        },
+        {
+          "title": "新春走基层·见喜｜陪96岁爷爷在养老院里过新年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 14时51分]"
         },
         {
           "title": "#烟火赴新年#",
@@ -308,17 +326,17 @@
           "time_info": "[01时34分 ~ 07时24分]"
         },
         {
-          "title": "新春走基层·见喜｜陪96岁爷爷在养老院里过新年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621561",
-          "source": "澎湃新闻",
+          "title": "大年初一新年福气到",
+          "url": "https://www.douyin.com/hot/2403532",
+          "source": "抖音",
           "ranks": [
-            20,
-            17,
-            16
+            7,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 14时51分]"
         },
         {
           "title": "一起许下你的新年愿望",
@@ -330,18 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "大年初一新年福气到",
-          "url": "https://www.douyin.com/hot/2403532",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 13时55分]"
         },
         {
           "title": "新年祝福",
@@ -420,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "马年一人一句新年快乐",
+          "url": "https://www.douyin.com/hot/2403820",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     }

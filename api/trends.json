@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T15:46:44.088135+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-02-17T16:38:23.227922+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时35分 ~ 15时46分]"
+          "appearance_count": 19,
+          "time_info": "[02时35分 ~ 16时38分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 15时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 16时38分]"
         },
         {
           "title": "总台马年春晚",
@@ -54,8 +54,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 15时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 16时38分]"
         },
         {
           "title": "初一迎春接福 马年跃马呈祥",
@@ -96,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 15时46分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 16时38分]"
         },
         {
           "title": "马年春晚为何独爱机器人",
@@ -148,11 +148,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 15时46分]"
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 16时38分]"
         },
         {
           "title": "马年春晚大锁管乐小品又来了",
@@ -162,11 +163,12 @@
             22,
             23,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 15时46分]"
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 16时38分]"
         },
         {
           "title": "央视马年春晚节目单",
@@ -246,7 +248,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -257,7 +259,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
@@ -265,7 +267,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "新年文案",
@@ -294,8 +296,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时23分 ~ 15时46分]"
+          "appearance_count": 11,
+          "time_info": "[07时23分 ~ 16时38分]"
+        },
+        {
+          "title": "定格新年的绚烂瞬间",
+          "url": "https://www.douyin.com/hot/2402652",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[06时21分 ~ 16时38分]"
         },
         {
           "title": "新年祝福的100种表达方式",
@@ -310,19 +326,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时36分 ~ 13时55分]"
-        },
-        {
-          "title": "定格新年的绚烂瞬间",
-          "url": "https://www.douyin.com/hot/2402652",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时21分 ~ 15时46分]"
         },
         {
           "title": "#烟火赴新年#",
@@ -359,8 +362,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时38分]"
         },
         {
           "title": "一起许下你的新年愿望",
@@ -430,6 +433,18 @@
           "time_info": "[13时54分 ~ 13时55分]"
         },
         {
+          "title": "马年一人一句新年快乐",
+          "url": "https://www.douyin.com/hot/2403820",
+          "source": "抖音",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 16时38分]"
+        },
+        {
           "title": "新年祝福语",
           "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F%E8%AF%AD&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -441,6 +456,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "用旋转运镜晒新年穿搭",
+          "url": "https://www.douyin.com/hot/2403669",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "美国国务卿鲁比奥发农历新年祝福",
           "url": "https://flash.jin10.com/detail/20260217102836546800",
           "source": "金十数据",
@@ -450,17 +476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "马年一人一句新年快乐",
-          "url": "https://www.douyin.com/hot/2403820",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
         }
       ]
     }

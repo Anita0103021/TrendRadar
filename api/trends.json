@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-17T18:40:02.651691+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-02-17T19:36:44.244153+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "总台马年春晚完整版",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B0%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E5%AE%8C%E6%95%B4%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[02时35分 ~ 18时40分]"
+          "appearance_count": 24,
+          "time_info": "[02时35分 ~ 19时36分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -30,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时36分 ~ 18时40分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 19时36分]"
         },
         {
           "title": "总台马年春晚",
@@ -56,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 18时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 19时36分]"
         },
         {
           "title": "央视马年春晚",
@@ -71,8 +72,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时36分 ~ 18时40分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 19时36分]"
         },
         {
           "title": "初一迎春接福 马年跃马呈祥",
@@ -159,8 +160,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 18时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 19时36分]"
         },
         {
           "title": "有哪些适合 2026 马年春节的祝福语？",
@@ -184,8 +185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 19时36分]"
         },
         {
           "title": "央视马年春晚节目单",
@@ -198,6 +199,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时29分 ~ 06时22分]"
+        },
+        {
+          "title": "马年祝你马上有好运",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E7%A5%9D%E4%BD%A0%E9%A9%AC%E4%B8%8A%E6%9C%89%E5%A5%BD%E8%BF%90%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "如何评价《哈利·波特》马尔福成中国马年吉祥物，饰演者本人下场转发玩梗？",
@@ -285,7 +297,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "大年初一新年福气到",
@@ -297,8 +309,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时13分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 19时36分]"
         },
         {
           "title": "新年文案",
@@ -325,11 +337,12 @@
             17,
             16,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时23分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[07时23分 ~ 19时36分]"
         },
         {
           "title": "定格新年的绚烂瞬间",
@@ -391,11 +404,23 @@
           "ranks": [
             30,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时51分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 19时36分]"
+        },
+        {
+          "title": "鲁比奥祝贺农历新年",
+          "url": "https://news.ifeng.com/c/8qozkbdHbJv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "一起许下你的新年愿望",
@@ -433,6 +458,17 @@
           "time_info": "[09时27分 ~ 12时14分]"
         },
         {
+          "title": "新年我就这样闪亮登场",
+          "url": "https://www.douyin.com/hot/2404151",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 19时36分]"
+        },
+        {
           "title": "新年快乐，想对 2026 的自己说点什么？",
           "url": "https://www.zhihu.com/question/2005579029143638520",
           "source": "知乎",
@@ -453,17 +489,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "新年我就这样闪亮登场",
-          "url": "https://www.douyin.com/hot/2404151",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
         },
         {
           "title": "近百只国宝空降宜宾贺新年",

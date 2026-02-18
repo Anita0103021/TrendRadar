@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T18:39:21.714011+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-02-18T19:35:03.466786+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时51分 ~ 18时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时51分 ~ 19时35分]"
         },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时51分 ~ 18时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时51分 ~ 19时35分]"
         },
         {
           "title": "马年春晚大锁管乐小品又来了",
@@ -204,8 +204,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时49分 ~ 18时39分]"
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 19时35分]"
         },
         {
           "title": "春启新程｜产科医生的除夕夜守望：“这是新年最好的礼物”",
@@ -238,6 +238,19 @@
           "time_info": "[01时52分 ~ 12时16分]"
         },
         {
+          "title": "用旋转运镜晒新年穿搭",
+          "url": "https://www.douyin.com/hot/2403669",
+          "source": "抖音",
+          "ranks": [
+            27,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普女儿伊万卡中文拜年：新年快乐",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
           "source": "百度热搜",
@@ -256,24 +269,12 @@
           "url": "https://wallstreetcn.com/livenews/3056291",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "用旋转运镜晒新年穿搭",
-          "url": "https://www.douyin.com/hot/2403669",
-          "source": "抖音",
-          "ranks": [
-            27,
-            23,
-            29
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 18时39分]"
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时35分]"
         },
         {
           "title": "凤凰传奇唱《拜新年》 爷青回",

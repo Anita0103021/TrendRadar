@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T12:16:02.152973+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-02-18T13:57:35.893761+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时57分]"
         },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时57分]"
         },
         {
           "title": "马年新春迎新政，上海浦东机场迎来首批加、英免签入境旅客",
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时57分]"
         },
         {
           "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时57分]"
         },
         {
           "title": "马年春晚大锁管乐小品又来了",
@@ -124,19 +124,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 09时31分]"
+          "appearance_count": 6,
+          "time_info": "[04时31分 ~ 13时57分]"
         },
         {
           "title": "马年春晚上宇树、银河、松延等机器人的表演给你留下了哪些印象？展示了哪些技术进展？",
           "url": "https://www.zhihu.com/question/2006827558272989178",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 13时57分]"
         },
         {
           "title": "机器人们在马年春晚上表演武术、小品、舞蹈等节目，如何评价机器人的表现？有哪些表演是机器人无法替代的？",
@@ -160,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "龙洋马年春晚以气场与温度诠释东方美",
+          "url": "https://www.toutiao.com/trending/7607744904076738596/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
@@ -189,8 +201,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时57分]"
         },
         {
           "title": "马年一人一句新年快乐",
@@ -209,6 +221,19 @@
           "time_info": "[01时52分 ~ 12时16分]"
         },
         {
+          "title": "用旋转运镜晒新年穿搭",
+          "url": "https://www.douyin.com/hot/2403669",
+          "source": "抖音",
+          "ranks": [
+            27,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 13时57分]"
+        },
+        {
           "title": "凤凰传奇唱《拜新年》 爷青回",
           "url": "https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%94%B1%E3%80%8A%E6%8B%9C%E6%96%B0%E5%B9%B4%E3%80%8B+%E7%88%B7%E9%9D%92%E5%9B%9E",
           "source": "百度热搜",
@@ -222,27 +247,16 @@
           "time_info": "[00时51分 ~ 07时24分]"
         },
         {
-          "title": "用旋转运镜晒新年穿搭",
-          "url": "https://www.douyin.com/hot/2403669",
-          "source": "抖音",
-          "ranks": [
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 12时16分]"
-        },
-        {
           "title": "特朗普女儿伊万卡中文拜年：新年快乐",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 13时57分]"
         },
         {
           "title": "鲁比奥祝贺农历新年",

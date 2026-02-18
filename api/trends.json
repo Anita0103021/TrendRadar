@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T15:49:41.474401+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-02-18T16:39:06.631618+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 15时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 16时39分]"
         },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -52,11 +52,12 @@
             10,
             9,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 15时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 16时39分]"
         },
         {
           "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
@@ -70,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 15时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 16时39分]"
         },
         {
           "title": "马年春晚大锁管乐小品又来了",
@@ -84,11 +85,12 @@
             16,
             18,
             11,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 16时39分]"
         },
         {
           "title": "大张伟谢娜唱阳光彩虹小白马共贺马年",
@@ -189,7 +191,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "春启新程｜产科医生的除夕夜守望：“这是新年最好的礼物”",
@@ -226,11 +228,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350764&amp;topic_name=B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%81%87%3F%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E8%A2%AB404",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 16时39分]"
         },
         {
           "title": "特朗普女儿伊万卡中文拜年：新年快乐",
@@ -239,11 +242,12 @@
           "ranks": [
             18,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 16时39分]"
         },
         {
           "title": "用旋转运镜晒新年穿搭",
@@ -270,6 +274,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 07时24分]"
+        },
+        {
+          "title": "航司回应新年伊始机票价腰斩",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%96%B0%E5%B9%B4%E4%BC%8A%E5%A7%8B%E6%9C%BA%E7%A5%A8%E4%BB%B7%E8%85%B0%E6%96%A9%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "鲁比奥祝贺农历新年",

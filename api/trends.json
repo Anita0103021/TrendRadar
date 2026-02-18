@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T20:46:50.568536+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-02-18T22:05:26.139876+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时51分 ~ 20时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时51分 ~ 22时05分]"
         },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时51分 ~ 20时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时51分 ~ 22时05分]"
         },
         {
           "title": "马年春晚大锁管乐小品又来了",
@@ -116,8 +116,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时20分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[03时20分 ~ 22时05分]"
         },
         {
           "title": "明星马年的第一条抖音",
@@ -167,6 +167,17 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "环球展讯｜纽约大都会博物馆喜迎马年：马在中国文明中的象征",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591105",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "龙洋马年春晚以气场与温度诠释东方美",
           "url": "https://www.toutiao.com/trending/7607744904076738596/",
           "source": "今日头条",
@@ -192,7 +203,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "B站弹幕假?新年快乐被404",
@@ -205,8 +216,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时49分 ~ 20时46分]"
+          "appearance_count": 10,
+          "time_info": "[15时49分 ~ 22时05分]"
         },
         {
           "title": "春启新程｜产科医生的除夕夜守望：“这是新年最好的礼物”",
@@ -303,6 +314,18 @@
           "time_info": "[16时38分 ~ 16时39分]"
         },
         {
+          "title": "蔡徐坤音乐节祝大家新年快乐",
+          "url": "https://www.douyin.com/hot/2405133",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时05分]"
+        },
+        {
           "title": "鲁比奥祝贺农历新年",
           "url": "https://news.ifeng.com/c/8qozkbdHbJv",
           "source": "凤凰网",
@@ -325,17 +348,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "蔡徐坤音乐节祝大家新年快乐",
-          "url": "https://www.douyin.com/hot/2405133",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "乌克兰无人机部队最高指挥官表示，自新年以来，乌克兰无人机已袭击了俄罗斯境内的九家炼油厂。",
           "url": "https://flash.jin10.com/detail/20260217231220943800",
           "source": "金十数据",
@@ -345,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "丁禹兮cos白龙马贺新年",
+          "url": "https://www.douyin.com/hot/2405226",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         }
       ]
     }

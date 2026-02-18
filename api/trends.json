@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T06:39:48.394577+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-02-19T07:24:19.382155+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时24分]"
         },
         {
           "title": "蔡徐坤音乐节祝大家新年快乐",
@@ -45,19 +45,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时24分]"
         },
         {
           "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
           "url": "https://www.cls.cn/detail/2290994",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时24分]"
         }
       ]
     }

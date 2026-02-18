@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T16:39:06.631618+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-02-18T17:41:07.735211+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 16时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 17时41分]"
         },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 16时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 17时41分]"
         },
         {
           "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 16时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 17时41分]"
         },
         {
           "title": "马年春晚大锁管乐小品又来了",
@@ -86,11 +86,12 @@
             18,
             11,
             27,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 16时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 17时41分]"
         },
         {
           "title": "大张伟谢娜唱阳光彩虹小白马共贺马年",
@@ -229,11 +230,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 17时41分]"
         },
         {
           "title": "特朗普女儿伊万卡中文拜年：新年快乐",

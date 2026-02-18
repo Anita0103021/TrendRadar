@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T19:35:03.466786+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-02-18T20:46:50.568536+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时51分 ~ 19时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时51分 ~ 20时46分]"
         },
         {
           "title": "科技赋能年味浓 马年新春添新潮",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时51分 ~ 19时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时51分 ~ 20时46分]"
         },
         {
           "title": "马年春晚大锁管乐小品又来了",
@@ -192,7 +192,7 @@
     },
     {
       "keyword_group": "新年",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "B站弹幕假?新年快乐被404",
@@ -201,11 +201,12 @@
           "ranks": [
             2,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时49分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[15时49分 ~ 20时46分]"
         },
         {
           "title": "春启新程｜产科医生的除夕夜守望：“这是新年最好的礼物”",
@@ -270,11 +271,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 20时46分]"
         },
         {
           "title": "凤凰传奇唱《拜新年》 爷青回",
@@ -321,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "蔡徐坤音乐节祝大家新年快乐",
+          "url": "https://www.douyin.com/hot/2405133",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "乌克兰无人机部队最高指挥官表示，自新年以来，乌克兰无人机已袭击了俄罗斯境内的九家炼油厂。",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T15:46:05.687763+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-02-19T16:37:09.962838+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 15时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 16时37分]"
         },
         {
           "title": "蔡徐坤音乐节祝大家新年快乐",
@@ -69,11 +70,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 15时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 16时37分]"
         },
         {
           "title": "马年第一波回南天来了",

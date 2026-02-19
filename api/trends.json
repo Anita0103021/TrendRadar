@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T20:48:38.379218+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2026-02-19T22:06:11.139432+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             18,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时56分 ~ 20时48分]"
+          "appearance_count": 26,
+          "time_info": "[00时56分 ~ 22时06分]"
         },
         {
           "title": "中国游客锐减六成，“新年伊始，情况更加严重”",
@@ -34,8 +35,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 20时48分]"
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 22时06分]"
         },
         {
           "title": "蔡徐坤音乐节祝大家新年快乐",

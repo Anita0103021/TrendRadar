@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T03:36:55.309235+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-02-20T04:29:10.026664+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时29分]"
         },
         {
           "title": "B站弹幕假?新年快乐被404",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时29分]"
         }
       ]
     }

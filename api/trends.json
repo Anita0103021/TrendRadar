@@ -1,271 +1,83 @@
 {
-  "generated_at": "2026-02-20T23:33:53.361489+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-02-21T00:31:33.488125+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
           "url": "https://wallstreetcn.com/articles/3765892",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 23时33分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
           "url": "https://www.cls.cn/detail/2291748",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            10,
-            9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时25分 ~ 23时33分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时47分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "2026 央视马年春晚释放了什么信号？",
           "url": "https://www.zhihu.com/question/2006896824414393387",
           "source": "知乎",
           "ranks": [
-            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 23时33分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近33%",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型、机器人、存储逆势大涨，智谱大涨近37%",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
-          "url": "https://flash.jin10.com/detail/20260220114803176800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "港股马年首个交易日：恒生指数开盘跌0.18%，恒生科技指数低开近0.7%。老铺黄金涨近1%，公司将于2月28日进行产品调价。",
-          "url": "https://wallstreetcn.com/livenews/3056841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 14时47分]"
+          "time_info": "00时31分"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
           "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            16,
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时42分 ~ 23时33分]"
-        },
-        {
-          "title": "港股马年有488家公司排队等上市",
-          "url": "https://www.toutiao.com/trending/7608781878870949951/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时42分]"
-        },
-        {
-          "title": "金价大涨难挡马年“淘金热”",
-          "url": "https://www.toutiao.com/trending/7608808696050617907/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
-        },
-        {
-          "title": "港股马年首个交易日收盘，恒指收跌1.10%，科指收跌2.91%。人工智能及机器人概念股全天走强，智谱(02513.HK)日内大涨42.72%，股价最高报725港元，总市值突破3200亿港元，MINIMAX-WP(00100.HK)收涨14.52%。",
-          "url": "https://flash.jin10.com/detail/20260220161008259800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "新年",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "中国游客锐减六成，“新年伊始，情况更加严重”",
-          "url": "https://news.ifeng.com/c/8qsH7KwVAQs",
-          "source": "凤凰网",
+          "title": "我的新年旅行第一站",
+          "url": "https://www.douyin.com/hot/2406531",
+          "source": "抖音",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时25分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "新年红包13元,男友抠到没边",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350800&amp;topic_name=%E6%96%B0%E5%B9%B4%E7%BA%A2%E5%8C%8513%E5%85%83%2C%E7%94%B7%E5%8F%8B%E6%8A%A0%E5%88%B0%E6%B2%A1%E8%BE%B9",
           "source": "贴吧",
           "ranks": [
-            1,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时10分 ~ 23时33分]"
-        },
-        {
-          "title": "我的新年旅行第一站",
-          "url": "https://www.douyin.com/hot/2406531",
-          "source": "抖音",
-          "ranks": [
-            2,
-            5,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 23时33分]"
-        },
-        {
-          "title": "B站弹幕假?新年快乐被404",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350764&amp;topic_name=B%E7%AB%99%E5%BC%B9%E5%B9%95%E5%81%87%3F%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E8%A2%AB404",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 09时25分]"
-        },
-        {
-          "title": "新年就用hello打招呼",
-          "url": "https://www.douyin.com/hot/2406126",
-          "source": "抖音",
-          "ranks": [
-            30,
-            27,
-            22,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 21时57分]"
-        },
-        {
-          "title": "这批年轻人还给长辈、领导、导师发新年祝福吗？不发的大家是怎么过心里那关的？",
-          "url": "https://www.zhihu.com/question/2007828262861107483",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时47分]"
-        },
-        {
-          "title": "新年的时候，有人看书吗？",
-          "url": "https://www.zhihu.com/question/2006885981014474921",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时35分]"
-        },
-        {
-          "title": "加拿大零售销售在新年初有所反弹",
-          "url": "https://flash.jin10.com/detail/20260220220815143800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "TF四代祝你新年发发NOW",
-          "url": "https://www.douyin.com/hot/2406151",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "00时31分"
         }
       ]
     }

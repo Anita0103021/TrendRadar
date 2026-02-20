@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T19:27:45.836866+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-02-20T20:42:59.942138+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -17,8 +17,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时25分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时25分 ~ 20时42分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时42分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时10分 ~ 14时47分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时27分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近33%",
@@ -99,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时42分]"
         },
         {
           "title": "2026 央视马年春晚释放了什么信号？",
@@ -110,8 +110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时42分]"
         },
         {
           "title": "金价大涨难挡马年“淘金热”",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -149,8 +160,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时10分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[12时10分 ~ 20时42分]"
         },
         {
           "title": "中国游客锐减六成，“新年伊始，情况更加严重”",
@@ -184,8 +195,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时42分]"
+        },
+        {
+          "title": "新年就用hello打招呼",
+          "url": "https://www.douyin.com/hot/2406126",
+          "source": "抖音",
+          "ranks": [
+            30,
+            27,
+            22,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 20时42分]"
         },
         {
           "title": "这批年轻人还给长辈、领导、导师发新年祝福吗？不发的大家是怎么过心里那关的？",
@@ -199,20 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时10分 ~ 14时47分]"
-        },
-        {
-          "title": "新年就用hello打招呼",
-          "url": "https://www.douyin.com/hot/2406126",
-          "source": "抖音",
-          "ranks": [
-            30,
-            27,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 19时27分]"
         },
         {
           "title": "新年的时候，有人看书吗？",

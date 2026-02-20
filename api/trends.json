@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T01:33:29.997565+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-21T02:38:02.300669+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "2026 央视马年春晚释放了什么信号？",
@@ -38,19 +38,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
           "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时38分]"
+        },
+        {
+          "title": "放马过来，“申”情款待丨这个马年，和鲁迅“搭伙”看电影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543949",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时33分]"
+          "time_info": "[02时37分 ~ 02时38分]"
         }
       ]
     },
@@ -66,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时38分]"
         },
         {
           "title": "新年红包13元,男友抠到没边",
@@ -78,8 +90,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时38分]"
         }
       ]
     }

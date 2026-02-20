@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T12:10:35.818325+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-02-20T13:50:15.323197+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
@@ -36,20 +36,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "这批年轻人还给长辈、领导、导师发新年祝福吗？不发的大家是怎么过心里那关的？",
           "url": "https://www.zhihu.com/question/2007828262861107483",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
         },
         {
           "title": "新年就用hello打招呼",
@@ -69,24 +70,25 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 13时50分]"
+        },
+        {
           "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
           "url": "https://flash.jin10.com/detail/20260220114803176800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -96,11 +98,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 13时50分]"
         },
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -108,11 +111,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时50分]"
         }
       ]
     }

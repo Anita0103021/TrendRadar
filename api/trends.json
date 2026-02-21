@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T19:18:23.870500+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-02-21T20:34:04.593828+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             6,
             5,
             3,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时37分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[13时37分 ~ 20时34分]"
         },
         {
           "title": "2026 央视马年春晚释放了什么信号？",
@@ -56,11 +57,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 19时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 20时34分]"
         },
         {
           "title": "放马过来，“申”情款待丨这个马年，和鲁迅“搭伙”看电影",
@@ -143,11 +145,12 @@
             12,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 19时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 20时34分]"
         },
         {
           "title": "宝宝抬头巧变磕头喜提爷爷新年红包",

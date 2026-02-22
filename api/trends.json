@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:25:58.167052+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-02-22T18:19:58.646473+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,24 @@
           "ranks": [
             1,
             6,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 18时19分]"
+        },
+        {
+          "title": "马年就放自己一马",
+          "url": "https://www.douyin.com/hot/2408528",
+          "source": "抖音",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "2026 年，有哪些有创意的，带有马年寓意的新春祝福词？",
@@ -42,17 +55,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时47分 ~ 15时32分]"
-        },
-        {
-          "title": "马年就放自己一马",
-          "url": "https://www.douyin.com/hot/2408528",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 17时25分]"
         },
         {
           "title": "蛋仔马年烟花秀夯爆了",
@@ -99,8 +101,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 17时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 18时19分]"
         },
         {
           "title": "新年摇玩具这波真的量产了",

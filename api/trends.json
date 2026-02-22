@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T00:22:51.352108+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-23T01:21:36.143279+08:00",
+  "total_titles_processed": 343,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%A1%8C%E6%83%85%E5%B1%95%E6%9C%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
           "title": "大年初六恰是马年马日",
@@ -43,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
         }
       ]
     }

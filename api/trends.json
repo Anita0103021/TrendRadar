@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T05:19:35.189562+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-23T06:18:24.532407+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             25,
             21,
             16,
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时18分]"
         },
         {
           "title": "大年初六恰是马年马日",
@@ -46,11 +47,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时18分]"
         }
       ]
     }

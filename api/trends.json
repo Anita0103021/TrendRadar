@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T12:12:02.682670+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-02-22T13:47:49.312550+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "ranks": [
             17,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 13时47分]"
         },
         {
           "title": "新年摇玩具这波真的量产了",
@@ -52,7 +53,7 @@
     },
     {
       "keyword_group": "马年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "2026 年，有哪些有创意的，带有马年寓意的新春祝福词？",
+          "url": "https://www.zhihu.com/question/1999601927424585888",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     }

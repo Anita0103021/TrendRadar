@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:19:58.646473+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-02-22T19:17:26.290957+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             1,
             6,
             10,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 19时17分]"
         },
         {
           "title": "马年就放自己一马",
@@ -101,8 +102,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 18时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 19时17分]"
         },
         {
           "title": "新年摇玩具这波真的量产了",

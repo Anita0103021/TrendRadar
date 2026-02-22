@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T03:20:50.453585+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-02-23T04:20:04.451789+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             24,
             25,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "大年初六恰是马年马日",
@@ -43,11 +44,12 @@
           "url": "https://www.douyin.com/hot/2408950",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时20分]"
         }
       ]
     }

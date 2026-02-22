@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T04:20:04.451789+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-02-23T05:19:35.189562+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             24,
             25,
             21,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时19分]"
         },
         {
           "title": "大年初六恰是马年马日",
@@ -48,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时19分]"
         }
       ]
     }

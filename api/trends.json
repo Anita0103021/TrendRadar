@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T16:42:06.047239+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-02-23T17:47:50.169732+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马年行情展望",
@@ -23,11 +23,12 @@
             6,
             10,
             8,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 16时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 17时47分]"
         },
         {
           "title": "微信马年数据报告：广东登顶全国最爱发红包、送蓝包省份",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 12时18分]"
+        },
+        {
+          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
+          "url": "https://www.cls.cn/detail/2292720",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "大年初六恰是马年马日",

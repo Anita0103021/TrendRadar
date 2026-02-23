@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T05:39:13.902456+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-02-24T06:35:45.113134+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时35分]"
         },
         {
           "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
@@ -25,22 +25,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时35分]"
         },
         {
           "title": "马年“马上夺金”、遗憾和差距……佟立新评中国队米兰冬奥征程",
           "url": "https://m.thepaper.cn/newsDetail_forward_32644609",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时35分]"
         },
         {
           "title": "马年行情展望",
@@ -48,11 +50,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时35分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -60,22 +63,35 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 06时35分]"
         },
         {
           "title": "放马过来，“申”情款待丨马年早春的“梅”好，来了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32544074",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 06时35分]"
+        },
+        {
+          "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
+          "url": "https://wallstreetcn.com/livenews/3057682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "微信发布马年春节数据报告",

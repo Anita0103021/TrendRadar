@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T04:39:30.430855+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-02-24T05:39:13.902456+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时39分]"
         },
         {
           "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时39分]"
         },
         {
           "title": "马年“马上夺金”、遗憾和差距……佟立新评中国队米兰冬奥征程",
@@ -39,19 +39,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时39分]"
         },
         {
           "title": "马年行情展望",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%A1%8C%E6%83%85%E5%B1%95%E6%9C%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时39分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -62,8 +63,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 05时39分]"
         },
         {
           "title": "放马过来，“申”情款待丨马年早春的“梅”好，来了",
@@ -73,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时57分 ~ 05时39分]"
         },
         {
           "title": "微信发布马年春节数据报告",

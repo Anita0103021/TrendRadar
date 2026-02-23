@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T20:47:58.829700+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-02-23T22:05:36.950745+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马年行情展望",
@@ -26,11 +26,12 @@
             14,
             11,
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 20时47分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 22时05分]"
         },
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -40,11 +41,12 @@
             9,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[17时47分 ~ 22时05分]"
         },
         {
           "title": "微信马年数据报告：广东登顶全国最爱发红包、送蓝包省份",
@@ -64,11 +66,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 22时05分]"
         },
         {
           "title": "蛋仔马年烟花秀夯爆了",
@@ -81,6 +84,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 12时18分]"
+        },
+        {
+          "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
+          "url": "https://www.cls.cn/detail/2292827",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "大年初六恰是马年马日",

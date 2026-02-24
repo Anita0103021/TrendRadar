@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T17:45:15.581152+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-02-24T18:56:26.489332+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -99,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 17时45分]"
+          "appearance_count": 7,
+          "time_info": "[13时55分 ~ 18时56分]"
         },
         {
           "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
@@ -110,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时56分]"
         },
         {
           "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
@@ -133,8 +133,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时56分]"
         },
         {
           "title": "A股马年首个交易日开门红",
@@ -146,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "马年首单 盛合晶微科创板IPO过会",
+          "url": "https://wallstreetcn.com/livenews/3058052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "五大首席经济学家建言马年资本市场：多维发力筑牢资本市场稳中向好发展根基",
@@ -180,22 +191,24 @@
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4BBA%E8%BD%A6%E4%BB%B7%E5%A4%A7%E9%99%8D+%E5%AE%9D%E9%A9%AC7%E7%B3%BB%E7%BA%A6%E9%99%8D27%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时56分]"
         },
         {
           "title": "新年BBA车价大降",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4BBA%E8%BD%A6%E4%BB%B7%E5%A4%A7%E9%99%8D%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时56分]"
         }
       ]
     }

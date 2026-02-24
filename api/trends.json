@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T22:08:14.289644+08:00",
-  "total_titles_processed": 1881,
+  "generated_at": "2026-02-24T23:54:02.711349+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -20,6 +20,18 @@
           "time_info": "[00时49分 ~ 09时27分]"
         },
         {
+          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
+          "url": "https://wallstreetcn.com/articles/3766024",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时44分 ~ 23时54分]"
+        },
+        {
           "title": "冲刺开门红！马年新春伊始，黄浦江畔他们“马力全开”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32646516",
           "source": "澎湃新闻",
@@ -31,19 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时55分 ~ 22时08分]"
-        },
-        {
-          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
-          "url": "https://wallstreetcn.com/articles/3766024",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时44分 ~ 22时08分]"
+          "appearance_count": 14,
+          "time_info": "[13时55分 ~ 23时54分]"
         },
         {
           "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
@@ -72,6 +73,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时57分 ~ 09时27分]"
+        },
+        {
+          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
+          "url": "https://www.cls.cn/detail/2293678",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时44分 ~ 23时54分]"
         },
         {
           "title": "马年“马上夺金”、遗憾和差距……佟立新评中国队米兰冬奥征程",
@@ -115,28 +129,17 @@
           "time_info": "[00时49分 ~ 12时13分]"
         },
         {
-          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
-          "url": "https://www.cls.cn/detail/2293678",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时44分 ~ 22时08分]"
-        },
-        {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
           "url": "https://www.cls.cn/detail/2293730",
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时36分 ~ 22时08分]"
+          "appearance_count": 7,
+          "time_info": "[19时36分 ~ 23时54分]"
         },
         {
           "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
@@ -158,8 +161,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时07分 ~ 23时54分]"
+        },
+        {
+          "title": "A股马年开门红：4003股收涨，油气股掀涨停潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649321",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[23时53分 ~ 23时54分]"
         },
         {
           "title": "马年春节AI战役全记录",
@@ -231,11 +245,12 @@
             12,
             9,
             14,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时39分 ~ 22时08分]"
+          "appearance_count": 11,
+          "time_info": "[16时39分 ~ 23时54分]"
         },
         {
           "title": "新年BBA车价大降",

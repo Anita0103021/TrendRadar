@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T19:37:05.951406+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-02-24T20:49:24.322509+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时55分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 20时49分]"
+        },
+        {
+          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
+          "url": "https://wallstreetcn.com/articles/3766024",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 20时49分]"
         },
         {
           "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
@@ -104,17 +115,6 @@
           "time_info": "[00时49分 ~ 12时13分]"
         },
         {
-          "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
-          "url": "https://wallstreetcn.com/articles/3766024",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 19时37分]"
-        },
-        {
           "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
           "url": "https://www.cls.cn/detail/2293678",
           "source": "财联社热门",
@@ -123,8 +123,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 20时49分]"
         },
         {
           "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
@@ -146,8 +146,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 20时49分]"
         },
         {
           "title": "马年春节AI战役全记录",
@@ -217,11 +217,12 @@
           "ranks": [
             5,
             12,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 20时49分]"
         },
         {
           "title": "新年BBA车价大降",

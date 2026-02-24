@@ -1,168 +1,66 @@
 {
-  "generated_at": "2026-02-24T23:54:02.711349+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2026-02-25T01:01:20.905514+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
         {
-          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
-          "url": "https://www.cls.cn/detail/2292720",
-          "source": "财联社热门",
+          "title": "冲刺开门红！马年新春伊始，黄浦江畔他们“马力全开”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32646516",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 09时27分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
           "url": "https://wallstreetcn.com/articles/3766024",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时44分 ~ 23时54分]"
-        },
-        {
-          "title": "冲刺开门红！马年新春伊始，黄浦江畔他们“马力全开”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646516",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时55分 ~ 23时54分]"
-        },
-        {
-          "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
-          "url": "https://www.cls.cn/detail/2292827",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 09时27分]"
-        },
-        {
-          "title": "放马过来，“申”情款待丨马年早春的“梅”好，来了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32544074",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时57分 ~ 09时27分]"
-        },
-        {
-          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
-          "url": "https://www.cls.cn/detail/2293678",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时44分 ~ 23时54分]"
-        },
-        {
-          "title": "马年“马上夺金”、遗憾和差距……佟立新评中国队米兰冬奥征程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32644609",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时31分]"
-        },
-        {
-          "title": "马年行情展望",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%A1%8C%E6%83%85%E5%B1%95%E6%9C%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            14,
-            16,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时49分 ~ 17时45分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 12时13分]"
-        },
-        {
-          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
-          "url": "https://www.cls.cn/detail/2293730",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时36分 ~ 23时54分]"
-        },
-        {
-          "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
-          "url": "https://wallstreetcn.com/livenews/3057682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "马年A股开门红",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4A%E8%82%A1%E5%BC%80%E9%97%A8%E7%BA%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时07分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
+          "url": "https://www.cls.cn/detail/2293730",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
+          "url": "https://www.cls.cn/detail/2293678",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "A股马年开门红：4003股收涨，油气股掀涨停潮",
@@ -172,98 +70,25 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "马年春节AI战役全记录",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%8A%82AI%E6%88%98%E5%BD%B9%E5%85%A8%E8%AE%B0%E5%BD%95%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
-        },
-        {
-          "title": "A股马年首个交易日开门红",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%A9%AC%E5%B9%B4%E9%A6%96%E4%B8%AA%E4%BA%A4%E6%98%93%E6%97%A5%E5%BC%80%E9%97%A8%E7%BA%A2",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "马年首单 盛合晶微科创板IPO过会",
-          "url": "https://wallstreetcn.com/livenews/3058052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "五大首席经济学家建言马年资本市场：多维发力筑牢资本市场稳中向好发展根基",
-          "url": "https://wallstreetcn.com/livenews/3057732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "微信发布马年春节数据报告",
-          "url": "https://www.toutiao.com/trending/7609923808895598611/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "新年BBA车价大降 宝马7系约降27万",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4BBA%E8%BD%A6%E4%BB%B7%E5%A4%A7%E9%99%8D+%E5%AE%9D%E9%A9%AC7%E7%B3%BB%E7%BA%A6%E9%99%8D27%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            5,
-            12,
-            9,
-            14,
-            15,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时39分 ~ 23时54分]"
-        },
-        {
-          "title": "新年BBA车价大降",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4BBA%E8%BD%A6%E4%BB%B7%E5%A4%A7%E9%99%8D%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 19时37分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     }

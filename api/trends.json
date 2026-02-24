@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T20:49:24.322509+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2026-02-24T22:08:14.289644+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时55分 ~ 20时49分]"
+          "appearance_count": 12,
+          "time_info": "[13时55分 ~ 22时08分]"
         },
         {
           "title": "马年开门红！沪指放量上涨0.9%，资源股集体爆发，人民币升破6.89，恒科指跌超2%，智谱大涨12%",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 20时49分]"
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 22时08分]"
         },
         {
           "title": "明天A股马年首个交易日，机构解读春节四大变量影响",
@@ -123,8 +123,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 20时49分]"
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 22时08分]"
+        },
+        {
+          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
+          "url": "https://www.cls.cn/detail/2293730",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 22时08分]"
         },
         {
           "title": "科技亮点频出，资金流入格局不改，机构看好A股马年开局行情",
@@ -139,15 +151,15 @@
           "time_info": "[06时35分 ~ 07时31分]"
         },
         {
-          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
-          "url": "https://www.cls.cn/detail/2293730",
-          "source": "财联社热门",
+          "title": "马年A股开门红",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4A%E8%82%A1%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时49分]"
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "马年春节AI战役全记录",
@@ -218,11 +230,12 @@
             5,
             12,
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时39分 ~ 20时49分]"
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 22时08分]"
         },
         {
           "title": "新年BBA车价大降",

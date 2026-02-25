@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T15:54:12.875414+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-02-25T16:41:16.837479+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时01分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 16时41分]"
         },
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -68,8 +68,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 15时54分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 16时41分]"
         },
         {
           "title": "马年A股开门红",
@@ -90,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2294647",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 15时54分]"
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 16时41分]"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
@@ -144,8 +145,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 15时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时41分]"
         },
         {
           "title": "新年BBA车价大降 宝马7系约降27万",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T18:44:33.894063+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-02-25T19:37:18.942450+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时53分 ~ 18时44分]"
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 19时37分]"
         },
         {
           "title": "马年A股开门红",
@@ -145,11 +146,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[12时20分 ~ 19时37分]"
         },
         {
           "title": "新年BBA车价大降 宝马7系约降27万",
@@ -184,7 +186,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         }

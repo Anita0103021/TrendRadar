@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:37:18.942450+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2026-02-25T21:26:40.143133+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "冲刺开门红！马年新春伊始，黄浦江畔他们“马力全开”",
@@ -31,6 +31,22 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[01时01分 ~ 16时41分]"
+        },
+        {
+          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
+          "url": "https://www.cls.cn/detail/2294647",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时53分 ~ 21时26分]"
         },
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -72,21 +88,6 @@
           "time_info": "[07时25分 ~ 17时47分]"
         },
         {
-          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
-          "url": "https://www.cls.cn/detail/2294647",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时53分 ~ 19时37分]"
-        },
-        {
           "title": "马年A股开门红",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4A%E8%82%A1%E5%BC%80%E9%97%A8%E7%BA%A2",
           "source": "bilibili 热搜",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 07时26分]"
+        },
+        {
+          "title": "马年股市四大机会与风险",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%82%A1%E5%B8%82%E5%9B%9B%E5%A4%A7%E6%9C%BA%E4%BC%9A%E4%B8%8E%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
@@ -147,11 +159,12 @@
             5,
             3,
             2,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[12时20分 ~ 21时26分]"
         },
         {
           "title": "新年BBA车价大降 宝马7系约降27万",

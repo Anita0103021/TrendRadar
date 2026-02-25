@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T13:57:49.980080+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-02-25T15:00:04.104019+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 13时57分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 15时00分]"
         },
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -56,6 +57,20 @@
           "time_info": "[01时01分 ~ 07时26分]"
         },
         {
+          "title": "宇树马年开工首日上新！新一代机器狗As2发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649604",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 15时00分]"
+        },
+        {
           "title": "马年A股开门红",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4A%E8%82%A1%E5%BC%80%E9%97%A8%E7%BA%A2",
           "source": "bilibili 热搜",
@@ -68,19 +83,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 07时26分]"
-        },
-        {
-          "title": "宇树马年开工首日上新！新一代机器狗As2发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649604",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 13时57分]"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
@@ -122,6 +124,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "新年 BBA 车价大降，宝马 7 系降价约 27 万，曾经加价提车的 BBA，如今为何要靠「骨折价」抢市场？",
+          "url": "https://www.zhihu.com/question/2009667280913524518",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 15时00分]"
+        },
+        {
           "title": "新年BBA车价大降 宝马7系约降27万",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%B9%B4BBA%E8%BD%A6%E4%BB%B7%E5%A4%A7%E9%99%8D+%E5%AE%9D%E9%A9%AC7%E7%B3%BB%E7%BA%A6%E9%99%8D27%E4%B8%87",
           "source": "百度热搜",
@@ -135,18 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 05时29分]"
-        },
-        {
-          "title": "新年 BBA 车价大降，宝马 7 系降价约 27 万，曾经加价提车的 BBA，如今为何要靠「骨折价」抢市场？",
-          "url": "https://www.zhihu.com/question/2009667280913524518",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时57分]"
         },
         {
           "title": "如何看待BBA新年价格战",

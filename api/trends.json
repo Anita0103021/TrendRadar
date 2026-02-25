@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:00:04.104019+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-02-25T15:54:12.875414+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "冲刺开门红！马年新春伊始，黄浦江畔他们“马力全开”",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时00分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 15时54分]"
         },
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -64,11 +64,12 @@
             19,
             15,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 15时00分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 15时54分]"
         },
         {
           "title": "马年A股开门红",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 07时26分]"
+        },
+        {
+          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
+          "url": "https://www.cls.cn/detail/2294647",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
@@ -132,8 +144,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 15时00分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时54分]"
         },
         {
           "title": "新年BBA车价大降 宝马7系约降27万",

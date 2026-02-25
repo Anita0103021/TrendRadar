@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T09:48:47.644330+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-02-25T12:20:35.598962+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马年",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "冲刺开门红！马年新春伊始，黄浦江畔他们“马力全开”",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 12时20分]"
         },
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -74,11 +75,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时20分]"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
@@ -101,12 +103,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "长剧出现了马年第1匹口碑黑马",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%89%A7%E5%87%BA%E7%8E%B0%E4%BA%86%E9%A9%AC%E5%B9%B4%E7%AC%AC1%E5%8C%B9%E5%8F%A3%E7%A2%91%E9%BB%91%E9%A9%AC&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新年BBA车价大降 宝马7系约降27万",
@@ -124,13 +137,24 @@
           "time_info": "[01时01分 ~ 05时29分]"
         },
         {
+          "title": "新年 BBA 车价大降，宝马 7 系降价约 27 万，曾经加价提车的 BBA，如今为何要靠「骨折价」抢市场？",
+          "url": "https://www.zhihu.com/question/2009667280913524518",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "如何看待BBA新年价格战",
           "url": "https://www.toutiao.com/trending/7610350911081578539/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }

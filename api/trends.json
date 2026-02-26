@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-02-26T19:36:27.351470+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-02-26T20:48:54.001145+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "新年",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "粤港澳大湾区开行新年首趟冷链海铁联运班列",
-          "url": "https://wallstreetcn.com/livenews/3059538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "新年 BBA 车价大降，宝马 7 系降价约 27 万，曾经加价提车的 BBA，如今为何要靠「骨折价」抢市场？",
-          "url": "https://www.zhihu.com/question/2009667280913524518",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时26分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "马年",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马年股市四大机会与风险",
@@ -67,8 +39,48 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时25分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时25分 ~ 20时48分]"
+        },
+        {
+          "title": "小鬼马年开启抽象道路",
+          "url": "https://www.douyin.com/hot/2412690",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新年",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "粤港澳大湾区开行新年首趟冷链海铁联运班列",
+          "url": "https://wallstreetcn.com/livenews/3059538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时48分]"
+        },
+        {
+          "title": "新年 BBA 车价大降，宝马 7 系降价约 27 万，曾经加价提车的 BBA，如今为何要靠「骨折价」抢市场？",
+          "url": "https://www.zhihu.com/question/2009667280913524518",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 07时24分]"
         }
       ]
     }

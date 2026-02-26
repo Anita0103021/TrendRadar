@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T06:27:43.255467+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-02-27T07:24:37.676339+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时24分]"
         },
         {
           "title": "马年就是快啊",
@@ -26,11 +26,12 @@
           "ranks": [
             25,
             26,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 07时24分]"
         }
       ]
     }

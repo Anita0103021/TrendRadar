@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-02-26T07:24:15.952371+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-02-26T09:26:03.795496+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马年",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马年股市四大机会与风险",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%82%A1%E5%B8%82%E5%9B%9B%E5%A4%A7%E6%9C%BA%E4%BC%9A%E4%B8%8E%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            20,
+            24,
+            19,
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[02时01分 ~ 09时26分]"
+        },
+        {
+          "title": "马年就是快啊",
+          "url": "https://www.douyin.com/hot/2411893",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        }
+      ]
+    },
     {
       "keyword_group": "新年",
       "match_count": 1,
@@ -17,28 +51,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时26分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马年股市四大机会与风险",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4%E8%82%A1%E5%B8%82%E5%9B%9B%E5%A4%A7%E6%9C%BA%E4%BC%9A%E4%B8%8E%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            20,
-            24,
-            19,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时01分 ~ 07时24分]"
         }
       ]
     }

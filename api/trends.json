@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-03-01T23:18:49.470431+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-03-02T00:20:56.978770+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "与福鱼合拍我的新年大片",
-          "url": "https://www.douyin.com/hot/2415132",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16,
-            18,
-            14,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时38分 ~ 23时18分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

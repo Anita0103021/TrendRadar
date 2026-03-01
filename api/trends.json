@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T05:17:42.825260+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-03-02T06:18:26.246532+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,25 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 06时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马年首批可转债开启发行，再融资新规或推动市场持续扩容",
+          "url": "https://wallstreetcn.com/livenews/3061302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     }

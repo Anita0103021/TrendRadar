@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-03T09:29:16.777538+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-03-03T12:10:01.838741+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马年闹元宵 来耍“马社火”",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E9%97%B9%E5%85%83%E5%AE%B5+%E6%9D%A5%E8%80%8D%E2%80%9C%E9%A9%AC%E7%A4%BE%E7%81%AB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

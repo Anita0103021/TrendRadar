@@ -1,44 +1,7 @@
 {
-  "generated_at": "2026-03-04T23:34:51.403988+08:00",
-  "total_titles_processed": 2163,
+  "generated_at": "2026-03-05T00:36:26.631129+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马云，新年现身！谈了AI",
-          "url": "https://www.cls.cn/detail/2301784",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时39分 ~ 15时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价马年总台元宵晚会？你最喜欢哪个节目？",
-          "url": "https://www.zhihu.com/question/2012176034104045734",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

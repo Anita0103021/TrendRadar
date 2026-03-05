@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-05T23:45:00.652544+08:00",
-  "total_titles_processed": 2142,
+  "generated_at": "2026-03-06T01:58:13.908875+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鸿海：受农历新年假期工作日减少影响，营收环比下降。",
-          "url": "https://flash.jin10.com/detail/20260305171311814800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-06T15:35:33.654923+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-03-06T16:31:42.136169+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "马年",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马年春节线下实体消费增速反超线上",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%8A%82%E7%BA%BF%E4%B8%8B%E5%AE%9E%E4%BD%93%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E5%8F%8D%E8%B6%85%E7%BA%BF%E4%B8%8A",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

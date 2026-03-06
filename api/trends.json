@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T22:33:50.465563+08:00",
-  "total_titles_processed": 1939,
+  "generated_at": "2026-03-06T23:32:01.802864+08:00",
+  "total_titles_processed": 2032,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             11,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时33分]"
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 23时32分]"
         },
         {
           "title": "马年春节线下实体消费增速反超线上",

@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-07T23:18:17.676349+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-03-08T00:21:04.945715+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "马年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马年首只“万元肉签”！单签最高赚4.5万元，年内新股首日盘点，这些标的战绩较佳",
-          "url": "https://www.cls.cn/detail/2305332",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

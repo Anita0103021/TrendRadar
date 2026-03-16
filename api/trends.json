@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-17T01:07:27.325592+08:00",
-  "total_titles_processed": 391,
-  "failed_sources": [],
+  "generated_at": "2026-03-17T03:01:05.013303+08:00",
+  "total_titles_processed": 471,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

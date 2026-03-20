@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-03-20T22:41:42.348973+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-03-20T23:37:57.531758+08:00",
+  "total_titles_processed": 2092,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "新年",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗最高领袖新年致辞：在民族团结和国家安全的庇护下实现经济韧性",
+          "url": "https://wallstreetcn.com/livenews/3074242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "伊朗最高领袖就伊朗新年发表贺词",
+          "url": "https://flash.jin10.com/detail/20260320230745725800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "伊朗最高领袖发表新年致辞",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴将伊朗新年称为“在国家团结和国家安全的庇护下的经济韧性之年”。",
+          "url": "https://flash.jin10.com/detail/20260320230252535800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

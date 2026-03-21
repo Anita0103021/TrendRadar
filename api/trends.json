@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T09:22:12.921709+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-03-21T12:02:16.524411+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "url": "https://www.toutiao.com/trending/7619222744403787839/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 09时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时21分 ~ 12时02分]"
         },
         {
           "title": "伊朗最高领袖就伊朗新年发表贺词",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T13:09:36.574334+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-03-21T14:35:51.837527+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时09分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时35分]"
         },
         {
           "title": "伊朗最高领袖就伊朗新年发表贺词",

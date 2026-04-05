@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-05T23:26:33.231077+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-04-06T00:29:48.240283+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "《凡人修仙传》新年番定档",
-          "url": "https://www.toutiao.com/trending/7624746581740437546/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

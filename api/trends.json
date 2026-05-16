@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-16T10:15:59.477189+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-05-16T13:49:04.771257+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "凡人新年番动捕花絮",
+          "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
+        },
         {
           "title": "债市做多情绪修复，10年期国债期货刷新年内新高",
           "url": "https://wallstreetcn.com/livenews/3104684",
@@ -14,7 +25,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }

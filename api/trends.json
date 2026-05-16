@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:49:44.912651+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-05-16T21:07:27.455078+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             8,
             15,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 19时49分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 21时07分]"
         },
         {
           "title": "债市做多情绪修复，10年期国债期货刷新年内新高",

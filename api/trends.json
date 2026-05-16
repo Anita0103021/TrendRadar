@@ -1,56 +1,22 @@
 {
-  "generated_at": "2026-05-16T23:53:14.044718+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-05-17T00:52:30.264787+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新年",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "凡人新年番动捕花絮",
           "url": "https://search.bilibili.com/all?keyword=%E5%87%A1%E4%BA%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            8,
-            15,
-            19,
-            24,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时48分 ~ 23时53分]"
-        },
-        {
-          "title": "债市做多情绪修复，10年期国债期货刷新年内新高",
-          "url": "https://wallstreetcn.com/livenews/3104684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【涨价：飞天53%vol 1L贵州茅台酒由2989元/瓶调整为3119元/瓶】i茅台5月16日发布公告，自当天零时起，贵州茅台对部分贵州茅台酒产品自营体系零售价格进行调整。公告显示，调整的产品包括：53%vol 500ml 陈年贵州茅台酒（15）由4199元/瓶调整为4279元/瓶；53%vol 500ml 贵州茅台酒（精品）由2299元/瓶调整为2359元/瓶；53%vol 500ml 贵州茅台酒（丙午马年）珍享版由2499元/瓶调整为2699元/瓶；飞天53%vol 1L贵州茅台酒由2989元/瓶调整为3119元/瓶。",
-          "url": "https://wallstreetcn.com/livenews/3104562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "00时52分"
         }
       ]
     }

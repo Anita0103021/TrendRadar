@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-06-14T23:46:06.938057+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-06-15T01:13:52.619827+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新年",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "《凡人修仙传》动画新年番开播，同时在线观看人数达 78 万，如何看待这一数据？",
-          "url": "https://www.zhihu.com/question/2049089308208918603",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 17时23分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

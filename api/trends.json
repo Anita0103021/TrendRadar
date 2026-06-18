@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-06-18T18:11:11.729815+08:00",
-  "total_titles_processed": 1078,
-  "failed_sources": [],
+  "generated_at": "2026-06-18T22:02:14.056058+08:00",
+  "total_titles_processed": 1257,
+  "failed_sources": [
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
